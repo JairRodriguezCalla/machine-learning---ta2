@@ -1,0 +1,6032 @@
+Exchange,Crypto ID,Cantidad en el Exchange (USD)
+Binance,batcat,3172389593.0
+Binance,bridged-binance-peg-ethereum-opbnb,2954334004.0
+Binance,beam-bridged-usdc-beam,1157090018.0
+Binance,bridged-wrapped-bitcoin-manta-pacific,20915922.0
+Binance,solana,1815563854.0
+Binance,binancecoin,711804507.0
+Binance,binance-peg-dogecoin,615104144.0
+Binance,book-of-meme,213536744.0
+Binance,wrapped-beacon-eth,14248542.0
+Binance,dogwifcoin,206813807.0
+Binance,binance-peg-xrp,324623665.0
+Binance,fetch-ai,74082284.0
+Binance,sui,94636632.0
+Binance,apidae,46452396.0
+Binance,near,117554561.0
+Binance,ordinals,96257625.0
+Binance,worldcoin-wld,123149840.0
+Binance,jupiter,43837625.0
+Binance,fantom,67877185.0
+Binance,arbitrum,71162476.0
+Binance,binance-peg-bitcoin-cash,58597826.0
+Binance,chainlink,63431382.0
+Binance,avalanche-2,100747262.0
+Binance,ada-the-dog,82777226.0
+Binance,omni,300010967.0
+Binance,binance-peg-filecoin,58565029.0
+Binance,bridged-matic-manta-pacific,55567523.0
+Binance,render-token,91168560.0
+Binance,arbitrum-bridged-usdt-arbitrum,7687237.0
+Binance,runebound,104137343.0
+Binance,niccagewaluigielmo42069inu,154774470.0
+Binance,sei-network,38825007.0
+Binance,internet-computer,38746137.0
+Binance,paxos-standard,1682087.0
+Binance,pendle,62302755.0
+Binance,tensor,37368607.0
+Binance,ether-fi,75604452.0
+Binance,meme-brc-20,18853643.0
+Binance,tron,53809738.0
+Binance,singularitynet,25912212.0
+Binance,floki,49225129.0
+Binance,jito-governance-token,32854269.0
+Binance,bridged-trueusd,4042370.0
+Binance,injective-protocol,64111092.0
+Binance,blockstack,33840000.0
+Binance,gala,39682244.0
+Binance,pyth-network,14013074.0
+Binance,ethena,302979256.0
+Binance,yield-guild-games,32049634.0
+Binance,starknet,32391028.0
+Binance,ethereum-classic,33849240.0
+Binance,optimism,40145513.0
+Binance,chiliz,28153080.0
+Binance,binaryx,21544354.0
+Binance,pixels,31822896.0
+Binance,arweave,19827556.0
+Binance,oasis-network,9768938.0
+Binance,binance-peg-polkadot,32054473.0
+Binance,maker,41069497.0
+Binance,nervos-network,30361405.0
+Binance,terra-luna-2,9799556.0
+Binance,cosmos,19844705.0
+Binance,newpepe,244356436.0
+Binance,san-diego-coin,16303853.0
+Binance,unicorn-token,18396802.0
+Binance,arkham,26407465.0
+Binance,binance-peg-eos,11439704.0
+Binance,kava,6564457.0
+Binance,jasmycoin,19537419.0
+Binance,polymesh,29119881.0
+Binance,mantra-dao,29168662.0
+Binance,vechain,21443084.0
+Binance,alitas,33154486.0
+Binance,the-graph,18662184.0
+Binance,mina-protocol,8383452.0
+Binance,conflux-token,19533657.0
+Binance,aave,10243995.0
+Binance,1000sats-ordinals,39618972.0
+Binance,edu-coin,5700629.0
+Binance,celestia,73156294.0
+Binance,gmt-token,25634654.0
+Binance,cryptosaga,51525673.0
+Binance,bridged-curve-dao-token-stargate,9436206.0
+Binance,dydx-chain,16848759.0
+Binance,blur,5920952.0
+Binance,axelar,14616361.0
+Binance,reserve-rights-token,10462220.0
+Binance,osmosis,2191831.0
+Binance,safepal,9206722.0
+Bybit,batcat,2040038309.0
+Bybit,bridged-binance-peg-ethereum-opbnb,1142744483.0
+Bybit,beam-bridged-usdc-beam,158978420.0
+Bybit,solana,301617681.0
+Bybit,binance-peg-xrp,140998516.0
+Bybit,energi-dollar,457367.0
+Bybit,binancecoin,29971437.0
+Bybit,binance-peg-dogecoin,79063482.0
+Bybit,bridged-wrapped-bitcoin-manta-pacific,528262.0
+Bybit,binance-peg-litecoin,15311254.0
+Bybit,ether-fi,16499521.0
+Bybit,arbitrum-bridged-usdt-arbitrum,2280612.0
+Bybit,bridged-dai-stablecoin-linea,649466.0
+Bybit,staked-ether,80489089.0
+Bybit,ondo-finance,79753889.0
+Bybit,mantle,69152024.0
+Bybit,ethena,46978608.0
+Bybit,blockstack,8298058.0
+Bybit,wormhole,4849895.0
+Bybit,sui,33982781.0
+Bybit,starknet,5362468.0
+Bybit,fantom,15018333.0
+Bybit,the-open-network,61226996.0
+Bybit,near,23884464.0
+Bybit,chainlink,14051951.0
+Bybit,algorand,7849761.0
+Bybit,hedera-hashgraph,2929716.0
+Bybit,bridged-matic-manta-pacific,12068362.0
+Bybit,ada-the-dog,16945597.0
+Bybit,avalanche-2,19391529.0
+Bybit,newpepe,25445235.0
+Bybit,celestia,22259117.0
+Bybit,apexit-finance,47912882.0
+Bybit,pyth-network,9183649.0
+Bybit,render-token,15609382.0
+Bybit,tron,6567113.0
+Bybit,fetch-ai,15748797.0
+Bybit,injective-protocol,17002295.0
+Bybit,manta-network,3179644.0
+Bybit,arbitrum,23671400.0
+Bybit,binance-peg-bitcoin-cash,10708049.0
+Bybit,binance-peg-polkadot,11965579.0
+Bybit,binance-peg-eos,7007113.0
+Bybit,niccagewaluigielmo42069inu,10293615.0
+Bybit,internet-computer,9033636.0
+Bybit,cosmos,9209492.0
+Bybit,worldcoin-wld,24051652.0
+Bybit,optimism,10278869.0
+Bybit,apidae,15454565.0
+Bybit,binance-peg-filecoin,9145016.0
+Bybit,parcl,7631793.0
+Bybit,coreai,20358611.0
+Bybit,apeironnft,7738117.0
+Bybit,unicorn-token,5918608.0
+Bybit,stellar,7358175.0
+Bybit,book-of-meme,9040550.0
+Bybit,meme-brc-20,4940851.0
+Bybit,sei-network,7368554.0
+Bybit,heroes-of-mavia,11299488.0
+Bybit,aave,4451780.0
+Bybit,jupiter,9850791.0
+Bybit,gmt-token,4565669.0
+Bybit,ordinals,13088621.0
+Bybit,pendle,8388459.0
+Bybit,ethereum-classic,3349213.0
+Bybit,dymension,1361838.0
+Bybit,mask-network,2723008.0
+Bybit,dydx-chain,5195997.0
+Bybit,bridged-trueusd,9203.87
+Bybit,axelar,2992864.0
+Bybit,runebound,9221480.0
+Bybit,singularitynet,6874489.0
+Bybit,venom,2191896.0
+Bybit,polyhedra-network,4178151.0
+Bybit,ape-2,7266965.0
+Bybit,jito-governance-token,9778129.0
+Bybit,stoicdao,2537071.0
+Bybit,tokenfi,3204419.0
+Bybit,mina-protocol,1746486.0
+Bybit,chiliz,3410809.0
+Bybit,portal-2,900252.0
+Bybit,gala,8421164.0
+Bybit,eesee,1804679.0
+Bybit,nibiru,920138.0
+Bybit,playground-waves-floor-index,12173772.0
+Bybit,immutable-x,2865247.0
+Bybit,theta-token,2433251.0
+Bybit,merlin-starter,8269814.0
+Bybit,scaleswap-token,652855.0
+Bybit,maker,3181896.0
+OKX,batcat,1435586936.0
+OKX,binance-eth,6611552.0
+OKX,bridged-binance-peg-ethereum-opbnb,650575878.0
+OKX,beam-bridged-usdc-beam,24520352.0
+OKX,solana,339388392.0
+OKX,staked-ether,16648804.0
+OKX,binance-peg-dogecoin,132182662.0
+OKX,arbitrum-bridged-usdt-arbitrum,14937766.0
+OKX,bridged-wrapped-bitcoin-manta-pacific,1648741.0
+OKX,binance-peg-litecoin,25181868.0
+OKX,coreai,79092154.0
+OKX,binance-peg-xrp,50634042.0
+OKX,the-open-network,85246166.0
+OKX,sui,53524045.0
+OKX,newpepe,42785859.0
+OKX,binance-peg-bitcoin-cash,14317019.0
+OKX,wormhole,11560304.0
+OKX,binancecoin,23194003.0
+OKX,niccagewaluigielmo42069inu,13736987.0
+OKX,ada-the-dog,9717014.0
+OKX,chiliz,12374931.0
+OKX,bridged-dai-stablecoin-linea,1544556.0
+OKX,okb,14101036.0
+OKX,worldcoin-wld,30898902.0
+OKX,binance-peg-eos,8979060.0
+OKX,tron,6840356.0
+OKX,ordinals,34381767.0
+OKX,apidae,13898558.0
+OKX,avalanche-2,15517099.0
+OKX,binance-peg-filecoin,27773468.0
+OKX,pyth-network,11584322.0
+OKX,bitcoin-cash-sv,7374206.0
+OKX,ether-fi,13389425.0
+OKX,bridged-matic-manta-pacific,6561851.0
+OKX,celestia,17550343.0
+OKX,optimism,8745912.0
+OKX,binance-peg-polkadot,6632038.0
+OKX,tether-gold,885106.0
+OKX,near,16440869.0
+OKX,arbitrum,12746300.0
+OKX,polyhedra-network,7466535.0
+OKX,unicorn-token,5913098.0
+OKX,chainlink,5036179.0
+OKX,jupiter,11523889.0
+OKX,ethereum-classic,9800581.0
+OKX,starknet,14560704.0
+OKX,render-token,9941961.0
+OKX,everid,5064783.0
+OKX,internet-computer,6555146.0
+OKX,cat-in-a-dogs-world,23499902.0
+OKX,blockstack,8348294.0
+OKX,stoicdao,5103629.0
+OKX,neo,8642485.0
+OKX,ssv-network,4652804.0
+OKX,fantom,10249961.0
+OKX,mantra-dao,4681452.0
+OKX,floki,4080148.0
+OKX,jito-governance-token,7420148.0
+OKX,singularitynet,4899693.0
+OKX,president-ron-desantis,1960818.0
+OKX,meme-brc-20,3227470.0
+OKX,dogwifcoin,3968347.0
+OKX,injective-protocol,6707027.0
+OKX,cosmos,3122004.0
+OKX,blur,4904310.0
+OKX,maker,3680088.0
+OKX,conflux-token,8713226.0
+OKX,mask-network,2218287.0
+OKX,velo,21573387.0
+OKX,bridged-curve-dao-token-stargate,4938395.0
+OKX,luna-wormhole,951744.0
+OKX,tensor,13748078.0
+OKX,hedera-hashgraph,1490411.0
+OKX,celo,2944140.0
+OKX,big-time,6250606.0
+OKX,biconomy,2561982.0
+OKX,yield-guild-games,10844740.0
+OKX,fetch-ai,4504211.0
+OKX,gala,6788445.0
+OKX,ethereum-name-service,2955066.0
+OKX,aave,2864621.0
+OKX,1inch,2093513.0
+OKX,lido-dao,2459002.0
+Coinbase Exchange,batcat,1450940825.0
+Coinbase Exchange,bridged-binance-peg-ethereum-opbnb,406426162.0
+Coinbase Exchange,solana,228991672.0
+Coinbase Exchange,binance-peg-dogecoin,86738163.0
+Coinbase Exchange,bridged-wrapped-bitcoin-manta-pacific,683903.0
+Coinbase Exchange,binance-peg-litecoin,16456391.0
+Coinbase Exchange,binance-peg-xrp,37060729.0
+Coinbase Exchange,beam-bridged-usdc-beam,14263593.0
+Coinbase Exchange,ondo-finance,52674910.0
+Coinbase Exchange,paypal-usd,208980.0
+Coinbase Exchange,niccagewaluigielmo42069inu,44696932.0
+Coinbase Exchange,stellar,7391319.0
+Coinbase Exchange,bridged-matic-manta-pacific,6571019.0
+Coinbase Exchange,coinbase-wrapped-staked-eth,2934395.0
+Coinbase Exchange,bridged-dai-stablecoin-linea,1377851.0
+Coinbase Exchange,fetch-ai,30218637.0
+Coinbase Exchange,avalanche-2,39935532.0
+Coinbase Exchange,ada-the-dog,10656125.0
+Coinbase Exchange,chainlink,14672006.0
+Coinbase Exchange,arbitrum-bridged-usdt-arbitrum,10467095.0
+Coinbase Exchange,binance-peg-bitcoin-cash,14237075.0
+Coinbase Exchange,render-token,33260843.0
+Coinbase Exchange,celestia,8772445.0
+Coinbase Exchange,injective-protocol,35887122.0
+Coinbase Exchange,unicorn-token,3231821.0
+Coinbase Exchange,jito-governance-token,10221262.0
+Coinbase Exchange,sui,17403928.0
+Coinbase Exchange,internet-computer,10117247.0
+Coinbase Exchange,blockstack,18571203.0
+Coinbase Exchange,aave,2423053.0
+Coinbase Exchange,near,22140938.0
+Coinbase Exchange,optimism,19742425.0
+Coinbase Exchange,arbitrum,6865565.0
+Coinbase Exchange,ethereum-classic,1931270.0
+Coinbase Exchange,bonk,10066103.0
+Coinbase Exchange,hedera-hashgraph,4074983.0
+Coinbase Exchange,sei-network,8795978.0
+Coinbase Exchange,alchemy-pay,2884670.0
+Coinbase Exchange,binance-peg-filecoin,7419487.0
+Coinbase Exchange,binance-peg-polkadot,7590486.0
+Coinbase Exchange,maker,5876303.0
+Coinbase Exchange,apidae,8399295.0
+Coinbase Exchange,axelar,1729455.0
+Coinbase Exchange,havven,2931410.0
+Coinbase Exchange,gemini-dollar,223926.0
+Coinbase Exchange,boba,486596.0
+Coinbase Exchange,cosmos,1814425.0
+Coinbase Exchange,arkham,962334.0
+Coinbase Exchange,stoicdao,1614542.0
+Coinbase Exchange,ocean-protocol,4370894.0
+Coinbase Exchange,jasmycoin,10184147.0
+Coinbase Exchange,vechain,2365223.0
+Coinbase Exchange,the-graph,4202295.0
+Coinbase Exchange,skale,17615209.0
+Coinbase Exchange,decentraland,898969.0
+Coinbase Exchange,algorand,1702006.0
+Coinbase Exchange,echelon-prime,3289638.0
+Coinbase Exchange,osmosis,309637.0
+Coinbase Exchange,suku,19154692.0
+Coinbase Exchange,binance-peg-eos,1250031.0
+Coinbase Exchange,tezos,1024151.0
+Coinbase Exchange,ankr,913374.0
+Coinbase Exchange,truebit-protocol,2424839.0
+Coinbase Exchange,blur,1005651.0
+Coinbase Exchange,immutable-x,2075394.0
+Coinbase Exchange,sushi,1639509.0
+Coinbase Exchange,lido-dao,3050463.0
+Coinbase Exchange,superciety,2772528.0
+Coinbase Exchange,loopring,1540461.0
+Coinbase Exchange,quant-network,1919094.0
+Coinbase Exchange,0x,1186949.0
+Bitget,batcat,852519738.0
+Bitget,beam-bridged-usdc-beam,24273017.0
+Bitget,bridged-binance-peg-ethereum-opbnb,581935143.0
+Bitget,solana,301542907.0
+Bitget,binance-peg-dogecoin,131546038.0
+Bitget,niccagewaluigielmo42069inu,36521514.0
+Bitget,binance-peg-xrp,97110692.0
+Bitget,binance-peg-litecoin,16557116.0
+Bitget,arbitrum-bridged-usdt-arbitrum,4073347.0
+Bitget,binancecoin,957314.0
+Bitget,ethereum-classic,4103364.0
+Bitget,arbitrum,24819107.0
+Bitget,binance-peg-filecoin,5396018.0
+Bitget,ada-the-dog,14379206.0
+Bitget,near,33607360.0
+Bitget,avalanche-2,17443592.0
+Bitget,bridged-matic-manta-pacific,12395873.0
+Bitget,tron,6129319.0
+Bitget,mask-network,358740.0
+Bitget,starknet,8569967.0
+Bitget,liquity,1698537.0
+Bitget,binance-peg-bitcoin-cash,8209099.0
+Bitget,pax-gold,60660.0
+Bitget,binance-peg-eos,1529057.0
+Bitget,chainlink,10145334.0
+Bitget,sui,4480946.0
+Bitget,worldcoin-wld,18701149.0
+Bitget,optimism,11329367.0
+Bitget,bitget-token,55455588.0
+Bitget,apidae,3738219.0
+Bitget,energi-dollar,572924.0
+Bitget,usdv-2,184221.0
+Bitget,dydx-chain,618490.0
+Bitget,binance-peg-polkadot,2945307.0
+Bitget,bridged-dai-stablecoin-linea,677020.0
+Bitget,cosmos,3690136.0
+Bitget,bittensor,2802066.0
+Bitget,gala,5093494.0
+Bitget,render-token,7758064.0
+Bitget,havven,323907.0
+Bitget,celestia,6635426.0
+Bitget,fetch-ai,10662549.0
+Bitget,singularitynet,5438897.0
+Bitget,coreai,24525536.0
+Bitget,dogwifcoin,32005935.0
+Bitget,blur,2516836.0
+Bitget,sei-network,5095871.0
+Bitget,newpepe,47144320.0
+Bitget,unicorn-token,402755.0
+Bitget,blockstack,3601661.0
+Bitget,internet-computer,2348485.0
+Bitget,arpa,617160.0
+Bitget,runebound,6733768.0
+Bitget,the-graph,528858.0
+Bitget,conflux-token,2654845.0
+Bitget,jasmycoin,5485459.0
+Bitget,fantom,4133160.0
+Bitget,ondo-finance,57881538.0
+Bitget,yield-guild-games,1452316.0
+Bitget,injective-protocol,4780371.0
+Bitget,neo,6906526.0
+Bitget,pyth-network,477545.0
+Bitget,astar,213953.0
+Bitget,floki,14793321.0
+Bitget,alchemy-pay,1216543.0
+Bitget,biconomy,379599.0
+Bitget,pixels,1671616.0
+Bitget,stellar,4177957.0
+Bitget,san-diego-coin,432121.0
+Bitget,qtum,264902.0
+Bitget,chiliz,1573265.0
+Bitget,kaspa,2398846.0
+Bitget,pancakeswap-token,151794.0
+Bitget,maker,498717.0
+Bitget,phoenix-global,1128250.0
+Bitget,sushi,222256.0
+Bitget,polymesh,770494.0
+Bitget,bitcoin-cash-sv,2568982.0
+Bitget,playground-waves-floor-index,2879134.0
+Bitget,quant-network,281543.0
+Bitget,api3,153631.0
+Bitget,ethereum-name-service,1326268.0
+Bitget,lido-dao,530487.0
+Bitget,ssv-network,221478.0
+Bitget,arweave,3094361.0
+Bitget,magic,917480.0
+Bitget,binance-peg-iotex,1013450.0
+Bitget,coin98,222278.0
+Bitget,decentraland,328997.0
+Bitget,aave,1535192.0
+Bitget,oasis-network,912047.0
+Bitget,swipe,88002.0
+Bitget,harmony,711265.0
+HTX,bridged-binance-peg-ethereum-opbnb,82828472.0
+HTX,batcat,111773192.0
+HTX,solana,95787993.0
+HTX,beam-bridged-usdc-beam,2955077.0
+HTX,binance-peg-dogecoin,63256503.0
+HTX,coreai,24319697.0
+HTX,tron,11670443.0
+HTX,slerf,23023396.0
+HTX,cryptosaga,50395214.0
+HTX,bridged-dai-stablecoin-linea,8771729.0
+HTX,ada-the-dog,24582973.0
+HTX,binance-peg-xrp,26559278.0
+HTX,newpepe,37194222.0
+HTX,ethena,78824110.0
+HTX,tensor,39750163.0
+HTX,book-of-meme,37583367.0
+HTX,bridged-matic-manta-pacific,16151475.0
+HTX,wormhole,32330437.0
+HTX,binance-peg-litecoin,23493405.0
+HTX,ethereum-classic,22269686.0
+HTX,arbitrum,15155295.0
+HTX,binance-peg-filecoin,19719718.0
+HTX,binance-peg-polkadot,19872807.0
+HTX,ordinals,31772029.0
+HTX,avalanche-2,20137948.0
+HTX,niccagewaluigielmo42069inu,6028190.0
+HTX,apidae,22237763.0
+HTX,tether-gold,7543009.0
+HTX,runebound,15074123.0
+HTX,binancecoin,20686685.0
+HTX,chainlink,21244052.0
+HTX,dusk-network,8054687.0
+HTX,singularitynet,15722266.0
+HTX,cosmos,10869858.0
+HTX,sei-network,5988009.0
+HTX,starknet,19884043.0
+HTX,worldcoin-wld,21456450.0
+HTX,floki,22476077.0
+HTX,sui,21544417.0
+HTX,binance-peg-bitcoin-cash,21356152.0
+HTX,stellar,2017377.0
+HTX,pendle,8203200.0
+HTX,jupiter,22074660.0
+HTX,unicorn-token,16356537.0
+HTX,the-open-network,9844018.0
+HTX,optimism,18096885.0
+HTX,nervos-network,14788560.0
+HTX,binance-peg-eos,11934263.0
+HTX,ether-fi,28053908.0
+HTX,gala,15834510.0
+HTX,aave,4745782.0
+HTX,yield-guild-games,6499453.0
+HTX,constitutiondao,9433337.0
+HTX,aevo-exchange,16069913.0
+HTX,ondo-finance,10212357.0
+HTX,magic,3462366.0
+HTX,flow,13576314.0
+HTX,1inch,6042928.0
+HTX,internet-computer,1028984.0
+HTX,compound-governance-token,3437742.0
+HTX,dogwifcoin,22679945.0
+HTX,polymesh,1565675.0
+HTX,skale,11126195.0
+HTX,aelf,2571165.0
+HTX,near,6820956.0
+HTX,reef,8028957.0
+HTX,fetch-ai,11173857.0
+HTX,meme-brc-20,4929818.0
+HTX,creditcoin-2,5483435.0
+HTX,dydx-chain,6033288.0
+HTX,hedera-hashgraph,2066966.0
+HTX,ankr,311182.0
+HTX,theta-token,3007708.0
+HTX,terra-luna-2,6543234.0
+HTX,ethereum-pow-iou,311190.0
+HTX,bitcoin-cash-sv,3544352.0
+HTX,kava,297318.0
+HTX,lido-dao,3704389.0
+HTX,aicoin-2,5853637.0
+HTX,san-diego-coin,7413193.0
+HTX,bridged-curve-dao-token-stargate,5839073.0
+HTX,ocean-protocol,4384507.0
+HTX,chia,15716900.0
+HTX,omni,2838519.0
+HTX,stoicdao,10299943.0
+HTX,axie-infinity,5839103.0
+HTX,cross-chain-degen-dao,10136810.0
+HTX,maker,4141132.0
+HTX,clevernode,6633720.0
+HTX,mask-network,3578578.0
+HTX,fantom,5312072.0
+HTX,the-graph,3538401.0
+HTX,kusama,2658026.0
+HTX,pixels,10856968.0
+HTX,statter-network,5179401.0
+HTX,badger-dao,1054057.0
+HTX,xpla,96717.0
+Gate.io,batcat,654401849.0
+Gate.io,bridged-binance-peg-ethereum-opbnb,464106536.0
+Gate.io,binance-peg-xrp,21192546.0
+Gate.io,binance-peg-litecoin,7116411.0
+Gate.io,ethena,72777075.0
+Gate.io,solana,72534948.0
+Gate.io,niccagewaluigielmo42069inu,16431694.0
+Gate.io,sui,20933439.0
+Gate.io,binancecoin,14632933.0
+Gate.io,binance-peg-dogecoin,52346399.0
+Gate.io,binance-peg-bitcoin-cash,17630719.0
+Gate.io,ethereum-classic,9966143.0
+Gate.io,arbitrum,9225607.0
+Gate.io,binance-peg-filecoin,16182671.0
+Gate.io,fantom,12296258.0
+Gate.io,worldcoin-wld,15176125.0
+Gate.io,singularitynet,20719900.0
+Gate.io,avalanche-2,8946041.0
+Gate.io,apidae,8706925.0
+Gate.io,newpepe,26875063.0
+Gate.io,chainlink,5462384.0
+Gate.io,internet-computer,24714895.0
+Gate.io,render-token,14137255.0
+Gate.io,jito-governance-token,6515620.0
+Gate.io,hedera-hashgraph,4176050.0
+Gate.io,optimism,5656263.0
+Gate.io,dogwifcoin,37583721.0
+Gate.io,book-of-meme,36432914.0
+Gate.io,ada-the-dog,5457661.0
+Gate.io,blockstack,20293137.0
+Gate.io,binance-peg-polkadot,4863770.0
+Gate.io,ordinals,21637541.0
+Gate.io,injective-protocol,11515365.0
+Gate.io,fetch-ai,10958502.0
+Gate.io,aave,1650267.0
+Gate.io,near,39257734.0
+Gate.io,ssv-network,3138367.0
+Gate.io,celestia,10486407.0
+Gate.io,yield-guild-games,6504725.0
+Gate.io,binance-peg-eos,5384970.0
+Gate.io,wormhole,7771152.0
+Gate.io,unicorn-token,3528020.0
+Gate.io,the-open-network,29572719.0
+Gate.io,chiliz,6523555.0
+Gate.io,flow,2940794.0
+Gate.io,floki,13859142.0
+Gate.io,conflux-token,10491657.0
+Gate.io,zeebu,34068886.0
+Gate.io,gala,6360101.0
+Gate.io,algorand,4402586.0
+Gate.io,tron,2061532.0
+Gate.io,blur,3050538.0
+Gate.io,bridged-matic-manta-pacific,6054355.0
+Gate.io,pyth-network,4223014.0
+Gate.io,ether-fi,8631667.0
+Gate.io,ondo-finance,99131550.0
+Gate.io,theta-token,3507375.0
+Gate.io,meme-brc-20,3156176.0
+Gate.io,arweave,4291156.0
+Gate.io,cryptosaga,8522166.0
+Gate.io,jupiter,13157259.0
+Gate.io,slerf,54728500.0
+Gate.io,astar,5764665.0
+Gate.io,cosmos,1522455.0
+Gate.io,tensor,15417288.0
+Gate.io,san-diego-coin,2054002.0
+Gate.io,polyhedra-network,7336325.0
+Gate.io,sei-network,4948650.0
+Gate.io,bonk,4052957.0
+Gate.io,terra-luna-2,2620873.0
+Gate.io,starknet,3430347.0
+Gate.io,liquity,3469339.0
+Gate.io,dydx-chain,2963860.0
+Gate.io,pixels,3450713.0
+Gate.io,stoicdao,6540251.0
+Gate.io,jasmycoin,11248608.0
+Gate.io,pendle,6476282.0
+Gate.io,aevo-exchange,3473118.0
+Gate.io,stellar,3458595.0
+Gate.io,havven,3508429.0
+Gate.io,everid,7972775.0
+Gate.io,neo,1463918.0
+Gate.io,polymesh,4976699.0
+Gate.io,bitcoin-cash-sv,3242749.0
+Gate.io,coreai,17720368.0
+Gate.io,cat-in-a-dogs-world,72088234.0
+Gate.io,nervos-network,6318831.0
+Gate.io,truebit-protocol,7128502.0
+Gate.io,kaspa,23804888.0
+Gate.io,skale,484218.0
+Gate.io,1inch,444491.0
+Gate.io,mantra-dao,5118609.0
+Gate.io,casper-network,2820770.0
+Gate.io,ocean-protocol,6020201.0
+Gate.io,ape-2,2255841.0
+Gate.io,grok-3,1680551.0
+Gate.io,playground-waves-floor-index,5453514.0
+Gate.io,dymension,1019037.0
+Gate.io,arkham,11018214.0
+Gate.io,axie-infinity,1657153.0
+Kraken,batcat,345015651.0
+Kraken,bridged-binance-peg-ethereum-opbnb,101137417.0
+Kraken,beam-bridged-usdc-beam,65452077.0
+Kraken,solana,112742909.0
+Kraken,binance-peg-dogecoin,26847106.0
+Kraken,chainlink,2664872.0
+Kraken,binance-peg-litecoin,3552255.0
+Kraken,binance-peg-xrp,12331874.0
+Kraken,bridged-dai-stablecoin-linea,568967.0
+Kraken,arbitrum-bridged-usdt-arbitrum,8844495.0
+Kraken,bridged-wrapped-bitcoin-manta-pacific,670577.0
+Kraken,binance-peg-polkadot,3272968.0
+Kraken,near,5636790.0
+Kraken,ada-the-dog,6458936.0
+Kraken,tron,1268706.0
+Kraken,celestia,5291786.0
+Kraken,cosmos,768613.0
+Kraken,stellar,441532.0
+Kraken,internet-computer,3973293.0
+Kraken,unicorn-token,1267829.0
+Kraken,fetch-ai,8182297.0
+Kraken,ocean-protocol,1699963.0
+Kraken,avalanche-2,3872947.0
+Kraken,arbitrum,700862.0
+Kraken,paypal-usd,441636.0
+Kraken,binance-peg-bitcoin-cash,2028224.0
+Kraken,monero,3987028.0
+Kraken,binance-peg-filecoin,2829815.0
+Kraken,newpepe,2837242.0
+Kraken,bridged-matic-manta-pacific,1703449.0
+Kraken,algorand,326542.0
+Kraken,render-token,2988472.0
+Kraken,basic-attention-token,51870.0
+Kraken,niccagewaluigielmo42069inu,1567007.0
+Kraken,binance-peg-eos,139379.0
+Kraken,compound-governance-token,44903.0
+Kraken,fantom,2033694.0
+Kraken,ethereum-classic,227505.0
+Kraken,kava,162580.0
+Kraken,decentraland,109619.0
+Kraken,injective-protocol,401978.0
+Kraken,wrapped-axelar,50832.0
+Kraken,the-graph,720937.0
+Crypto.com Exchange,batcat,621055016.0
+Crypto.com Exchange,bridged-binance-peg-ethereum-opbnb,600694160.0
+Crypto.com Exchange,arbitrum-bridged-usdt-arbitrum,2653248.0
+Crypto.com Exchange,niccagewaluigielmo42069inu,2065857.0
+Crypto.com Exchange,binance-peg-xrp,9838232.0
+Crypto.com Exchange,avalanche-2,3339791.0
+Crypto.com Exchange,ada-the-dog,4082647.0
+Crypto.com Exchange,solana,23374760.0
+Crypto.com Exchange,binance-peg-litecoin,1633943.0
+Crypto.com Exchange,chainlink,1590842.0
+Crypto.com Exchange,aave,1258479.0
+Crypto.com Exchange,binance-peg-bitcoin-cash,842646.0
+Crypto.com Exchange,binance-peg-dogecoin,8195745.0
+Crypto.com Exchange,arbitrum,487608.0
+Crypto.com Exchange,binance-peg-polkadot,1019251.0
+Crypto.com Exchange,stellar,715823.0
+Crypto.com Exchange,fantom,936976.0
+Crypto.com Exchange,optimism,169479.0
+Crypto.com Exchange,bridged-matic-manta-pacific,1303010.0
+Crypto.com Exchange,gala,1446439.0
+Crypto.com Exchange,near,824285.0
+Crypto.com Exchange,cosmos,913801.0
+Crypto.com Exchange,paypal-usd,427176.0
+Crypto.com Exchange,vechain,246532.0
+Crypto.com Exchange,binance-peg-filecoin,136706.0
+Crypto.com Exchange,san-diego-coin,252187.0
+Crypto.com Exchange,ape-2,120247.0
+Crypto.com Exchange,sui,1002070.0
+Crypto.com Exchange,bridged-wrapped-bitcoin-manta-pacific,70326.0
+Crypto.com Exchange,velo,139977.0
+Crypto.com Exchange,the-graph,244040.0
+Crypto.com Exchange,unicorn-token,167164.0
+Crypto.com Exchange,decentraland,60051.0
+Crypto.com Exchange,internet-computer,669401.0
+Crypto.com Exchange,blockstack,241979.0
+Crypto.com Exchange,runebound,163919.0
+Crypto.com Exchange,yearn-finance,8625.36
+Crypto.com Exchange,newpepe,571698.0
+Crypto.com Exchange,apidae,133873.0
+Crypto.com Exchange,pax-gold,84088.0
+Crypto.com Exchange,axie-infinity,37520.0
+Crypto.com Exchange,dydx-chain,11718.17
+Crypto.com Exchange,worldcoin-wld,353527.0
+Crypto.com Exchange,crob-mob,145339.0
+Crypto.com Exchange,theta-token,86211.0
+Crypto.com Exchange,hedera-hashgraph,481004.0
+Crypto.com Exchange,jasmycoin,618275.0
+Crypto.com Exchange,wormhole,265847.0
+Crypto.com Exchange,lido-dao,35132.0
+Crypto.com Exchange,algorand,81375.0
+Crypto.com Exchange,binance-peg-eos,83774.0
+Crypto.com Exchange,book-of-meme,393566.0
+Crypto.com Exchange,fetch-ai,6142375.0
+KuCoin,batcat,311538881.0
+KuCoin,bridged-binance-peg-ethereum-opbnb,162146665.0
+KuCoin,solana,57157872.0
+KuCoin,beam-bridged-usdc-beam,5357751.0
+KuCoin,binance-peg-xrp,15292052.0
+KuCoin,arbitrum-bridged-usdt-arbitrum,3276069.0
+KuCoin,near,14669550.0
+KuCoin,bridged-matic-manta-pacific,2538683.0
+KuCoin,binance-peg-dogecoin,16286411.0
+KuCoin,binancecoin,5760207.0
+KuCoin,niccagewaluigielmo42069inu,4951292.0
+KuCoin,binance-peg-litecoin,3431118.0
+KuCoin,internet-computer,10813655.0
+KuCoin,mask-network,3157052.0
+KuCoin,avalanche-2,12389356.0
+KuCoin,starknet,580500.0
+KuCoin,saitachain-coin-2,16795.16
+KuCoin,ethena,8635017.0
+KuCoin,ada-the-dog,3903460.0
+KuCoin,fantom,6243833.0
+KuCoin,chainlink,2929974.0
+KuCoin,tron,1689283.0
+KuCoin,ondo-finance,16528165.0
+KuCoin,arbitrum,1738727.0
+KuCoin,sei-network,1337219.0
+KuCoin,fetch-ai,4777363.0
+KuCoin,dogwifcoin,8230865.0
+KuCoin,sui,5032162.0
+KuCoin,unicorn-token,1346866.0
+KuCoin,runebound,1873965.0
+KuCoin,terra-luna-2,472174.0
+KuCoin,route,547723.0
+KuCoin,render-token,3689361.0
+KuCoin,binance-peg-filecoin,1782286.0
+KuCoin,newpepe,4186512.0
+KuCoin,floki,1403418.0
+KuCoin,binance-peg-bitcoin-cash,2564745.0
+KuCoin,pyth-network,450072.0
+KuCoin,binance-peg-polkadot,1750626.0
+KuCoin,injective-protocol,7863492.0
+KuCoin,wormhole,1011477.0
+KuCoin,cosmos,1566597.0
+KuCoin,apidae,1208221.0
+KuCoin,theta-token,654196.0
+KuCoin,the-open-network,13920249.0
+KuCoin,blockstack,1416018.0
+KuCoin,worldcoin-wld,1751392.0
+KuCoin,conflux-token,2025181.0
+KuCoin,gaimin,230898.0
+KuCoin,stellar,493991.0
+KuCoin,origin-dollar,35522.0
+KuCoin,kaspa,3906602.0
+KuCoin,polyhedra-network,1983278.0
+KuCoin,ordinals,1857329.0
+KuCoin,ether-fi,806306.0
+KuCoin,singularitynet,2471072.0
+KuCoin,chiliz,440104.0
+KuCoin,the-graph,830246.0
+KuCoin,boba,997241.0
+KuCoin,vechain,1412828.0
+KuCoin,heroes-of-mavia,3451650.0
+KuCoin,astar,772749.0
+KuCoin,tensor,2136705.0
+KuCoin,ethereum-classic,614287.0
+KuCoin,bonk,383554.0
+KuCoin,dymension,480900.0
+KuCoin,book-of-meme,4035769.0
+KuCoin,decentraland,133459.0
+KuCoin,alexgo,164408.0
+KuCoin,omni,3486350.0
+KuCoin,jito-governance-token,430536.0
+KuCoin,iota,181745.0
+KuCoin,celestia,3132418.0
+KuCoin,monero,7402691.0
+KuCoin,velo,5163500.0
+KuCoin,jasmycoin,2149467.0
+KuCoin,jupiter,984457.0
+KuCoin,blur,133048.0
+KuCoin,san-diego-coin,383480.0
+KuCoin,binance-peg-eos,1195892.0
+KuCoin,aave,765446.0
+KuCoin,hedera-hashgraph,767610.0
+KuCoin,nervos-network,885673.0
+KuCoin,dydx-chain,337810.0
+KuCoin,luna-wormhole,538994.0
+KuCoin,bittensor,4631514.0
+KuCoin,venom,134922.0
+KuCoin,algorand,1459793.0
+KuCoin,axie-infinity,306206.0
+KuCoin,ravencoin,130234.0
+KuCoin,neo,1004562.0
+KuCoin,immutable-x,316994.0
+Binance US,batcat,9127099.0
+Binance US,beam-bridged-usdc-beam,308552.0
+Binance US,bridged-binance-peg-ethereum-opbnb,1019393.0
+Binance US,niccagewaluigielmo42069inu,1040425.0
+Binance US,binance-peg-xrp,85622.0
+Binance US,solana,2903625.87
+Binance US,binancecoin,598681.0
+Binance US,binance-peg-dogecoin,636893.0
+Binance US,fantom,138755.0
+Binance US,fetch-ai,304114.0
+Binance US,san-diego-coin,20733.0
+Binance US,binance-peg-polkadot,72051.0
+Binance US,chainlink,58391.0
+Binance US,hedera-hashgraph,23344.0
+Binance US,ada-the-dog,176505.54
+Binance US,avalanche-2,276270.0
+Binance US,floki,271822.0
+Binance US,optimism,7603.33
+Binance US,bridged-matic-manta-pacific,51208.0
+Binance US,binance-peg-eos,3444.01
+Binance US,binance-peg-litecoin,91153.88
+Binance US,cosmos,47514.0
+Binance US,binance-peg-bitcoin-cash,53643.0
+Binance US,near,90568.0
+Binance US,stellar,37360.0
+Binance US,vechain,73655.0
+Binance US,gala,106250.0
+Binance US,theta-token,63696.0
+Binance US,render-token,78380.0
+Binance US,boson-protocol,7883.74
+Binance US,ravencoin,46218.0
+Binance US,harmony,72807.0
+Binance US,algorand,19751.99
+Binance US,neo,19180.37
+Binance US,binance-peg-filecoin,36195.0
+Binance US,icon,17119.26
+Binance US,polymesh,29365.0
+Binance US,zencash,4135.94
+Binance US,elrond-erd-2,7624.41
+Binance US,zilliqa,9549.06
+Binance US,ape-2,572.83
+Binance US,the-graph,20827.0
+Binance US,0x,4316.72
+Binance US,mxc,951.84
+Binance US,vethor-token,28075.0
+Binance US,wax,28449.0
+Binance US,apidae,6487.55
+Binance US,band-protocol,1689.23
+Binance US,tezos,5195.47
+Binance US,oasis-network,7432.16
+Binance US,basic-attention-token,6844.13
+Binance US,quant-network,8587.8
+Binance US,maker,18064.17
+Binance US,binance-peg-ontology,4791.7
+Binance US,ankr,3588.73
+Binance US,yearn-finance,13317.18
+Binance US,chiliz,4224.31
+Binance US,aave,20639.0
+Binance US,kyber-network-crystal,1315.14
+Binance US,digibyte,5704.18
+Binance US,braintrust,22683.0
+Binance US,lisk,1483.04
+Binance US,flux,15808.51
+Binance US,iota,7377.42
+Binance US,1inch,2462.7
+Binance US,origin-protocol,7390.98
+Binance US,ethereum-classic,4555.15
+Binance US,ampleforth-governance-token,194.87
+Binance US,dash,4877.98
+Binance US,immutable-x,15318.26
+Binance US,livepeer,1449.17
+Binance US,numeraire,2105.45
+Binance US,audius,1196.43
+Binance US,prometeus,1853.02
+Binance US,game,27.43
+Binance US,galatasaray-fan-token,676.36
+Binance US,balancer,242.26
+Binance US,geojam,4707.43
+Binance US,adex,4.58
+Binance US,league-of-kingdoms,112.73
+Binance US,republic-protocol,2027.42
+Binance US,rad,59.46
+Binance US,clevernode,1622.38
+Binance US,iostoken,3072.31
+Binance US,illuvium,2040.87
+Binance US,bridged-dai-stablecoin-linea,9.99
+Binance US,request-network,10.0
+Binance US,orbs,1940.15
+Binance US,celo,14168.63
+Binance US,lto-network,3927.32
+Upbit,ahatoken,1243157.0
+Upbit,hippopotamus,1284503.0
+Upbit,groestlcoin,23095851.38
+Upbit,bitcoin-gold,7990538.0
+Upbit,archerswap-hunter,2478591.21
+Upbit,binance-peg-filecoin,3097584.0
+Upbit,sentinel-protocol,1327502.0
+Upbit,mass-vehicle-ledger,4013357.0
+Upbit,solana,182370.0
+Upbit,medibloc,2435042.0
+Upbit,alpha-quark-token,915558.47
+Upbit,the-open-network,2230328.0
+Upbit,steem-dollars,895227.0
+Upbit,render-token,531229.0
+Upbit,ravencoin,1917575.0
+Upbit,money-on-chain,1340887.0
+Upbit,origin-protocol,2069911.0
+Upbit,abcmeta,1400861.0
+Upbit,cyberconnect,180884.0
+Upbit,carry,1925853.0
+Upbit,rei-network,462669.0
+Upbit,moonbeam,62320.0
+Upbit,injective-protocol,289687.0
+Upbit,ocean-protocol,133746.0
+Upbit,rally-2,72391.0
+Upbit,onbuff,2558566.0
+Upbit,maker,347937.0
+Upbit,galatasaray-fan-token,172252.0
+Upbit,bifrost,498505.0
+Upbit,the-graph,4749.97
+Upbit,binance-peg-bitcoin-cash,31797.0
+Upbit,chromaway,34147.0
+Upbit,axelar,747854.0
+Upbit,numeraire,284106.0
+Upbit,tron,45724.8
+Upbit,game,145336.0
+Upbit,apidae,8952.37
+Upbit,napoli-fan-token,58026.0
+Upbit,immutable-x,4973.53
+Upbit,raydium,238140.0
+Upbit,astar,22634.0
+Upbit,binance-peg-dogecoin,49960.0
+Upbit,livepeer,43831.0
+Upbit,0x,6084.98
+Upbit,ada-the-dog,4388.24
+Upbit,bridged-matic-manta-pacific,10167.18
+Upbit,magic,53934.0
+Upbit,stellar,8405.49
+Upbit,enjincoin,17774.61
+Upbit,audius,13170.99
+Upbit,mina-protocol,791.1
+Upbit,compound-governance-token,18105.54
+Upbit,bora,48741.0
+Upbit,radium,44785.0
+Upbit,solve-care,83721.0
+Upbit,ark,767.32
+Upbit,force-protocol,59255.0
+Upbit,ape-2,58572.0
+Upbit,api3,55570.0
+Upbit,digibyte,36367.0
+Upbit,iexec-rlc,33608.0
+Upbit,atletico-madrid,111477.0
+Upbit,ethereum-classic,11142.31
+Upbit,binance-peg-eos,2873.48
+Upbit,hive,1501.76
+Upbit,orbs,3538.23
+Upbit,bridged-curve-dao-token-stargate,73817.0
+Upbit,fx-coin,7211.39
+Upbit,unicorn-token,43767.0
+Upbit,army-of-fortune-metaverse,153926.0
+Upbit,hive_dollar,97692.0
+Upbit,paris-saint-germain-fan-token,133969.0
+Upbit,decentraland,1322.94
+Upbit,fc-barcelona-fan-token,69088.0
+Upbit,tottenham-hotspur-fc-fan-token,43626.0
+Upbit,everid,76251.0
+Upbit,access-protocol,51669.0
+Upbit,gochain,5910.78
+Upbit,avalanche-2,10489.61
+Upbit,observer-coin,43373.0
+Upbit,kava,5084.98
+Upbit,decentralized-advertising,42710.0
+Upbit,power-ledger,872.5
+Upbit,storj,523.85
+Upbit,near,3718.83
+Upbit,flow,2618.69
+Upbit,algorand,1704.84
+Upbit,metal,706.4
+Upbit,mantle,8605.32
+Upbit,lisk,1358.63
+Upbit,blur,1408.83
+Upbit,pundi-x-2,9146.84
+Upbit,civic,680.94
+Upbit,sentinel-bot-ai,5936.17
+Upbit,gmt-token,776.46
+MEXC,beam-bridged-usdc-beam,10935756.0
+MEXC,bridged-binance-peg-ethereum-opbnb,154329796.0
+MEXC,binancecoin,1948937.0
+MEXC,binance-peg-xrp,22470872.0
+MEXC,binance-peg-dogecoin,24779653.0
+MEXC,binance-peg-litecoin,4875871.0
+MEXC,ada-the-dog,7767766.0
+MEXC,binance-peg-polkadot,726430.0
+MEXC,avalanche-2,9420193.0
+MEXC,binance-peg-bitcoin-cash,302305.0
+MEXC,niccagewaluigielmo42069inu,1332798.0
+MEXC,chainlink,6167632.0
+MEXC,binance-peg-filecoin,1980426.0
+MEXC,near,2727266.0
+MEXC,paxos-standard,94023.0
+MEXC,worldcoin-wld,588286.0
+MEXC,optimism,851852.0
+MEXC,render-token,1526763.0
+MEXC,arbitrum,6468633.0
+MEXC,fantom,1855564.0
+MEXC,ethereum-classic,355899.0
+MEXC,tron,5928219.0
+MEXC,bridged-trueusd,191907.0
+MEXC,unicorn-token,201275.0
+MEXC,sei-network,13470994.0
+MEXC,apidae,7386528.0
+MEXC,book-of-meme,1327083.0
+MEXC,aave,124805.0
+MEXC,batcat,1713268.0
+MEXC,yield-guild-games,106753.0
+MEXC,the-open-network,5941495.0
+MEXC,runebound,710199.0
+MEXC,fetch-ai,2674344.0
+MEXC,ordinals,472275.0
+MEXC,gala,1671165.0
+MEXC,blur,77043.0
+MEXC,injective-protocol,2279408.0
+MEXC,newpepe,2017506.0
+MEXC,jupiter,404353.0
+MEXC,dydx-chain,420386.0
+MEXC,san-diego-coin,96308.0
+MEXC,vechain,180681.0
+MEXC,bridged-matic-manta-pacific,5173214.0
+MEXC,conflux-token,330436.0
+MEXC,bridged-dai-stablecoin-linea,196356.0
+MEXC,pixels,768831.0
+MEXC,internet-computer,516815.0
+MEXC,axie-infinity,52079.0
+MEXC,ethena,4587409.0
+MEXC,the-graph,388551.0
+MEXC,ocean-protocol,177798.0
+MEXC,mina-protocol,130564.0
+MEXC,meme-brc-20,156029.0
+MEXC,kava,135201.0
+MEXC,lido-dao,67034.0
+MEXC,mask-network,108672.0
+MEXC,acent,79596.0
+MEXC,bonk,345643.0
+MEXC,cosmos,458793.0
+MEXC,tensor,197770.0
+MEXC,compound-governance-token,49171.0
+MEXC,celestia,614527.0
+MEXC,storj,31536.0
+MEXC,maker,75476.0
+MEXC,cryptosaga,357166.0
+MEXC,oasis-network,711369.0
+MEXC,dymension,232466.0
+MEXC,solana,109968838.0
+MEXC,lina,69791.0
+MEXC,1inch,96406.0
+MEXC,blockstack,524995.0
+MEXC,aurora-dao,77090.0
+MEXC,hifi-finance,60461.0
+MEXC,elrond-erd-2,85552.0
+MEXC,dogwifcoin,2953410.0
+MEXC,immutable-x,140408.0
+MEXC,illuvium,131159.0
+MEXC,pancakeswap-token,240667.0
+MEXC,coreai,3194272.0
+MEXC,ankr,184101.0
+MEXC,magic,101140.0
+MEXC,ape-2,410523.0
+MEXC,stellar,418850.0
+MEXC,bridged-curve-dao-token-stargate,147731.0
+MEXC,bella-protocol,160639.0
+MEXC,neutron-3,73118.0
+MEXC,api3,47150.0
+MEXC,playground-waves-floor-index,529237.0
+MEXC,everid,163430.0
+MEXC,coin98,80772.0
+MEXC,hooked-protocol,70304.0
+MEXC,spell-token,49870.0
+MEXC,algorand,367108.0
+MEXC,celo,1524000.0
+MEXC,singularitynet,583630.0
+MEXC,wormhole,651989.0
+MEXC,lever,256217.0
+BingX,first-digital-usd,22491431.0
+BingX,bridged-binance-peg-ethereum-opbnb,149926986.0
+BingX,solana,58224220.0
+BingX,batcat,229162019.0
+BingX,staked-ether,5671763.0
+BingX,binancecoin,14530606.0
+BingX,beam-bridged-usdc-beam,45686058.0
+BingX,binance-peg-dogecoin,16383374.0
+BingX,fetch-ai,3376624.0
+BingX,tron,2919017.0
+BingX,apidae,2362295.0
+BingX,singularitynet,1305114.0
+BingX,binance-peg-litecoin,3027973.0
+BingX,chainlink,2905776.0
+BingX,ethena,8299504.0
+BingX,fantom,2958338.0
+BingX,binance-peg-bitcoin-cash,3010246.0
+BingX,jasmycoin,1510767.0
+BingX,render-token,3604655.0
+BingX,bridged-matic-manta-pacific,2723371.0
+BingX,binance-peg-filecoin,2179246.0
+BingX,dogwifcoin,4862536.0
+BingX,binance-peg-xrp,16915374.0
+BingX,pax-gold,348968.0
+BingX,near,5533944.0
+BingX,avalanche-2,4193898.0
+BingX,blockstack,1795112.0
+BingX,worldcoin-wld,4434560.0
+BingX,ordinals,3349608.0
+BingX,sei-network,1596249.0
+BingX,everid,1125938.0
+BingX,yield-guild-games,1524349.0
+BingX,injective-protocol,3745763.0
+BingX,ondo-finance,10110108.0
+BingX,binance-peg-polkadot,1720255.0
+BingX,bridged-trueusd,145884.0
+BingX,internet-computer,1510802.0
+BingX,bonk,916961.0
+BingX,maker,1813341.0
+BingX,floki,1834251.0
+BingX,niccagewaluigielmo42069inu,6006700.0
+BingX,pendle,3667652.0
+BingX,ada-the-dog,3906680.0
+BingX,meme-brc-20,1153648.0
+BingX,binance-peg-eos,879499.0
+BingX,nervos-network,2105670.0
+BingX,sui,4226803.0
+BingX,ethereum-classic,1003516.0
+BingX,arweave,1246358.0
+BingX,runebound,4061733.0
+BingX,hedera-hashgraph,711140.0
+BingX,starknet,795488.0
+BingX,tether-gold,92109.0
+BingX,optimism,1574607.0
+BingX,bitcoin-cash-sv,305970.0
+BingX,ether-fi,2379498.0
+BingX,oasis-network,579031.0
+BingX,newpepe,12953260.0
+BingX,arkham,1845350.0
+BingX,terra-luna-2,296047.0
+BingX,kava,347454.0
+BingX,gmt-token,756229.0
+BingX,bridged-dai-stablecoin-linea,121563.0
+BingX,pixels,1630300.0
+BingX,mask-network,364058.0
+BingX,san-diego-coin,694174.0
+BingX,unicorn-token,940790.0
+BingX,okb,298432.0
+BingX,theta-token,860402.0
+BingX,aave,730585.0
+BingX,wormhole,576236.0
+BingX,gala,1596015.0
+BingX,pyth-network,951969.0
+BingX,conflux-token,727924.0
+BingX,immutable-x,389311.0
+BingX,dymension,525485.0
+BingX,the-graph,605645.0
+BingX,venus,198626.0
+BingX,luna-wormhole,448674.0
+BingX,arbitrum,3751506.0
+BingX,mantra-dao,1766899.0
+BingX,stellar,941065.0
+BingX,vechain,1035909.0
+BingX,ocean-protocol,578261.0
+BingX,mantle,8052366.0
+BingX,skale,621595.0
+BingX,cocos-bcx,164541.0
+BingX,dydx-chain,828850.0
+BingX,jito-governance-token,1441864.0
+BingX,big-time,190912.0
+BingX,0x,282331.0
+BingX,binaryx,1267747.0
+BingX,bridged-curve-dao-token-stargate,443391.0
+BingX,frontier-token,734681.0
+BingX,coreai,3796374.0
+BingX,stoicdao,698706.0
+BingX,zeus-2,1034272.0
+BingX,celestia,4221328.0
+Deepcoin,bridged-binance-peg-ethereum-opbnb,374257885.0
+Deepcoin,solana,4068391.0
+Deepcoin,binance-peg-bitcoin-cash,6594701.0
+Deepcoin,render-token,4438187.0
+Deepcoin,binance-peg-litecoin,1530053.0
+Deepcoin,binance-peg-dogecoin,1453168.0
+Deepcoin,near,5232020.0
+Deepcoin,fetch-ai,2044862.0
+Deepcoin,fantom,892305.0
+Deepcoin,gala,475500.0
+Deepcoin,binance-peg-xrp,16321763.0
+Deepcoin,arweave,6747363.0
+Deepcoin,binance-peg-polkadot,1025277.0
+Deepcoin,unicorn-token,417902.0
+Deepcoin,apidae,2753587.0
+Deepcoin,oasis-network,295216.0
+Deepcoin,beam-bridged-usdc-beam,46403619.0
+Deepcoin,elrond-erd-2,797558.0
+Deepcoin,terra-luna-2,691685.0
+Deepcoin,loopring,151477.0
+Deepcoin,binancecoin,1809469.0
+Deepcoin,blockstack,187327.0
+Deepcoin,avalanche-2,564071.0
+Deepcoin,san-diego-coin,307466.0
+Deepcoin,decentraland,79260.0
+Deepcoin,cosmos,230949.0
+Deepcoin,internet-computer,1986810.0
+Deepcoin,mask-network,857774.0
+Deepcoin,chainlink,7958880.0
+Deepcoin,synapse-2,115666.0
+Deepcoin,injective-protocol,1500583.0
+Deepcoin,dydx-chain,109064.0
+Deepcoin,binance-peg-filecoin,567925.0
+Deepcoin,convex-finance,395328.0
+Deepcoin,klay-token,842071.0
+Deepcoin,havven,112946.0
+Deepcoin,trust-wallet-token,470004.0
+Deepcoin,tron,4376766.0
+Deepcoin,aave,296675.0
+Deepcoin,ethereum-name-service,259646.0
+Deepcoin,lido-dao,153758.0
+Deepcoin,ssv-network,719766.0
+Deepcoin,chia,92235.0
+Deepcoin,arbitrum,1291571.0
+Deepcoin,omisego,58786.0
+Deepcoin,magic,1771588.0
+Deepcoin,optimism,1158697.0
+Deepcoin,joe,47585.0
+Deepcoin,flow,1824644.0
+Deepcoin,conflux-token,657654.0
+Deepcoin,gmx,10821.93
+Deepcoin,luna-wormhole,2701043.0
+Deepcoin,gains-network,248507.0
+Deepcoin,bridged-curve-dao-token-stargate,73643.0
+Deepcoin,solidus-aitech,39583.0
+Deepcoin,rocket-pool,624925.0
+Deepcoin,frax-share,233100.0
+Deepcoin,immutable-x,4018943.0
+Deepcoin,mina-protocol,484343.0
+Deepcoin,jaseonmun,81537.0
+Deepcoin,hugewin,581109.0
+Deepcoin,ape-2,14641.7
+Deepcoin,nym,100097.0
+Deepcoin,dodo,11261.72
+Deepcoin,ada-the-dog,348740.0
+Deepcoin,bridged-matic-manta-pacific,37813.0
+Deepcoin,compound-governance-token,196539.0
+Deepcoin,niccagewaluigielmo42069inu,379077.0
+Deepcoin,enjincoin,119356.0
+Deepcoin,woo-network,59651.0
+Deepcoin,ethereum-classic,108669.0
+Deepcoin,blur,14653.29
+Deepcoin,floki,1842.79
+Deepcoin,baby-doge-coin,259.1
+Deepcoin,binance-peg-eos,36977.0
+Deepcoin,zilliqa,2230.81
+Deepcoin,athena-returns-olea,5815.6
+Deepcoin,batcat,697328104.0
+Deepcoin,coreai,30210343.0
+Deepcoin,singularitynet,17330714.0
+Fastex,batcat,210749500.0
+Fastex,bridged-binance-peg-ethereum-opbnb,94753998.0
+Fastex,fasttoken,7183752.78
+Fastex,niccagewaluigielmo42069inu,1127769.0
+Fastex,tron,266822.0
+Fastex,binance-peg-dogecoin,1786143.0
+Fastex,binancecoin,2539245.0
+Fastex,binance-peg-bitcoin-cash,378388.0
+Fastex,ada-the-dog,535465.0
+Fastex,binance-peg-xrp,1533692.0
+Fastex,binance-peg-litecoin,323086.49
+Bitfinex,batcat,203036117.0
+Bitfinex,bridged-binance-peg-ethereum-opbnb,167277535.0
+Bitfinex,binance-peg-xrp,3594287.0
+Bitfinex,binance-peg-litecoin,616189.0
+Bitfinex,ada-the-dog,1516979.0
+Bitfinex,solana,5077005.0
+Bitfinex,avalanche-2,565010.0
+Bitfinex,bridged-matic-manta-pacific,522238.0
+Bitfinex,binance-peg-eos,244789.3
+Bitfinex,uniq-digital-coin,737506.0
+Bitfinex,binance-peg-polkadot,168609.0
+Bitfinex,binance-peg-dogecoin,1035683.0
+Bitfinex,monero,3569658.0
+Bitfinex,binance-peg-filecoin,125942.0
+Bitfinex,gala,299979.0
+Bitfinex,0x,106900.0
+Bitfinex,unicorn-token,68473.0
+Bitfinex,apidae,88259.0
+Bitfinex,stellar,418501.0
+Bitfinex,arbitrum,384528.0
+Bitfinex,sui,116017.0
+Bitfinex,zcash,93454.0
+Bitfinex,fantom,62587.0
+Bitfinex,leoavax,145895.0
+Bitfinex,niccagewaluigielmo42069inu,279882.0
+Bitfinex,sushi,62656.0
+Bitfinex,aave,130667.0
+Bitfinex,maker,44809.0
+Bitfinex,near,169493.0
+Bitfinex,playground-waves-floor-index,126520.0
+Bitfinex,celestia,172411.0
+Bitfinex,neo,55423.0
+Bitfinex,ethena,154113.0
+Bitfinex,xdce-crowd-sale,150859.0
+Bitfinex,san-diego-coin,33558.0
+Bitfinex,dymension,314483.0
+Bitfinex,radix,54431.0
+Bitfinex,helium-iot,31120.0
+Bitfinex,kleros,123853.0
+Bitfinex,chiliz,106117.0
+Bitfinex,amp-token,51920.0
+Bitfinex,wilder-world,13960.26
+Bitfinex,partisia-blockchain,51463.0
+Bitfinex,tron,55672.0
+Bitfinex,jasmycoin,93569.0
+Bitfinex,tominet,3630.26
+Bitfinex,algory,11899.87
+Bitfinex,loopring,3948.95
+Bitfinex,senate,6831.53
+Bitfinex,sweatcoin,11959.36
+Bitfinex,nexo,21748.0
+Bitfinex,boba,19469.16
+Bitfinex,boson-protocol,9150.28
+Bitfinex,jupiter,5642.27
+Bitfinex,wrapped-ncg,25718.0
+Bitfinex,aleph-zero,4062.17
+Bitfinex,dogwifcoin,22317.0
+Bitfinex,karate-combat,6101.9
+Bitfinex,shimmer,9569.25
+Bitfinex,vechain,12382.99
+Bitfinex,songbird,10190.43
+Bitfinex,lympo,2110.69
+Bitfinex,ultra,33123.0
+Bitstamp,batcat,231079300.0
+Bitstamp,bridged-binance-peg-ethereum-opbnb,24775438.0
+Bitstamp,beam-bridged-usdc-beam,3112442.0
+Bitstamp,binance-peg-xrp,28560904.0
+Bitstamp,binance-peg-litecoin,3428357.0
+Bitstamp,chainlink,756670.64
+Bitstamp,binance-peg-bitcoin-cash,1867138.0
+Bitstamp,stellar,491955.02
+Bitstamp,ada-the-dog,864981.0
+Bitstamp,0x,18006.879999999997
+Bitstamp,audius,16006.28
+Bitstamp,bridged-matic-manta-pacific,292041.0
+Bitstamp,avalanche-2,453606.0
+Bitstamp,unicorn-token,156470.0
+Bitstamp,aave,68230.0
+Bitstamp,algorand,34509.94
+Bitstamp,bridged-dai-stablecoin-linea,5287.13
+Bitstamp,bridged-curve-dao-token-stargate,3883.05
+Bitstamp,san-diego-coin,24995.0
+Bitstamp,basic-attention-token,580.45
+Bitstamp,songbird,25206.5
+Bitstamp,havven,3508.78
+Bitstamp,maker,118068.0
+Bitstamp,sushi,7878.78
+Bitstamp,chiliz,45185.92
+Bitstamp,hedera-hashgraph,123728.0
+Bitstamp,aavegotchi-alpha,1421.27
+Bitstamp,the-graph,16378.62
+Bitstamp,skale,13938.08
+Bitstamp,kyber-network-crystal,3022.2200000000003
+Bitstamp,fetch-ai,147269.0
+Bitstamp,compound-governance-token,3520.11
+Bitstamp,immutable-x,7542.63
+Bitstamp,amp-token,11321.17
+Bitstamp,eth2-staking-by-poolx,176717.0
+Bitstamp,gala,784716.0
+Bitstamp,fantom,120648.0
+Bitstamp,axie-infinity,4601.29
+Bitstamp,storj,162.52
+Bitstamp,solana,8996561.0
+Bitstamp,binance-peg-dogecoin,860139.0
+Bitstamp,vnx-euro,1014101.0
+Bitstamp,vnx-swiss-franc,1033179.0
+Bitstamp,sui,553793.0
+Bitstamp,flare-networks,253447.0
+Bitstamp,niccagewaluigielmo42069inu,252466.0
+Bitstamp,binance-peg-polkadot,187905.0
+Bitstamp,near,55203.0
+HashKey Exchange,arbitrum-bridged-usdt-arbitrum,12855379.0
+HashKey Exchange,bridged-binance-peg-ethereum-opbnb,20831495.0
+HashKey Exchange,maker,9907.61
+HashKey Exchange,dydx-chain,7540.92
+HashKey Exchange,havven,6712.92
+HashKey Exchange,avalanche-2,31139.0
+HashKey Exchange,unicorn-token,7140.38
+HashKey Exchange,lido-dao,5953.45
+HashKey Exchange,aave,9621.82
+HashKey Exchange,chainlink,11179.52
+HashKey Exchange,render-token,16803.25
+HashKey Exchange,bridged-matic-manta-pacific,18812.66
+HashKey Exchange,optimism,5277.53
+HashKey Exchange,cosmos,5665.4
+HashKey Exchange,compound-governance-token,5510.87
+HashKey Exchange,binance-peg-litecoin,4992.34
+HashKey Exchange,binance-peg-polkadot,5696.82
+HashKey Exchange,batcat,164088589.0
+Gemini,bridged-binance-peg-ethereum-opbnb,23307308.1
+Gemini,batcat,77199974.0
+Gemini,beam-bridged-usdc-beam,3737611.0
+Gemini,arbitrum-bridged-usdt-arbitrum,3888310.0
+Gemini,solana,5346424.0
+Gemini,bridged-dai-stablecoin-linea,53624.0
+Gemini,binance-peg-dogecoin,854949.96
+Gemini,binance-peg-litecoin,429502.95
+Gemini,binance-peg-bitcoin-cash,1322691.84
+Gemini,bridged-matic-manta-pacific,246093.0
+Gemini,pax-gold,10551.63
+Gemini,fetch-ai,226860.0
+Gemini,maker,17683.67
+Gemini,chainlink,443312.73
+Gemini,injective-protocol,107476.0
+Gemini,binance-peg-xrp,1036552.0
+Gemini,fantom,160029.0
+Gemini,niccagewaluigielmo42069inu,233871.0
+Gemini,cosmos,14477.2
+Gemini,avalanche-2,131646.0
+Gemini,axie-infinity,24646.0
+Gemini,bridged-curve-dao-token-stargate,43993.0
+Gemini,storj,5529.34
+Gemini,ethereum-name-service,13479.76
+Gemini,havven,17068.12
+Gemini,uma,16032.63
+Gemini,skale,22746.0
+Gemini,binance-peg-polkadot,105129.0
+Gemini,binance-peg-filecoin,180772.0
+Gemini,samoyedcoin,44635.0
+Gemini,ankr,47116.0
+Gemini,somnium-space-cubes,19916.15
+Gemini,api3,2630.97
+Gemini,helium,42700.0
+Gemini,chiliz,4832.2
+Gemini,galatasaray-fan-token,10318.74
+Gemini,zcash,48199.63
+Gemini,ape-2,23671.0
+Gemini,amp-token,231320.0
+Gemini,the-graph,30140.0
+Gemini,mask-network,2055.44
+Gemini,livepeer,2400.8
+Gemini,yearn-finance,33630.0
+Gemini,loopring,6346.13
+Gemini,aave,11426.48
+Gemini,republic-protocol,4477.71
+Gemini,zebec-protocol,2378.24
+Gemini,basic-attention-token,5928.76
+Gemini,tezos,8865.77
+Gemini,newpepe,440773.0
+Gemini,0x,2175.24
+Gemini,cryptex-finance,21440.0
+Gemini,geojam,2921.73
+Gemini,gemini-dollar,153.75
+Gemini,gala,106817.0
+Gemini,quant-network,14425.4
+Gemini,decentraland,26574.0
+Gemini,render-token,210443.0
+Gemini,immutable-x,38758.0
+Gemini,dogelon-mars,27998.0
+Gemini,gmt-token,25474.0
+Gemini,orchid-protocol,7925.21
+Gemini,compound-governance-token,3919.34
+Gemini,lido-dao,10364.5
+Gemini,binance-peg-iotex,50369.0
+Gemini,san-diego-coin,9593.07
+Gemini,unicorn-token,48301.0
+Gemini,alethea-artificial-liquid-intelligence-token,4302.4
+Gemini,sushi,8040.8
+Gemini,terra-luna-2,2616.38
+Gemini,superrare,229.35
+Gemini,ethernity-chain,3.45
+Backpack Exchange ,batcat,2137442.0
+Backpack Exchange ,arbitrum-bridged-usdt-arbitrum,301539.0
+Backpack Exchange ,solana,15826998.0
+Backpack Exchange ,jito-governance-token,280148.0
+Backpack Exchange ,wormhole,757940.0
+Backpack Exchange ,jupiter,1822439.0
+Backpack Exchange ,pyth-network,188021.0
+Backpack Exchange ,parcl,21745793.0
+Backpack Exchange ,helium,817288.0
+Backpack Exchange ,tensor,1016043.0
+Backpack Exchange ,wen-3,1562893.0
+Backpack Exchange ,dogwifcoin,1297631.0
+Backpack Exchange ,helium-mobile,61908.0
+Backpack Exchange ,bonk,248832.0
+WOO X,batcat,13429078.0
+WOO X,bridged-binance-peg-ethereum-opbnb,6168602.8
+WOO X,solana,6468446.0
+WOO X,beam-bridged-usdc-beam,1038640.0
+WOO X,binance-peg-xrp,176749.0
+WOO X,binance-peg-dogecoin,2779543.0
+WOO X,binancecoin,523768.0
+WOO X,chainlink,186515.0
+WOO X,binance-peg-bitcoin-cash,124052.0
+WOO X,woo-network,815090.0
+WOO X,render-token,611991.0
+WOO X,near,854993.0
+WOO X,runebound,411283.0
+WOO X,celestia,156527.0
+WOO X,maker,1483640.0
+WOO X,worldcoin-wld,29559.0
+WOO X,havven,18382.15
+WOO X,pyth-network,12266.7
+WOO X,jupiter,126200.0
+WOO X,sui,13352.25
+WOO X,chiliz,14133.26
+WOO X,jito-governance-token,29840.0
+WOO X,president-ron-desantis,15562.51
+WOO X,yield-guild-games,89944.0
+WOO X,fantom,93716.0
+WOO X,pendle,57585.0
+WOO X,gmt-token,21485.0
+WOO X,ethereum-pow-iou,16867.54
+WOO X,dydx-chain,25838.0
+WOO X,flooring-lab-credit,386405.0
+WOO X,dogwifcoin,55204.0
+WOO X,gala,10714.44
+WOO X,ethereum-name-service,11554.1
+WOO X,wormhole,12150.73
+WOO X,spell-token,7059.72
+WOO X,ordinals,290335.0
+WOO X,pixels,11053.62
+WOO X,flooring-protocol-micropudgypenguins,41485.0
+WOO X,raydium,10246.6
+WOO X,ondo-finance,212197.0
+WOO X,stoicdao,41476.0
+WOO X,ethena,78796.0
+WOO X,flooring-protocol-microlilpudgys,21502.0
+WOO X,metis-token,1942.81
+WOO X,multibit,117878.0
+WOO X,slerf,3410.06
+WOO X,cross-chain-degen-dao,2862.6
+WOO X,parcl,41427.0
+WOO X,wen-3,1361.84
+WOO X,propchain,276022.0
+WOO X,saros-finance,454.62
+WOO X,origintrail,832.58
+WOO X,bitkub-coin,21540.0
+WOO X,zignaly,70183.0
+WOO X,arbitrum,60269.0
+WOO X,bridged-matic-manta-pacific,20728.0
+WOO X,binance-peg-litecoin,61933.0
+WOO X,tron,8295.41
+WOO X,ada-the-dog,16364.57
+WOO X,optimism,6601.61
+WOO X,avalanche-2,47316.0
+WOO X,internet-computer,27842.0
+WOO X,injective-protocol,87532.0
+WOO X,binance-peg-filecoin,3190.51
+WOO X,niccagewaluigielmo42069inu,81813.0
+WOO X,binance-peg-polkadot,13758.14
+WOO X,bridged-dai-stablecoin-linea,2.81
+WOO X,ethereum-classic,904.06
+WOO X,cosmos,19492.57
+WOO X,unicorn-token,30423.0
+WOO X,stellar,3570.03
+WOO X,aave,8922.86
+WOO X,vechain,9393.21
+WOO X,hedera-hashgraph,16714.29
+WOO X,the-graph,8732.75
+WOO X,compound-governance-token,6960.94
+WOO X,lido-dao,957.8
+WOO X,binance-peg-eos,154.46
+WOO X,flooring-protocol-microboredapeyachtclub,2975.31
+WOO X,san-diego-coin,2011.59
+WOO X,immutable-x,1441.82
+WOO X,conflux-token,6927.84
+WOO X,bridged-curve-dao-token-stargate,742.55
+WOO X,loopring,2319.89
+WOO X,blur,2285.79
+WOO X,axie-infinity,1654.4
+WOO X,1inch,1228.73
+WOO X,celo,697.31
+WOO X,decentraland,536.17
+WOO X,algorand,1041.32
+WOO X,kusama,3615.42
+WOO X,book-of-meme,982.29
+WOO X,ether-fi,9.28
+WOO X,yearn-finance,45.99
+WOO X,sushi,333.19
+WOO X,ape-2,1917.77
+WOO X,tezos,252.17
+WOO X,starknet,3160.06
+Coins.ph,arbitrum-bridged-usdt-arbitrum,7506915.0
+Coins.ph,batcat,2002804.0
+Coins.ph,binance-peg-xrp,1846200.0
+Coins.ph,bridged-binance-peg-ethereum-opbnb,2165084.0
+Coins.ph,binance-peg-bitcoin-cash,42642.53
+Coins.ph,solana,93077.0
+Coins.ph,san-diego-coin,2440.35
+Coins.ph,dogwifcoin,168705.0
+Coins.ph,yield-guild-games,35476.0
+Coins.ph,pixels,23907.0
+Coins.ph,arkham,16723.56
+Coins.ph,book-of-meme,34690.0
+Coins.ph,coreum,3608.78
+Coins.ph,binance-peg-dogecoin,42332.0
+Coins.ph,aevo-exchange,10870.81
+Coins.ph,president-ron-desantis,22230.0
+Coins.ph,gala,37810.0
+Coins.ph,maker,20575.0
+Coins.ph,slp,16450.23
+Coins.ph,bridged-matic-manta-pacific,11503.29
+Coins.ph,binancecoin,17256.39
+Coins.ph,ape-2,4948.88
+Coins.ph,chainlink,17249.26
+Coins.ph,tensor,19918.08
+Coins.ph,blur,3986.91
+Coins.ph,cat-in-a-dogs-world,189670.0
+Coins.ph,tron,11916.62
+Coins.ph,kyber-network-crystal,5724.93
+Coins.ph,aave,4685.61
+Coins.ph,axie-infinity,10718.63
+Coins.ph,unicorn-token,5405.87
+Coins.ph,heroes-of-mavia,8050.7
+Coins.ph,meme-brc-20,7452.52
+Coins.ph,honeyland-honey,2165.93
+Coins.ph,decentraland,2314.39
+Coins.ph,basic-attention-token,1321.46
+Coins.ph,liquity,1705.72
+Coins.ph,tether-gold,4997.39
+Coins.ph,chiliz,4460.38
+Coins.ph,arbitrum,5481.99
+Coins.ph,looksrare,6319.77
+Coins.ph,portal-2,12731.35
+Coins.ph,magic,1378.93
+Coins.ph,rocket-pool,812.72
+Coins.ph,lido-dao,2378.08
+Coins.ph,radiant-capital,1601.67
+Coins.ph,immutable-x,5331.49
+Coins.ph,solo-coin,485.27
+Coins.ph,enjincoin,2223.6
+Coins.ph,fanc,6900.67
+Coins.ph,maga,16357.07
+Coins.ph,polis,1491.74
+Coins.ph,cropbytes,4563.49
+Coins.ph,gmx,2192.57
+Coins.ph,alitas,119.41
+Coins.ph,niccagewaluigielmo42069inu,81740.6
+Coins.ph,bonk,100453.0
+Coins.ph,floki,19618.42
+Coins.ph,ethena,76906.0
+Coins.ph,unibot,5840.77
+Coins.ph,alice-ai,2034.31
+Coins.ph,beam-bridged-usdc-beam,3963651.0
+Coins.ph,ether-fi,39602.0
+Coins.ph,pendle,23212.0
+Coins.ph,binance-peg-litecoin,8899.72
+Coins.ph,truebit-protocol,8919.95
+Coins.ph,paypal-usd,330.26
+Coins.ph,havven,1015.34
+Coins.ph,atlas-fc-fan-token,8423.42
+Coins.ph,1000sats-ordinals,10394.29
+Coins.ph,stellar,4123.23
+Coins.ph,newpepe,73264.0
+Coins.ph,binaryx,13790.16
+Coins.ph,ordinals,2048.09
+Coins.ph,xdce-crowd-sale,2606.1
+Coins.ph,compound-governance-token,484.47
+WhiteBIT,batcat,966071519.0
+WhiteBIT,arbitrum-bridged-usdt-arbitrum,3312727.0
+WhiteBIT,chainlink,27300344.0
+WhiteBIT,avalanche-2,124990595.0
+WhiteBIT,binance-peg-xrp,152960107.0
+WhiteBIT,binance-peg-dogecoin,34901715.0
+WhiteBIT,solana,55248274.0
+WhiteBIT,dogwifcoin,28216708.0
+WhiteBIT,beam-bridged-usdc-beam,901914.0
+WhiteBIT,near,212275151.0
+WhiteBIT,apidae,2123292.0
+WhiteBIT,tron,2377918.0
+WhiteBIT,binance-peg-litecoin,6576923.0
+WhiteBIT,injective-protocol,2791399.0
+WhiteBIT,cosmos,5840380.0
+WhiteBIT,whitebit,7759019.0
+WhiteBIT,jito-governance-token,775196.0
+WhiteBIT,ada-the-dog,19324443.0
+WhiteBIT,singularitynet,4078742.0
+WhiteBIT,binance-peg-bitcoin-cash,35407362.0
+WhiteBIT,bridged-binance-peg-ethereum-opbnb,453194135.0
+WhiteBIT,portal-2,2365219.0
+WhiteBIT,arbitrum,4440788.0
+WhiteBIT,binance-peg-polkadot,4413929.0
+WhiteBIT,unicorn-token,10150172.0
+WhiteBIT,sei-network,5189172.0
+WhiteBIT,render-token,3933478.0
+WhiteBIT,sui,7215469.0
+WhiteBIT,gala,22784061.0
+WhiteBIT,ethereum-classic,6176821.0
+WhiteBIT,acent,5331309.0
+WhiteBIT,tensor,25037792.0
+WhiteBIT,fantom,3051580.0
+WhiteBIT,binance-peg-filecoin,5676735.0
+WhiteBIT,arweave,7099173.0
+WhiteBIT,jupiter,422374.0
+WhiteBIT,stellar,5094095.0
+WhiteBIT,meme-brc-20,120461.0
+WhiteBIT,optimism,5463526.0
+WhiteBIT,binance-peg-eos,5907819.0
+WhiteBIT,niccagewaluigielmo42069inu,916365.0
+WhiteBIT,pendle,1021891.0
+WhiteBIT,chiliz,2583777.0
+WhiteBIT,pyth-network,5037939.0
+WhiteBIT,bridged-trueusd,1950492.0
+WhiteBIT,maker,2854709.0
+WhiteBIT,fetch-ai,2828771.0
+WhiteBIT,aave,2329918.0
+WhiteBIT,san-diego-coin,3800638.0
+WhiteBIT,arkham,3327391.0
+WhiteBIT,1inch,1949713.0
+WhiteBIT,yield-guild-games,157827.0
+WhiteBIT,vechain,370352.0
+WhiteBIT,jasmycoin,1045446.0
+WhiteBIT,axie-infinity,1363308.0
+WhiteBIT,astar,1628265.0
+WhiteBIT,tezos,764541.0
+WhiteBIT,mask-network,616574.0
+WhiteBIT,cyberconnect,464033.0
+WhiteBIT,flow,791678.0
+WhiteBIT,everid,346678.0
+WhiteBIT,kava,2693839.0
+WhiteBIT,manta-network,9247291.0
+WhiteBIT,ocean-protocol,186507.0
+WhiteBIT,pixels,262007.0
+WhiteBIT,ape-2,1871779.0
+WhiteBIT,celestia,3266363.0
+WhiteBIT,ankr,1296572.0
+WhiteBIT,bridged-curve-dao-token-stargate,1117831.0
+WhiteBIT,elrond-erd-2,1210550.0
+WhiteBIT,dydx-chain,207596.0
+WhiteBIT,bridged-matic-manta-pacific,10098909.0
+WhiteBIT,ethereum-pow-iou,300213.0
+BitMart,bridged-binance-peg-ethereum-opbnb,493510683.0
+BitMart,batcat,950737050.0
+BitMart,beam-bridged-usdc-beam,2310376.0
+BitMart,solana,5437383.0
+BitMart,binancecoin,2763870.0
+BitMart,ethereum-classic,150244.0
+BitMart,pmxx,1025600.0
+BitMart,tron,3392986.0
+BitMart,chainlink,2566446.0
+BitMart,dydx-chain,305768.0
+BitMart,jupiter,1551899.0
+BitMart,niccagewaluigielmo42069inu,907321.0
+BitMart,bridged-dai-stablecoin-linea,621844.0
+BitMart,binance-peg-polkadot,365333.0
+BitMart,ape-2,421447.0
+BitMart,binance-peg-filecoin,661883.0
+BitMart,mask-network,110733.0
+BitMart,binance-peg-xrp,51816620.0
+BitMart,binance-peg-dogecoin,2243366.0
+BitMart,binance-peg-litecoin,476272.0
+BitMart,newpepe,579023.0
+BitMart,render-token,1272277.0
+BitMart,avalanche-2,1887116.0
+BitMart,apidae,1643672.0
+BitMart,theta-token,1325077.0
+BitMart,unicorn-token,670924.0
+BitMart,ordinals,2857372.0
+BitMart,worldcoin-wld,2976735.0
+BitMart,binance-peg-eos,2431186.0
+BitMart,optimism,632322.0
+BitMart,ada-the-dog,3036739.0
+BitMart,binance-peg-bitcoin-cash,491182.0
+BitMart,starknet,2368359.0
+BitMart,injective-protocol,1125234.0
+BitMart,osmosis,552211.0
+BitMart,near,858545.0
+BitMart,bridged-trueusd,1495366.0
+BitMart,the-graph,92340.0
+BitMart,ether-fi,1549991.0
+BitMart,the-open-network,1951483.0
+BitMart,singularitynet,2006233.0
+BitMart,cosmos,95412.0
+BitMart,gala,168168.0
+BitMart,chiliz,515031.0
+BitMart,decentraland,243299.0
+BitMart,sei-network,1111935.0
+BitMart,jito-governance-token,1256919.0
+BitMart,internet-computer,437214.0
+BitMart,bonk,427132.0
+BitMart,bridged-curve-dao-token-stargate,136576.0
+BitMart,stellar,1053549.0
+BitMart,neo,430426.0
+BitMart,tezos,193467.0
+BitMart,develocity,4299451.0
+BitMart,pendle,2817397.0
+BitMart,frax-share,258030.0
+BitMart,arbitrum,548775.0
+BitMart,kava,666015.0
+BitMart,clfi,1000767.0
+BitMart,vechain,114395.0
+BitMart,dymension,782886.0
+BitMart,yearn-finance,387733.0
+BitMart,1inch,89492.0
+BitMart,stars,134179.0
+BitMart,meme-brc-20,350565.0
+BitMart,flow,163751.0
+BitMart,omni,10808943.0
+BitMart,blur,461641.0
+BitMart,havven,395643.0
+BitMart,aave,183782.0
+BitMart,coreai,2365729.0
+BitMart,portal-2,823263.0
+BitMart,arweave,401466.0
+BitMart,dogwifcoin,1425210.0
+BitMart,bridged-matic-manta-pacific,351025.0
+BitMart,mina-protocol,161197.0
+BitMart,ocean-protocol,192049.0
+BitMart,lido-dao,1092783.0
+BitMart,manta-network,1650986.0
+BitMart,compound-governance-token,99016.0
+BitMart,ethena,3143109.0
+BitMart,book-of-meme,1367872.0
+BitMart,fantom,204758.0
+LBank,bridged-binance-peg-ethereum-opbnb,629190804.0
+LBank,batcat,660387151.0
+LBank,bridged-dai-stablecoin-linea,1388116.0
+LBank,binance-peg-litecoin,4375483.0
+LBank,solana,9480103.0
+LBank,binance-peg-polkadot,4541644.0
+LBank,avalanche-2,3014458.0
+LBank,chainlink,10878131.0
+LBank,tron,25206625.0
+LBank,cosmos,2874912.0
+LBank,binance-peg-filecoin,4457521.0
+LBank,unicorn-token,1823785.0
+LBank,binance-peg-xrp,9769392.0
+LBank,bridged-matic-manta-pacific,5982367.0
+LBank,fantom,4532090.0
+LBank,binance-peg-dogecoin,8659473.0
+LBank,near,514419.0
+LBank,beam-bridged-usdc-beam,28572070.0
+LBank,binancecoin,24981736.0
+LBank,maker,597948.0
+LBank,algorand,207854.0
+LBank,the-graph,758079.0
+LBank,ada-the-dog,6039202.0
+LBank,ethereum-classic,615325.0
+LBank,ordinals,1633840.0
+LBank,ethena,638067.0
+LBank,niccagewaluigielmo42069inu,5038380.0
+LBank,internet-computer,977040.0
+LBank,ape-2,1537774.0
+LBank,vechain,1351824.0
+LBank,coreai,326632.0
+LBank,edu-coin,1057951.0
+LBank,klay-token,235113.0
+LBank,ecash,544811.0
+LBank,ether-fi,810254.0
+LBank,qtum,558676.0
+LBank,pendle,1020012.0
+LBank,floki,259834.0
+LBank,pyth-network,286242.0
+LBank,lido-dao,890064.0
+LBank,famous-fox-federation,758673.0
+LBank,ankr,567335.0
+LBank,chiliz,468043.0
+LBank,pancakeswap-token,824825.0
+LBank,stellar,638850.0
+LBank,okb,749404.0
+LBank,dash,2075457.0
+LBank,axie-infinity,3056367.0
+LBank,sei-network,88427.0
+LBank,gala,1710882.0
+LBank,neo,353490.0
+LBank,dogwifcoin,1545365.0
+LBank,aave,3364142.0
+LBank,arweave,554396.0
+LBank,perpetual-protocol,535746.0
+LBank,yield-guild-games,441975.0
+LBank,beamx,247927.0
+LBank,injective-protocol,5437432.0
+LBank,radiant-capital,291305.0
+LBank,santos-fc-fan-token,504376.0
+LBank,galatasaray-fan-token,536965.0
+LBank,acent,287767.0
+LBank,arpa,738711.0
+LBank,luna-wormhole,685138.0
+LBank,immutable-x,811318.0
+LBank,bridged-curve-dao-token-stargate,778264.0
+LBank,stargate-finance,150077.0
+LBank,nervos-network,358480.0
+LBank,raydium,267930.0
+LBank,cyberconnect,285505.0
+LBank,bonk,1353393.0
+LBank,rats,626357.0
+LBank,compound-governance-token,585456.0
+LBank,mina-protocol,527450.0
+LBank,kaspa,1051652.0
+LBank,lazio-fan-token,790470.0
+LBank,safepal,619816.0
+LBank,auction,280104.0
+LBank,maricoin,920017.0
+LBank,ethereum-name-service,824226.0
+LBank,storj,541196.0
+LBank,balancer,775151.0
+LBank,binance-peg-eos,1288337.0
+LBank,mask-network,600284.0
+LBank,coin98,595439.0
+LBank,jasmycoin,478093.0
+LBank,republic-protocol,426293.0
+LBank,swipe,580988.0
+LBank,alice-ai,637146.0
+LBank,elrond-erd-2,741717.0
+LBank,crypto-com-chain,667945.0
+LBank,holotoken,600712.0
+DigiFinex,solana,129216793.0
+DigiFinex,binance-peg-dogecoin,58822373.0
+DigiFinex,batcat,665266121.0
+DigiFinex,beam-bridged-usdc-beam,103565596.0
+DigiFinex,binancecoin,8625258.0
+DigiFinex,sui,8413684.0
+DigiFinex,binance-peg-xrp,12210459.0
+DigiFinex,bridged-binance-peg-ethereum-opbnb,327580766.0
+DigiFinex,the-open-network,32367862.0
+DigiFinex,binance-peg-bitcoin-cash,3975010.0
+DigiFinex,near,11870089.0
+DigiFinex,niccagewaluigielmo42069inu,15793815.0
+DigiFinex,apidae,1962064.0
+DigiFinex,binance-peg-litecoin,12093517.0
+DigiFinex,binance-peg-filecoin,12167931.0
+DigiFinex,fantom,2589715.0
+DigiFinex,avalanche-2,12962050.0
+DigiFinex,aave,1379903.0
+DigiFinex,ada-the-dog,10586282.0
+DigiFinex,arbitrum,10495871.0
+DigiFinex,tron,25774752.0
+DigiFinex,ethereum-classic,731147.0
+DigiFinex,chainlink,7653967.0
+DigiFinex,optimism,29037608.0
+DigiFinex,maker,2937848.0
+DigiFinex,binance-peg-eos,3656788.0
+DigiFinex,chiliz,2829006.0
+DigiFinex,coreai,3822252.0
+DigiFinex,internet-computer,234793.0
+DigiFinex,bridged-dai-stablecoin-linea,2181753.0
+DigiFinex,cosmos,4353721.0
+DigiFinex,dogwifcoin,6055522.0
+DigiFinex,lido-dao,376223.0
+DigiFinex,ordinals,344162.0
+DigiFinex,gmt-token,606695.0
+DigiFinex,blockstack,1043116.0
+DigiFinex,ethereum-name-service,452532.0
+DigiFinex,san-diego-coin,2612493.0
+DigiFinex,unicorn-token,2095387.0
+DigiFinex,jupiter,2040571.0
+DigiFinex,bittorrent,856775.0
+DigiFinex,omni,2434342.0
+DigiFinex,constitutiondao,1037084.0
+DigiFinex,bridged-curve-dao-token-stargate,1316445.0
+DigiFinex,axie-infinity,940618.0
+DigiFinex,luna-wormhole,52915.0
+DigiFinex,binance-peg-polkadot,7123920.0
+DigiFinex,ethena,8032764.0
+DigiFinex,sei-network,490125.0
+DigiFinex,the-graph,1285661.0
+DigiFinex,newpepe,21197739.0
+DigiFinex,elrond-erd-2,245732.0
+DigiFinex,bridged-matic-manta-pacific,5651286.0
+DigiFinex,havven,866075.0
+DigiFinex,stellar,518155.0
+DigiFinex,flow,1014766.0
+DigiFinex,decentraland,558960.0
+DigiFinex,neo,1933419.0
+DigiFinex,woo-network,199811.0
+DigiFinex,kava,307573.0
+DigiFinex,dydx-chain,485108.0
+DigiFinex,conflux-token,894600.0
+DigiFinex,vechain,1382640.0
+DigiFinex,tezos,1456800.0
+DigiFinex,pyth-network,468951.0
+DigiFinex,celestia,606788.0
+DigiFinex,iota,64959.0
+DigiFinex,tether-gold,127232.0
+DigiFinex,jasmycoin,688805.0
+DigiFinex,loopring,319142.0
+DigiFinex,portal-2,1166047.0
+DigiFinex,hedera-hashgraph,1214401.0
+DigiFinex,pha,490805.0
+DigiFinex,pax-gold,155128.0
+DigiFinex,0x,527075.0
+DigiFinex,kyber-network-crystal,110559.0
+DigiFinex,blur,229455.0
+DigiFinex,theta-token,1730316.0
+DigiFinex,floki,2163744.0
+DigiFinex,playground-waves-floor-index,2245997.0
+DigiFinex,nervos-network,744228.0
+DigiFinex,slp,146649.0
+DigiFinex,ape-2,868656.0
+DigiFinex,bitcoin-cash-sv,611992.0
+DigiFinex,immutable-x,1589844.0
+DigiFinex,algorand,919584.0
+DigiFinex,coin98,238958.0
+DigiFinex,threshold-network-token,272799.0
+DigiFinex,manta-network,161591.0
+DigiFinex,worldcoin-wld,931775.0
+DigiFinex,jito-governance-token,429058.0
+DigiFinex,sushi,122511.0
+DigiFinex,flare-networks,353087.0
+DigiFinex,qtum,643329.0
+Bitrue,batcat,99589776.0
+Bitrue,bridged-binance-peg-ethereum-opbnb,175559678.0
+Bitrue,bridged-wrapped-bitcoin-manta-pacific,20354134.0
+Bitrue,binance-peg-xrp,59157049.0
+Bitrue,binance-peg-filecoin,9359316.0
+Bitrue,optimism,5187871.0
+Bitrue,san-diego-coin,7768136.0
+Bitrue,stellar,3386937.0
+Bitrue,solana,11594655.0
+Bitrue,magic,9579189.0
+Bitrue,digital-asset-right-token,17213463.0
+Bitrue,fathom-dollar,132340.0
+Bitrue,loopring,410516.0
+Bitrue,near,15048183.0
+Bitrue,decentraland,3225116.0
+Bitrue,stargate-finance,4429339.0
+Bitrue,dydx-chain,4499941.0
+Bitrue,binance-peg-dogecoin,468580.0
+Bitrue,fetch-ai,12063425.0
+Bitrue,gmt-token,12657689.0
+Bitrue,xdce-crowd-sale,963722.0
+Bitrue,404-bakery,4955073.0
+Bitrue,frax-share,1664828.0
+Bitrue,alchemy-pay,1924562.0
+Bitrue,ankr,2124383.0
+Bitrue,mask-network,7632118.0
+Bitrue,theta-fuel,162426.0
+Bitrue,gnosis,243938.0
+Bitrue,dash,12448112.0
+Bitrue,binancecoin,14102076.0
+Bitrue,niccagewaluigielmo42069inu,7657444.0
+Bitrue,arbitrum,732641.0
+Bitrue,lido-dao,701208.0
+Bitrue,cosmos,695119.0
+Bitrue,trust-wallet-token,6254702.0
+Bitrue,hedera-hashgraph,395960.0
+Bitrue,terra-luna-2,896731.0
+Bitrue,coti,838608.0
+Bitrue,arpa,6404016.0
+Bitrue,aelf,397673.0
+Bitrue,oasis-network,11729916.0
+Bitrue,ethereum-classic,7958592.0
+Bitrue,alice-ai,1466009.0
+Bitrue,ethereum-name-service,1202072.0
+Bitrue,iota,517349.0
+Bitrue,okb,892983.0
+Bitrue,arweave,3507465.0
+Bitrue,avalanche-2,4891971.0
+Bitrue,quant-network,1271169.0
+Bitrue,pendle,3000541.0
+Bitrue,rocket-pool,96612.0
+Bitrue,render-token,3265316.0
+Bitrue,jasmycoin,1780481.0
+Bitrue,badger-dao,38961.0
+Bitrue,dogwifcoin,6572391.0
+Bitrue,injective-protocol,1255037.0
+Bitrue,livepeer,384084.0
+Bitrue,jito-governance-token,311219.0
+Bitrue,power-ledger,931952.0
+Bitrue,bridged-matic-manta-pacific,1213996.0
+Bitrue,blur,1010477.0
+Bitrue,ada-the-dog,9492380.0
+Bitrue,beam,3168594.0
+Bitrue,ordinals,948070.0
+Bitrue,polymesh,257821.0
+Bitrue,cartesi,340903.0
+Bitrue,chainlink,2504427.0
+Bitrue,singularitynet,1762961.0
+Bitrue,yield-guild-games,2923079.0
+Bitrue,nervos-network,269728.0
+Bitrue,ultra,1417.14
+Bitrue,blockstack,3773123.0
+Bitrue,chromaway,452366.0
+Bitrue,acent,93612.0
+Bitrue,tron,2066600.0
+Bitrue,gala,456053.0
+Bitrue,vechain,3498554.0
+Bitrue,constitutiondao,47430.0
+Bitrue,bridged-trueusd,250070.0
+Bitrue,maker,2638164.0
+Bitrue,asr-coin,2560952.0
+Bitrue,binance-peg-litecoin,1421082.0
+Bitrue,paris-saint-germain-fan-token,2544235.0
+Bitrue,basic-attention-token,2304198.0
+Bitrue,wax,34238.0
+Bitrue,basedswap,399277.0
+LATOKEN,bridged-binance-peg-ethereum-opbnb,262905674.0
+LATOKEN,tron,24183990.0
+LATOKEN,chainlink,6450568.0
+LATOKEN,binance-peg-dogecoin,942131.0
+LATOKEN,near,489836.0
+LATOKEN,binance-peg-litecoin,1454208.0
+LATOKEN,binance-peg-polkadot,1395251.0
+LATOKEN,san-diego-coin,2899810.0
+LATOKEN,ada-the-dog,1138492.0
+LATOKEN,internet-computer,130147.0
+LATOKEN,niccagewaluigielmo42069inu,8033372.0
+LATOKEN,binance-peg-xrp,4828539.0
+LATOKEN,unicorn-token,374954.0
+LATOKEN,bridged-trueusd,240904.0
+LATOKEN,immutable-x,117528.0
+LATOKEN,the-graph,320874.0
+LATOKEN,ethereum-classic,368269.0
+LATOKEN,vechain,522598.0
+LATOKEN,axie-infinity,280616.0
+LATOKEN,pancakeswap-token,188383.0
+LATOKEN,binancecoin,299917.0
+LATOKEN,chromaway,226107.0
+LATOKEN,stellar,296233.0
+LATOKEN,fantom,203640.0
+LATOKEN,chiliz,445224.0
+LATOKEN,optimism,111920.0
+LATOKEN,pax-gold,274061.0
+LATOKEN,aave,524994.0
+LATOKEN,binance-peg-eos,152602.0
+LATOKEN,clearpool,113715.0
+LATOKEN,lina,127751.0
+LATOKEN,zcash,262709.0
+LATOKEN,holotoken,311974.0
+LATOKEN,playground-waves-floor-index,1276046.0
+LATOKEN,jaseonmun,1480789.0
+LATOKEN,constitutiondao,157209.0
+LATOKEN,amp-token,110091.0
+LATOKEN,hedera-hashgraph,161693.0
+LATOKEN,verasity,142364.0
+LATOKEN,skale,227277.0
+LATOKEN,quant-network,126701.0
+LATOKEN,farmbot,169863.0
+LATOKEN,arpa,123451.0
+LATOKEN,solana,682226.0
+LATOKEN,metal,150596.0
+LATOKEN,ocean-protocol,119911.0
+LATOKEN,tezos,233563.0
+LATOKEN,cosmos,1033732.0
+LATOKEN,quark-chain,2505.5
+LATOKEN,yield-guild-games,107496.0
+LATOKEN,utrust,127111.0
+LATOKEN,fetch-ai,226440.0
+LATOKEN,iota,145649.0
+LATOKEN,nexo,131275.0
+LATOKEN,0x,155855.0
+LATOKEN,yearn-finance,165303.0
+LATOKEN,dog-wif-spinning-hat,73545.0
+LATOKEN,iexec-rlc,182436.0
+LATOKEN,ssv-network,72456.0
+LATOKEN,biconomy,171271.0
+LATOKEN,frax-share,178051.0
+LATOKEN,power-ledger,347871.0
+LATOKEN,livepeer,144526.0
+LATOKEN,api3,218707.0
+LATOKEN,galatasaray-fan-token,186925.0
+LATOKEN,unifi-protocol-dao,135409.0
+LATOKEN,komodo,91631.0
+LATOKEN,guildfi,216658.0
+LATOKEN,gnosis,131645.0
+LATOKEN,loopring,180830.0
+LATOKEN,aelf,325811.0
+LATOKEN,qtum,151120.0
+LATOKEN,1inch,167739.0
+LATOKEN,ethernity-chain,216632.0
+LATOKEN,alchemy-pay,117352.0
+LATOKEN,joe,153272.0
+LATOKEN,truebit-protocol,121278.0
+LATOKEN,venus,110044.0
+LATOKEN,origin-protocol,166508.0
+LATOKEN,alice-ai,165636.0
+LATOKEN,illuvium,151684.0
+LATOKEN,render-token,181319.0
+LATOKEN,decentraland,141997.0
+LATOKEN,zignaly,280142.0
+LATOKEN,ethereum-name-service,154246.0
+XT.COM,batcat,10247268.0
+XT.COM,binance-peg-dogecoin,287950.0
+XT.COM,solana,62872068.0
+XT.COM,bridged-binance-peg-ethereum-opbnb,180022801.0
+XT.COM,ordinals,218448.0
+XT.COM,book-of-meme,12488665.0
+XT.COM,maker,305083.0
+XT.COM,binance-peg-xrp,12012057.0
+XT.COM,binance-peg-litecoin,280021.0
+XT.COM,beam-bridged-usdc-beam,3117879.0
+XT.COM,xtusd,408425.0
+XT.COM,binancecoin,1007170.0
+XT.COM,bridged-dai-stablecoin-linea,1068100.0
+XT.COM,jupiter,643073.0
+XT.COM,apidae,311189.0
+XT.COM,floki,339326.0
+XT.COM,unicorn-token,583255.0
+XT.COM,fetch-ai,162594.0
+XT.COM,the-open-network,6610309.0
+XT.COM,singularitynet,9609.42
+XT.COM,illuvium,287822.0
+XT.COM,internet-computer,277694.0
+XT.COM,bridged-matic-manta-pacific,275107.07
+XT.COM,binance-peg-eos,301795.0
+XT.COM,binance-peg-polkadot,292457.0
+XT.COM,arweave,368147.0
+XT.COM,ada-the-dog,637306.0
+XT.COM,binance-peg-bitcoin-cash,3608106.0
+XT.COM,pendle,273451.0
+XT.COM,sei-network,277663.0
+XT.COM,ondo-finance,932013.0
+XT.COM,skale,240147.0
+XT.COM,chainlink,681663.0
+XT.COM,woo-network,173248.0
+XT.COM,aave,427034.0
+XT.COM,cryptosaga,319425.0
+XT.COM,safepal,280309.0
+XT.COM,coin98,302932.0
+XT.COM,tron,305947.0
+XT.COM,dogwifcoin,235510.0
+XT.COM,bittensor,287849.0
+XT.COM,decentraland,2011495.0
+XT.COM,arbitrum,1755562.0
+XT.COM,xtcom-token,2364952.0
+XT.COM,injective-protocol,1503409.0
+XT.COM,magic,303096.0
+XT.COM,jito-governance-token,500291.0
+XT.COM,oasis-network,283199.0
+XT.COM,mantra-dao,252231.0
+XT.COM,san-diego-coin,1833336.0
+XT.COM,cosmos,1054678.0
+XT.COM,ravencoin,350937.0
+XT.COM,grok-3,460622.0
+XT.COM,coreai,5728106.0
+XT.COM,binance-peg-filecoin,286192.0
+XT.COM,immutable-x,253727.0
+XT.COM,bridged-curve-dao-token-stargate,671018.0
+XT.COM,ocean-protocol,275928.0
+XT.COM,yield-guild-games,32565.0
+XT.COM,frax-share,38153.0
+XT.COM,jasmycoin,312841.0
+XT.COM,vechain,1056212.0
+XT.COM,runebound,213274.0
+XT.COM,santos-fc-fan-token,543303.0
+XT.COM,theta-fuel,373599.0
+XT.COM,trust-wallet-token,287112.0
+XT.COM,elrond-erd-2,176487.0
+XT.COM,kyber-network-crystal,304061.0
+XT.COM,fantom,3489587.0
+XT.COM,frontier-token,275455.0
+XT.COM,kava,298806.0
+XT.COM,binance-peg-iotex,304972.0
+XT.COM,neo,300980.0
+XT.COM,near,2085129.0
+XT.COM,arpa,271446.0
+XT.COM,0x,282516.0
+XT.COM,raydium,256842.0
+XT.COM,prometeus,305494.0
+XT.COM,nervos-network,334079.0
+XT.COM,wax,299118.0
+XT.COM,terrausd,8873.78
+XT.COM,conflux-token,958049.0
+XT.COM,chiliz,303784.0
+XT.COM,hooked-protocol,278115.0
+XT.COM,the-graph,365162.0
+XT.COM,bridged-trueusd,35103.0
+XT.COM,metis-token,1233163.0
+XT.COM,loom,269228.0
+XT.COM,stargate-finance,304278.0
+XT.COM,algorand,309661.0
+XT.COM,ssv-network,290323.0
+BitVenus,solana,98401117.0
+BitVenus,binancecoin,25648685.0
+BitVenus,binance-peg-dogecoin,56295375.0
+BitVenus,binance-peg-xrp,15638638.0
+BitVenus,batcat,449006093.0
+BitVenus,binance-peg-bitcoin-cash,4027381.0
+BitVenus,chainlink,1787322.0
+BitVenus,binance-peg-litecoin,5236409.0
+BitVenus,niccagewaluigielmo42069inu,2791788.0
+BitVenus,arbitrum,1613951.0
+BitVenus,avalanche-2,1867093.0
+BitVenus,bridged-matic-manta-pacific,2716430.0
+BitVenus,unicorn-token,13070249.0
+BitVenus,bridged-binance-peg-ethereum-opbnb,346416040.0
+BitVenus,worldcoin-wld,18819331.0
+BitVenus,aave,2611218.0
+BitVenus,celestia,1976373.0
+BitVenus,meme-brc-20,431202.0
+BitVenus,cyberconnect,982633.0
+BitVenus,tron,4454546.0
+BitVenus,ordinals,1624140.0
+BitVenus,optimism,6840258.0
+BitVenus,alitas,769374.0
+BitVenus,cosmos,1180009.0
+BitVenus,san-diego-coin,2984309.0
+BitVenus,singularitynet,2984618.0
+BitVenus,tellor,2877941.0
+BitVenus,jupiter,1141537.0
+BitVenus,pendle,1305022.0
+BitVenus,dogwifcoin,1890127.0
+BitVenus,hedera-hashgraph,1526786.0
+BitVenus,yearn-finance,782549.0
+BitVenus,loom,400079.0
+BitVenus,1inch,390904.0
+BitVenus,compound-governance-token,774128.0
+BitVenus,decentraland,1220554.0
+BitVenus,portal-2,590265.0
+BitVenus,ark,1088723.0
+BitVenus,havven,1121428.0
+BitVenus,ape-2,1149626.0
+BitVenus,sui,1706637.0
+BitVenus,aicoin-2,2216913.0
+BitVenus,bonk,976976.0
+BitVenus,pyth-network,370886.0
+BitVenus,stp-network,419873.0
+BitVenus,blur,220427.0
+BitVenus,enjincoin,492781.0
+BitVenus,frax-share,650636.0
+BitVenus,axie-infinity,425564.0
+BitVenus,threshold-network-token,559468.0
+BitVenus,alice-ai,693912.0
+BitVenus,big-time,193259.0
+BitVenus,omisego,1054276.0
+BitVenus,nfprompt-token,464307.0
+BitVenus,okratech-token,50407.0
+BitVenus,hugewin,955861.0
+BitVenus,bridged-trueusd,959423.0
+BitVenus,first-digital-usd,1408738.0
+BitVenus,satoshis-vision,345903.0
+BitVenus,bonsai3,1029691.0
+Tapbit,bridged-binance-peg-ethereum-opbnb,183542748.0
+Tapbit,binance-peg-xrp,2724334.0
+Tapbit,batcat,245070693.0
+Tapbit,binancecoin,2195648.0
+Tapbit,solana,2553822.0
+Tapbit,beam-bridged-usdc-beam,2693657.0
+Tapbit,binance-peg-bitcoin-cash,693089.0
+Tapbit,pancakeswap-token,253654.0
+Tapbit,binance-peg-dogecoin,624307.0
+Tapbit,gala,206254.0
+Tapbit,bridged-matic-manta-pacific,668292.0
+Tapbit,gmt-token,273003.0
+Tapbit,binance-peg-litecoin,510001.0
+Tapbit,unicorn-token,414671.0
+Tapbit,binance-peg-eos,309062.0
+Tapbit,ethereum-classic,399485.0
+Tapbit,avalanche-2,418154.0
+Tapbit,ada-the-dog,701707.0
+Tapbit,chainlink,649104.0
+Tapbit,dydx-chain,270615.0
+Tapbit,swipe,313643.0
+Tapbit,arbitrum,309038.0
+Tapbit,constitutiondao,277743.0
+Tapbit,404-bakery,196979.0
+Tapbit,galatasaray-fan-token,62063.0
+Tapbit,immutable-x,327054.0
+Tapbit,perpetual-protocol,107871.0
+Tapbit,slp,35677.0
+Tapbit,ethereum-name-service,364524.0
+Tapbit,alice-ai,116192.0
+Tapbit,the-graph,298461.0
+Tapbit,high,255331.0
+Tapbit,dodo,30711.0
+Tapbit,bridged-curve-dao-token-stargate,140247.0
+Tapbit,qtum,304347.0
+Tapbit,binance-peg-filecoin,399845.0
+Tapbit,woo-network,30146.0
+Tapbit,barnbridge,26030.0
+Tapbit,fantom,650036.0
+Tapbit,sui,461878.0
+Tapbit,worldcoin-wld,304725.0
+Tapbit,chiliz,330216.0
+Tapbit,okb,98678.0
+Tapbit,cosmos,351483.0
+Tapbit,ape-2,113898.0
+Tapbit,alpaca-finance,88939.0
+Tapbit,oec-token,24052.0
+Tapbit,quant-network,151552.0
+Tapbit,near,286985.0
+Tapbit,loopring,322392.0
+Tapbit,optimism,419627.0
+Tapbit,decentraland,359127.0
+Tapbit,maker,379002.0
+Tapbit,superrare,24174.0
+Tapbit,mask-network,200404.0
+Tapbit,bridged-dai-stablecoin-linea,479864.0
+Tapbit,apidae,328277.0
+Tapbit,aave,396937.0
+Tapbit,terra-luna-2,130564.0
+Tapbit,binance-peg-polkadot,409368.0
+Tapbit,sushi,346513.0
+Tapbit,internet-computer,228117.0
+Tapbit,venus,38620.0
+Tapbit,kyber-network-crystal,20609.0
+Tapbit,celestia,463669.0
+Tapbit,axie-infinity,110657.0
+Tapbit,omisego,355334.0
+Tapbit,bim,27135.0
+Tapbit,flow,237101.0
+Tapbit,ordinals,472659.0
+Tapbit,lina,33132.0
+Tapbit,stellar,178038.0
+Tapbit,tellor,389006.0
+Tapbit,san-diego-coin,241378.0
+Tapbit,gmx,131995.0
+Tapbit,flash-technologies,22830.0
+Tapbit,lit,112461.0
+Tapbit,frax-share,155918.0
+Tapbit,chromaway,60486.0
+Tapbit,enjincoin,125929.0
+Tapbit,compound-governance-token,108686.0
+Tapbit,dogwifcoin,364663.0
+Tapbit,lido-dao,248618.0
+Tapbit,fetch-ai,198548.0
+Tapbit,coreai,446408.0
+Tapbit,conflux-token,96751.0
+Tapbit,render-token,358353.0
+Tapbit,ethereum-pow-iou,40849.0
+Tapbit,illuvium,42128.0
+Tapbit,injective-protocol,345296.0
+Tapbit,aicoin-2,82482.0
+Tapbit,grok-3,84789.0
+Tapbit,floki,97161.0
+Tapbit,sweatcoin,90246.0
+Tapbit,cyberconnect,79764.0
+Tapbit,blur,43672.0
+Tapbit,livepeer,79176.0
+PointPay,binance-peg-dogecoin,7544022.0
+PointPay,binancecoin,6658417.0
+PointPay,binance-peg-bitcoin-cash,2281425.0
+PointPay,binance-peg-litecoin,2351233.0
+PointPay,batcat,54174535.0
+PointPay,tron,2917973.0
+PointPay,solana,24140754.0
+PointPay,beam-bridged-usdc-beam,5597926.0
+PointPay,bridged-binance-peg-ethereum-opbnb,28391453.0
+PointPay,near,5169130.0
+PointPay,bridged-matic-manta-pacific,1628402.0
+PointPay,fantom,3877413.0
+PointPay,cosmos,1985889.0
+PointPay,the-graph,335322.0
+PointPay,livepeer,343798.0
+PointPay,compound-governance-token,152365.0
+PointPay,lido-dao,155289.0
+PointPay,avalanche-2,3168501.0
+PointPay,dydx-chain,314851.0
+PointPay,unicorn-token,1582805.0
+PointPay,injective-protocol,2928847.0
+PointPay,binance-peg-xrp,4097686.0
+PointPay,worldcoin-wld,814354.0
+PointPay,maker,1214254.0
+PointPay,skale,557016.0
+PointPay,chainlink,3937995.0
+PointPay,san-diego-coin,137953.0
+PointPay,render-token,1474530.0
+PointPay,ethereum-classic,552525.0
+PointPay,gala,225625.0
+PointPay,arkham,273968.0
+PointPay,binance-peg-polkadot,1934120.0
+PointPay,galatasaray-fan-token,113170.0
+PointPay,theta-token,488007.0
+PointPay,ape-2,260120.0
+PointPay,ssv-network,109052.0
+PointPay,ocean-protocol,94388.0
+PointPay,chiliz,795699.0
+PointPay,axie-infinity,85121.0
+PointPay,ada-the-dog,1527292.0
+PointPay,binance-peg-filecoin,1940208.0
+PointPay,fetch-ai,920500.0
+PointPay,quant-network,612542.0
+PointPay,bridged-dai-stablecoin-linea,17818.92
+PointPay,404-bakery,311708.0
+PointPay,coin98,214133.0
+PointPay,everid,729658.0
+PointPay,pancakeswap-token,350121.0
+PointPay,tellor,94380.0
+PointPay,sushi,625552.0
+PointPay,ankr,182202.0
+PointPay,aave,359110.0
+PointPay,loopring,120695.0
+PointPay,flow,270407.0
+PointPay,havven,167608.0
+PointPay,woo-network,162607.0
+PointPay,alice-ai,80660.0
+PointPay,illuvium,55221.0
+PointPay,1inch,176518.0
+PointPay,bridged-curve-dao-token-stargate,98353.0
+PointPay,enjincoin,60101.0
+PointPay,yield-guild-games,333391.0
+PointPay,niccagewaluigielmo42069inu,1255703.0
+PointPay,audius,106576.0
+PointPay,tether-gold,521619.0
+PointPay,stellar,221243.0
+PointPay,cyberconnect,64472.0
+PointPay,synapse-2,23460.0
+Phemex,beam-bridged-usdc-beam,5923662.0
+Phemex,bridged-binance-peg-ethereum-opbnb,3497919.0
+Phemex,binance-peg-dogecoin,3277590.0
+Phemex,binance-peg-litecoin,612588.0
+Phemex,ada-the-dog,2214540.0
+Phemex,cosmos,1235148.0
+Phemex,niccagewaluigielmo42069inu,929185.0
+Phemex,binance-peg-xrp,3122188.0
+Phemex,solana,8140599.0
+Phemex,chainlink,655591.0
+Phemex,bridged-curve-dao-token-stargate,759333.0
+Phemex,optimism,406497.0
+Phemex,fantom,2775922.0
+Phemex,binance-peg-bitcoin-cash,831314.0
+Phemex,unicorn-token,1172374.0
+Phemex,binancecoin,1800933.0
+Phemex,mask-network,364074.0
+Phemex,paxos-standard,128704.0
+Phemex,render-token,655110.0
+Phemex,tron,2854539.0
+Phemex,ocean-protocol,875628.0
+Phemex,binance-peg-polkadot,1140256.0
+Phemex,stellar,966923.0
+Phemex,gala,1207494.0
+Phemex,sui,4377687.0
+Phemex,phemex,1558083.0
+Phemex,near,1834361.0
+Phemex,lido-dao,850811.0
+Phemex,avalanche-2,1842179.0
+Phemex,havven,295942.0
+Phemex,arbitrum,1078898.0
+Phemex,san-diego-coin,1629634.0
+Phemex,ankr,525368.0
+Phemex,decentraland,433407.0
+Phemex,enjincoin,449482.0
+Phemex,1inch,219003.0
+Phemex,yearn-finance,97207.0
+Phemex,basic-attention-token,242942.0
+Phemex,ethereum-classic,84093.0
+Phemex,compound-governance-token,453815.0
+Phemex,0x,75919.0
+Phemex,qtum,351531.0
+Phemex,rad,45942.0
+Phemex,constitutiondao,175715.0
+Phemex,chiliz,287408.0
+Phemex,the-graph,1266608.0
+Phemex,singularitynet,309442.0
+Phemex,terra-luna-2,63027.0
+Phemex,frax-share,819949.0
+Phemex,reef,157458.0
+Phemex,immutable-x,1067169.0
+Phemex,fetch-ai,2492686.0
+Phemex,binance-peg-filecoin,90801.0
+Phemex,dydx-chain,765989.0
+Phemex,zcash,514464.0
+Phemex,hashflow,14621.27
+Phemex,worldcoin-wld,512474.0
+Phemex,aavegotchi-alpha,209980.0
+Phemex,binance-peg-eos,751225.0
+Phemex,bridged-matic-manta-pacific,490779.0
+Phemex,gmt-token,82459.0
+Phemex,tezos,626832.0
+Phemex,api3,339041.0
+Phemex,conflux-token,308781.0
+Phemex,ethernity-chain,208578.0
+Phemex,bella-protocol,638172.0
+Phemex,maker,4134489.0
+Phemex,uma,262524.0
+Phemex,aave,922152.0
+Phemex,coin98,82312.0
+Phemex,jasmycoin,360214.0
+Phemex,kusama,305472.0
+Phemex,galatasaray-fan-token,144299.0
+Phemex,ape-2,207289.0
+Phemex,neutron-3,227391.0
+Phemex,binaryx,304289.0
+Phemex,luna-wormhole,204095.0
+Phemex,sei-network,613432.0
+Phemex,metal,238979.0
+Phemex,injective-protocol,957366.0
+Phemex,pax-gold,618758.0
+Phemex,binance-peg-ontology,697910.0
+Phemex,magic,156760.0
+Phemex,liquity,62191.0
+Phemex,kyber-network-crystal,321580.0
+Phemex,game,118130.0
+Phemex,quant-network,480435.0
+Phemex,celer-network,108056.0
+Phemex,audius,170674.0
+Phemex,coti,530297.0
+Phemex,apidae,251911.0
+Phemex,edu-coin,178105.0
+Phemex,reserve-rights-token,1182895.0
+Phemex,lit,153488.0
+Phemex,flux,19403.44
+Phemex,santos-fc-fan-token,710599.0
+Phemex,iexec-rlc,125341.0
+Phemex,digital-asset-right-token,125887.0
+Phemex,alchemy-pay,357300.0
+Phemex,yield-guild-games,2260762.0
+BTSE,arbitrum-bridged-usdt-arbitrum,1136655.0
+BTSE,bridged-binance-peg-ethereum-opbnb,33588810.0
+BTSE,batcat,44233746.0
+BTSE,solana,7038198.0
+BTSE,binancecoin,2723232.0
+BTSE,binance-peg-xrp,1405705.0
+BTSE,binance-peg-dogecoin,3563158.0
+BTSE,binance-peg-litecoin,419766.0
+BTSE,chainlink,528415.0
+BTSE,niccagewaluigielmo42069inu,1347971.0
+BTSE,ada-the-dog,1243253.0
+BTSE,bridged-matic-manta-pacific,460663.0
+BTSE,sui,1307761.0
+BTSE,near,1844456.0
+BTSE,binance-peg-filecoin,370705.0
+BTSE,binance-peg-polkadot,535620.0
+BTSE,optimism,1235272.0
+BTSE,worldcoin-wld,1406355.0
+BTSE,dogwifcoin,546629.0
+BTSE,fantom,1536704.0
+BTSE,injective-protocol,589148.0
+BTSE,apidae,911464.0
+BTSE,celestia,441505.0
+BTSE,cosmos,367894.0
+BTSE,unicorn-token,199417.0
+BTSE,newpepe,1808498.0
+BTSE,tron,338362.0
+BTSE,mask-network,57269.0
+BTSE,dydx-chain,43763.0
+BTSE,skale,41362.0
+BTSE,compound-governance-token,36698.0
+BTSE,the-graph,152387.0
+BTSE,jito-governance-token,225093.0
+BTSE,san-diego-coin,78631.0
+BTSE,sushi,19541.4
+BTSE,pendle,81925.0
+BTSE,gala,265638.0
+BTSE,yield-guild-games,69761.0
+BTSE,aave,65425.0
+BTSE,storj,20632.0
+BTSE,gmt-token,65969.0
+BTSE,luna-wormhole,62906.0
+BTSE,manta-network,143230.0
+BTSE,chiliz,72257.0
+BTSE,cyberconnect,68322.0
+BTSE,ape-2,70640.0
+BTSE,everid,97113.0
+BTSE,ethereum-name-service,58511.0
+BTSE,axie-infinity,38118.0
+BTSE,0x,46090.0
+BTSE,1inch,11657.86
+BTSE,grok-3,49437.0
+BTSE,ocean-protocol,40142.0
+BTSE,portal-2,77128.0
+BTSE,binance-peg-eos,44948.0
+BTSE,acent,36238.0
+BTSE,arkham,186178.0
+BTSE,pancakeswap-token,71119.0
+BTSE,moonbeam,19772.9
+BTSE,decentraland,22656.0
+BTSE,algorand,54241.0
+BTSE,mantra-dao,553481.0
+BTSE,pyth-network,90353.0
+BTSE,loopring,27932.0
+BTSE,tezos,19123.98
+BTSE,tellor,18804.88
+BTSE,constitutiondao,27899.0
+BTSE,lido-dao,54933.0
+BTSE,coin98,10132.19
+BTSE,cat-in-a-dogs-world,5809.16
+BTSE,binance-peg-iotex,27233.0
+BTSE,frontier-token,169787.0
+BTSE,metis-token,23206.0
+BTSE,floki,408058.0
+BTSE,tokenfi,13165.16
+BTSE,zilliqa,39697.0
+BTSE,terra-luna-2,31638.0
+BTSE,auction,16581.77
+BTSE,harmony,17702.09
+BTSE,ankr,20956.0
+BTSE,convex-finance,7419.74
+BTSE,tether-gold,3591.2
+BTSE,alchemy-pay,40744.0
+BTSE,blur,45746.0
+BTSE,enjincoin,19028.61
+BTSE,balancer,18610.71
+BTSE,cartesi,7388.0
+BTSE,edu-coin,139403.0
+BTSE,woo-network,17312.84
+BTSE,reserve-rights-token,12936.46
+BTSE,chromaway,23847.0
+BTSE,immutable-x,28744.0
+Dex-Trade,batcat,57135542.0
+Dex-Trade,bridged-binance-peg-ethereum-opbnb,10685358.0
+Dex-Trade,binancecoin,1346548.46
+Dex-Trade,floki,505866.0
+Dex-Trade,chainlink,728814.0
+Dex-Trade,solana,4695685.0
+Dex-Trade,tron,582334.97
+Dex-Trade,beam-bridged-usdc-beam,4590232.0
+Dex-Trade,binance-peg-xrp,1665152.45
+Dex-Trade,binance-peg-dogecoin,1946780.0
+Dex-Trade,cosmos,234338.57
+Dex-Trade,bridged-matic-manta-pacific,603387.97
+Dex-Trade,unicorn-token,118439.25
+Dex-Trade,jasmycoin,196812.0
+Dex-Trade,niccagewaluigielmo42069inu,1007340.0
+Dex-Trade,ada-the-dog,902852.75
+Dex-Trade,binance-peg-polkadot,372508.98
+Dex-Trade,near,777348.0
+Dex-Trade,ethereum-classic,397269.77
+Dex-Trade,binance-peg-litecoin,315636.46
+Dex-Trade,san-diego-coin,184946.58
+Dex-Trade,stellar,89623.0
+Dex-Trade,compound-governance-token,48933.0
+Dex-Trade,the-graph,154853.94
+Dex-Trade,binance-peg-eos,133806.75
+Dex-Trade,elrond-erd-2,76300.22
+Dex-Trade,zilliqa,81761.0
+Dex-Trade,bridged-curve-dao-token-stargate,89729.42
+Dex-Trade,decentraland,72621.62
+Dex-Trade,binance-peg-bitcoin-cash,458827.0
+Dex-Trade,ape-2,135987.0
+Dex-Trade,fantom,749186.85
+Dex-Trade,aave,107872.15
+Dex-Trade,axie-infinity,90100.83
+Dex-Trade,power-ledger,103054.0
+Dex-Trade,bim,30051.0
+Dex-Trade,sushi,52969.0
+Dex-Trade,loopring,51140.58
+Dex-Trade,p2p-solutions-foundation,1492435.0
+Dex-Trade,zcash,69848.84
+Dex-Trade,nexo,19281.4
+Dex-Trade,qtum,50083.0
+Dex-Trade,dash,40925.0
+Dex-Trade,gmt-token,279148.0
+Dex-Trade,ravencoin,78937.0
+Dex-Trade,theta-token,163463.02
+Dex-Trade,algorand,111006.0
+Dex-Trade,0x,48708.63
+Dex-Trade,usd-zee,137747.0
+Dex-Trade,havven,85049.0
+Dex-Trade,trust-wallet-token,64239.0
+Dex-Trade,omisego,44769.0
+Dex-Trade,digital-asset-right-token,38426.0
+Dex-Trade,dydx-chain,181310.0
+Dex-Trade,ethereum-name-service,92850.0
+Dex-Trade,pancakeswap-token,157397.0
+Dex-Trade,santos-fc-fan-token,223463.0
+Dex-Trade,quant-network,48560.0
+Dex-Trade,holotoken,39190.0
+Dex-Trade,ocean-protocol,101513.0
+Dex-Trade,ankr,78193.0
+Dex-Trade,basic-attention-token,24897.0
+EXMO,bridged-binance-peg-ethereum-opbnb,5943976.0
+EXMO,batcat,24322781.0
+EXMO,binance-peg-xrp,1517242.0
+EXMO,beam-bridged-usdc-beam,1063439.0
+EXMO,solana,828831.0
+EXMO,binance-peg-polkadot,38028.78
+EXMO,binance-peg-bitcoin-cash,3346337.0
+EXMO,yearn-finance,189234.0
+EXMO,binance-peg-litecoin,2761908.0
+EXMO,arbitrum-bridged-usdt-arbitrum,331619.23000000004
+EXMO,ada-the-dog,1149640.0
+EXMO,the-open-network,1960431.0
+EXMO,bridged-dai-stablecoin-linea,118603.0
+EXMO,near,1563216.0
+EXMO,binance-peg-dogecoin,3231323.0
+EXMO,unicorn-token,298672.0
+EXMO,stellar,233823.25
+EXMO,ethena,43366.0
+EXMO,chainlink,893515.0
+EXMO,maker,612212.0
+EXMO,qtum,1786690.5699999998
+EXMO,ethereum-classic,1074518.0
+EXMO,tron,2033926.0
+EXMO,dogwifcoin,283388.0
+EXMO,cosmos,239458.0
+EXMO,algorand,140640.62
+EXMO,exmo-coin,6938.14
+EXMO,parsiq,154003.0
+EXMO,chiliz,48259.0
+EXMO,tezos,1357.17
+EXMO,niccagewaluigielmo42069inu,5142.96
+EXMO,harmony,9136.05
+EXMO,0x,11569.08
+EXMO,sui,1073624.0
+EXMO,neo,1636317.0
+EXMO,gas,458408.0
+Bitso,arbitrum-bridged-usdt-arbitrum,17278567.0
+Bitso,binance-peg-xrp,12198693.0
+Bitso,batcat,10274031.0
+Bitso,bridged-binance-peg-ethereum-opbnb,1643307.12
+Bitso,solana,821263.0
+Bitso,newpepe,420730.0
+Bitso,niccagewaluigielmo42069inu,155946.71
+Bitso,binance-peg-dogecoin,202723.0
+Bitso,binance-peg-litecoin,217758.63
+Bitso,chainlink,107706.94
+Bitso,bridged-dai-stablecoin-linea,14026.69
+Bitso,binance-peg-bitcoin-cash,173143.92
+Bitso,ada-the-dog,231164.0
+Bitso,avalanche-2,143025.0
+Bitso,cosmos,22809.0
+Bitso,tron,49271.45
+Bitso,unicorn-token,86703.0
+Bitso,near,94527.0
+Bitso,chiliz,156435.0
+Bitso,gala,123640.0
+Bitso,stellar,20937.0
+Bitso,axie-infinity,28832.0
+Bitso,maker,55135.0
+Bitso,decentraland,79945.0
+Bitso,fantom,59344.0
+Bitso,binance-peg-polkadot,80811.52
+Bitso,san-diego-coin,27140.0
+Bitso,aave,56455.0
+Bitso,bridged-matic-manta-pacific,56467.84
+Bitso,bridged-trueusd,43436.83
+Bitso,pax-gold,46012.0
+Bitso,basic-attention-token,34730.67
+Bitso,fc-barcelona-fan-token,2917.05
+Bitso,the-graph,20350.0
+Bitso,quant-network,15407.92
+Bitso,balancer,2993.72
+Bitso,dydx-chain,8617.04
+Bitso,ape-2,30142.0
+Bitso,loopring,3250.01
+Bitso,compound-governance-token,3065.1
+Bitso,enjincoin,7631.08
+Bitso,yearn-finance,1755.64
+Bitso,omisego,19280.7
+Bitso,bridged-curve-dao-token-stargate,29563.0
+Bitso,sushi,8393.37
+Bitso,algorand,18590.47
+Bitso,tigres-fan-token,21854.0
+Bitso,havven,7547.46
+Bitso,lido-dao,19421.35
+Bitso,paris-saint-germain-fan-token,12828.31
+Bitbank,binance-peg-xrp,6793085.0
+Bitbank,bridged-dai-stablecoin-linea,557619.0
+Bitbank,binance-peg-dogecoin,3274858.0
+Bitbank,qtum,488578.0
+Bitbank,san-diego-coin,104838.0
+Bitbank,symbol,78202.0
+Bitbank,binance-peg-litecoin,244801.0
+Bitbank,bridged-matic-manta-pacific,215506.0
+Bitbank,stellar,189928.0
+Bitbank,astar,695286.0
+Bitbank,flare-networks,625592.0
+Bitbank,avalanche-2,638328.0
+Bitbank,ada-the-dog,433247.0
+Bitbank,chainlink,259634.0
+Bitbank,binance-peg-polkadot,259798.0
+Bitbank,render-token,664093.0
+Bitbank,gala,460774.0
+Bitbank,the-graph,182305.0
+Bitbank,arbitrum,125841.0
+Bitbank,optimism,118245.0
+Bitbank,maker,266857.0
+Bitbank,chiliz,99997.0
+Bitbank,oasys,53196.0
+Bitbank,omisego,40323.0
+Bitbank,binancecoin,242364.0
+Bitbank,basic-attention-token,70932.0
+Bitbank,ape-2,77638.0
+Bitbank,enjincoin,30095.0
+Bitbank,mona,12918.87
+Bitbank,decentraland,25993.0
+Bitbank,axie-infinity,8995.0
+Bitbank,batcat,19209885.0
+Bitbank,bridged-binance-peg-ethereum-opbnb,7151205.0
+Bitbank,boba,238197.0
+Bitbank,mask-network,30937.0
+Bitbank,immutable-x,70570.0
+Bitbank,klay-token,9799.97
+Max Maicoin,bridged-binance-peg-ethereum-opbnb,4884480.0
+Max Maicoin,batcat,7517045.0
+Max Maicoin,binance-peg-litecoin,77992.0
+Max Maicoin,binance-peg-bitcoin-cash,144914.0
+Max Maicoin,binance-peg-xrp,82910.0
+Max Maicoin,binance-peg-dogecoin,906712.0
+Max Maicoin,max,50280.39
+Max Maicoin,san-diego-coin,36973.74
+Max Maicoin,bincentive,26043.39
+Max Maicoin,chainlink,237885.0
+Max Maicoin,beam-bridged-usdc-beam,168489.0
+Max Maicoin,solana,1680664.0
+Max Maicoin,niccagewaluigielmo42069inu,137484.55
+Max Maicoin,ada-the-dog,343661.0
+Max Maicoin,binancecoin,102614.0
+Max Maicoin,bridged-matic-manta-pacific,51685.380000000005
+Max Maicoin,binance-peg-polkadot,108200.18
+Max Maicoin,gstcoin,11556.31
+Max Maicoin,ethereum-classic,26885.5
+Max Maicoin,ape-2,17452.079999999998
+Max Maicoin,rally-2,2730.64
+Max Maicoin,loot,2848.4300000000003
+Max Maicoin,tezos,1419.06
+Max Maicoin,looksrare,511.09
+Max Maicoin,arbitrum-bridged-usdt-arbitrum,15075636.0
+Max Maicoin,gmt-token,44218.0
+Max Maicoin,gala,36760.0
+Max Maicoin,the-graph,16232.92
+Max Maicoin,arbitrum,27962.05
+Max Maicoin,compound-governance-token,12405.78
+Max Maicoin,decentraland,5874.06
+Max Maicoin,mask-network,5345.63
+Max Maicoin,ethereum-name-service,3865.06
+Max Maicoin,alice-ai,716.17
+Max Maicoin,yearn-finance,589.44
+BitoPro,bridged-binance-peg-ethereum-opbnb,5293177.23
+BitoPro,batcat,8347010.0
+BitoPro,bito-coin,17831.68
+BitoPro,binance-peg-dogecoin,1187341.0
+BitoPro,beam-bridged-usdc-beam,39455.38
+BitoPro,gensokishis-metaverse,1683.47
+BitoPro,niccagewaluigielmo42069inu,78071.01
+BitoPro,tron,2086.61
+BitoPro,ape-2,31537.11
+BitoPro,arbitrum-bridged-usdt-arbitrum,11627923.0
+BitoPro,solana,796525.51
+BitoPro,binance-peg-xrp,37511.0
+BitoPro,binancecoin,22928.0
+BitoPro,ada-the-dog,70313.14
+BitoPro,binance-peg-litecoin,9361.78
+BitoPro,bridged-matic-manta-pacific,114256.29
+BitoPro,binance-peg-bitcoin-cash,11717.21
+BitoPro,binance-peg-eos,2073.13
+BitoPro,the-open-network,3041.78
+BitoPro,yearn-finance,69.2
+Luno,bridged-binance-peg-ethereum-opbnb,2034770.57
+Luno,solana,2335726.66
+Luno,binance-peg-xrp,1592648.3
+Luno,unicorn-token,167409.33
+Luno,binance-peg-litecoin,153909.2
+Luno,xbit,12644578.47
+Luno,binance-peg-bitcoin-cash,227812.12
+Luno,ada-the-dog,296646.584742
+Indodax,binance-peg-dogecoin,876424.0
+Indodax,binance-peg-xrp,487806.0
+Indodax,solana,600756.0
+Indodax,niccagewaluigielmo42069inu,281956.0
+Indodax,binancecoin,172601.0
+Indodax,bridged-matic-manta-pacific,120063.0
+Indodax,zilliqa,31062.0
+Indodax,tron,63199.0
+Indodax,batcat,113818.0
+Indodax,beam-bridged-usdc-beam,21969.0
+Indodax,avalanche-2,43376.0
+Indodax,render-token,307859.0
+Indodax,binance-peg-litecoin,34131.0
+Indodax,bridged-binance-peg-ethereum-opbnb,10947.65
+Indodax,ada-the-dog,91444.0
+Indodax,conflux-token,10235.75
+Indodax,nervos-network,154159.0
+Indodax,near,25187.0
+Indodax,binance-peg-polkadot,24599.0
+Indodax,floki,21237.0
+Indodax,velo,482646.0
+Indodax,quant-network,25031.0
+Indodax,xdce-crowd-sale,16088.17
+Indodax,san-diego-coin,17913.48
+Indodax,optimism,5097.79
+Indodax,stellar,38518.0
+Indodax,vechain,7964.44
+Indodax,decentraland,9645.89
+Indodax,reserve-rights-token,12394.14
+Indodax,the-graph,16491.36
+Indodax,tokenfi,102862.0
+Indodax,nada-protocol-token,122096.0
+Indodax,realvirm,842.09
+Indodax,verasity,114154.0
+Indodax,compound-governance-token,586.93
+Indodax,0x,3312.78
+Indodax,gmt-token,18656.69
+Indodax,fetch-ai,131671.0
+Indodax,alibabacoin,45259.0
+Indodax,1inch,9555.61
+Indodax,milk-alliance,9350.38
+Indodax,obscuro,15973.42
+Indodax,bitcoin-gold,990.34
+Indodax,orbit-chain,14331.89
+Indodax,giant-mammoth,78547.0
+Indodax,aioz-network,8341.46
+Indodax,ignis,1119.97
+Indodax,streamcoin,83914.0
+Indodax,iron-titanium-token,6471.88
+Indodax,digix-gold,222.7
+Indodax,twelve-zodiac,5588.82
+Indodax,wozx,2708.25
+Indodax,wemix-token,17139.29
+Indodax,linkeye,1976.07
+Indodax,nanobyte,657.81
+Indodax,sumokoin,2148.19
+Indodax,kok,62891.0
+Indodax,everscale,609.31
+Indodax,telcoin,5830.5
+Indodax,vibing,633.5
+Indodax,botxcoin,250.01
+Indodax,fanc,14740.71
+Indodax,bitget-token,16526.71
+Indodax,hedgetrade,519.85
+Indodax,glitch-protocol,194.21
+Indodax,magic-shoes,34564.0
+Indodax,octofi,2963.55
+Indodax,chainbing,1087.6
+Indodax,bitrue-token,112.62
+Indodax,alif-coin,1267.33
+Indodax,venus,231.0
+Indodax,gictrade,34213.0
+Indodax,newpepe,767947.0
+Indodax,gxchain,415.91
+Indodax,lyfe-silver,1659.43
+Indodax,lyfe-gold,291.7
+Indodax,energi,2170.73
+Indodax,shill-guard-token,99332.0
+Indodax,algorand,2721.76
+Indodax,attila,616.71
+Indodax,daex,2531.78
+Indodax,observer-coin,3348.1
+Indodax,bittorrent,1315.37
+Indodax,the-abyss,50.33
+Indodax,ecash,2539.88
+Indodax,alpaca-finance,371.36
+Indodax,duckie-land-multi-metaverse,754.06
+Indodax,zcash,1166.28
+Indodax,luna-wormhole,1430.55
+Indodax,a3s,41950.0
+Indodax,fusefi,692.5
+Indodax,kardiachain,1377.12
+Indodax,radiant-capital,785.03
+Indodax,staika,30724.0
+Indodax,honest-mining,934.91
+Indodax,monero,21123.0
+Indodax,murasaki,111.59
+XeggeX,batcat,767543.0
+XeggeX,bridged-binance-peg-ethereum-opbnb,304697.0
+XeggeX,beam-bridged-usdc-beam,6063.15
+XeggeX,binance-peg-xrp,85174.47
+XeggeX,binance-peg-litecoin,111108.13
+XeggeX,zencash,26424.4
+XeggeX,tron,40826.52
+XeggeX,binancecoin,134916.0
+XeggeX,metchain,29109.93
+XeggeX,microvisionchain,1767.14
+XeggeX,ai-power-grid,47476.0
+XeggeX,fantom,20995.14
+XeggeX,nkyc-token,113601.0
+XeggeX,avalanche-2,20049.78
+XeggeX,binance-peg-dogecoin,69803.39
+XeggeX,radiant,15564.61
+XeggeX,ethereum-classic,22917.07
+XeggeX,ada-the-dog,19081.5
+XeggeX,arbitrum,4129.51
+XeggeX,binance-peg-eos,18988.52
+XeggeX,binance-peg-bitcoin-cash,23240.0
+XeggeX,hacash-diamond,99387.5
+XeggeX,etica,2288.79
+XeggeX,bridged-matic-manta-pacific,28384.77
+XeggeX,bella-protocol,8478.64
+XeggeX,adamant-messenger,104316.0
+XeggeX,ravencoin,17435.23
+XeggeX,playground-waves-floor-index,15546.99
+XeggeX,binance-peg-polkadot,22681.72
+XeggeX,vechain,13028.14
+XeggeX,zcash,38310.75
+XeggeX,celo,18366.94
+XeggeX,xpense-2,21151.81
+XeggeX,kaspa,33925.5
+XeggeX,tpro,19182.77
+XeggeX,stellar,15993.56
+XeggeX,dynex,7396.0
+XeggeX,elysium-royale,43654.65
+XeggeX,dash,28324.38
+XeggeX,hacash,89791.0
+XeggeX,canxium,8885.32
+XeggeX,neurai,8489.73
+XeggeX,warthog,8030.4
+XeggeX,monero,26027.94
+XeggeX,pyrin,16252.95
+XeggeX,vestate,21449.0
+XeggeX,blocx-2,13970.32
+XeggeX,syscoin,13020.63
+XeggeX,motacoin,112417.0
+XeggeX,nexellia,3858.11
+XeggeX,clore-ai,22225.0
+XeggeX,nautilus-network,990.17
+XeggeX,phoenix,335.48
+XeggeX,digibyte,11670.38
+XeggeX,bitnet,2439.16
+XeggeX,stohn-coin,2282.6
+XeggeX,zephyr-protocol,14664.72
+XeggeX,bitcoinpow,7508.15
+XeggeX,dogecash,65.44
+XeggeX,kylacoin,57121.0
+XeggeX,decentralized-etf,6780.18
+XeggeX,larissa-blockchain,4670.9
+XeggeX,alephium,10726.03
+XeggeX,anokas-network,1200.83
+XeggeX,safe-deal,16562.81
+XeggeX,karlsen,4982.79
+XeggeX,fact0rn,3338.82
+XeggeX,octaspace,4445.23
+XeggeX,zano,846.33
+XeggeX,dero,2988.6
+Nonkyc.io,bridged-binance-peg-ethereum-opbnb,160419.26
+Nonkyc.io,batcat,554744.0
+Nonkyc.io,binancecoin,61455.17
+Nonkyc.io,zcash,39639.83
+Nonkyc.io,chainlink,34514.37
+Nonkyc.io,pancakeswap-token,63838.53
+Nonkyc.io,binance-peg-dogecoin,170884.87
+Nonkyc.io,solana,205783.48
+Nonkyc.io,arbitrum,52920.42
+Nonkyc.io,binance-peg-litecoin,81719.94
+Nonkyc.io,aave,56802.9
+Nonkyc.io,fantom,86067.4
+Nonkyc.io,binance-peg-xrp,39211.22
+Nonkyc.io,ada-the-dog,59856.41
+Nonkyc.io,bridged-trueusd,8655.32
+Nonkyc.io,compound-governance-token,28287.1
+Nonkyc.io,tron,45868.33
+Nonkyc.io,render-token,68621.09
+Nonkyc.io,binance-peg-bitcoin-cash,88730.03
+Nonkyc.io,bridged-curve-dao-token-stargate,27216.1
+Nonkyc.io,bridged-matic-manta-pacific,49643.94
+Nonkyc.io,ravencoin,13525.06
+Nonkyc.io,monero,187017.0
+Nonkyc.io,algorand,13630.18
+Nonkyc.io,dash,39398.96
+Nonkyc.io,404-bakery,12764.01
+Nonkyc.io,binance-peg-firo,111689.0
+Nonkyc.io,ape-2,34347.05
+Nonkyc.io,nkyc-token,108247.0
+Nonkyc.io,immutable-x,22755.0
+Nonkyc.io,verge,34993.81
+Nonkyc.io,pivx,19058.59
+Nonkyc.io,adamant-messenger,38661.0
+Nonkyc.io,unicorn-token,22877.78
+Nonkyc.io,beam,17522.86
+Nonkyc.io,bella-protocol,107868.0
+Nonkyc.io,pirate-chain,1211.04
+Nonkyc.io,radium,9577.68
+Nonkyc.io,gh0stc0in,3470.32
+Nonkyc.io,ergo,1715.44
+Nonkyc.io,haven,115.04
+Nonkyc.io,proton-project,3468.55
+Nonkyc.io,particl,56503.0
+Nonkyc.io,flux,9468.29
+Nonkyc.io,dynex,54394.0
+Nonkyc.io,rushcmc,46848.62
+Nonkyc.io,wownero,476.37
+Nonkyc.io,digibyte,8903.1
+Nonkyc.io,kaspa,616.55
+Nonkyc.io,ayin,13.7
+Nonkyc.io,hacash,648.1
+Nonkyc.io,rosen-bridge,810.94
+NiceHash,batcat,340568.0
+NiceHash,bridged-binance-peg-ethereum-opbnb,18392.45
+NiceHash,binance-peg-litecoin,27205.64
+NiceHash,binance-peg-xrp,26956.71
+NiceHash,binance-peg-dogecoin,42820.6
+NiceHash,monero,29134.0
+NiceHash,solana,11918.07
+NiceHash,stellar,1259.58
+NiceHash,tron,8555.29
+NiceHash,ravencoin,15383.87
+NiceHash,binance-peg-bitcoin-cash,10118.33
+NiceHash,ada-the-dog,669.54
+NiceHash,zcash,332.03
+NiceHash,niccagewaluigielmo42069inu,457.04
+NiceHash,fantom,6456.77
+NiceHash,binance-peg-eos,12193.67
+NiceHash,dash,220.29
+NiceHash,binance-peg-polkadot,2702.78
+NiceHash,chiliz,18.47
+NiceHash,holotoken,15142.92
+NiceHash,bridged-matic-manta-pacific,362.6
+NiceHash,sushi,170.43
+NiceHash,omisego,2.03
+NiceHash,loopring,63.59
+NiceHash,data-bot,57.31
+NiceHash,ethereum-classic,1407.57
+NiceHash,the-graph,68.83
+NiceHash,blockstack,116.33
+NiceHash,hedera-hashgraph,411.29
+NiceHash,metal,6.15
+NiceHash,gala,2535.85
+NiceHash,chainlink,22.73
+NiceHash,san-diego-coin,2054.52
+NiceHash,bridged-curve-dao-token-stargate,30.09
+NiceHash,unicorn-token,22.88
+NiceHash,aave,4485.469999999999
+NiceHash,1inch,3804.09
+NiceHash,ocean-protocol,11.17
+NiceHash,kusama,2946.4
+NiceHash,0x,56.09
+NiceHash,nexo,6.11
+NiceHash,fetch-ai,968.65
+NiceHash,maker,10.58
+NiceHash,enjincoin,12.42
+NiceHash,basic-attention-token,108.78
+NiceHash,storj,6.73
+NiceHash,band-protocol,5.79
+NiceHash,kyber-network-crystal,5.9
+NiceHash,power-ledger,6.24
+NiceHash,absolute-sync-token,6.53
+NiceHash,loom,6.09
+BitMEX,bitmex-token,26561.0
+BitMEX,solana,2173.06
+BitMEX,bridged-binance-peg-ethereum-opbnb,41144.08
+BitMEX,tron,438.63
+BitMEX,xbit,159584.0
+BitMEX,bonk,12.51
+BitMEX,binance-peg-xrp,17.93
+BitMEX,unicorn-token,22.37
+BitMEX,ape-2,0.489458
+BitMEX,chainlink,22.11
+BitMEX,cosmos,24.87
+BitMEX,bridged-matic-manta-pacific,42.5
+Okcoin,batcat,37781.0
+Okcoin,arbitrum-bridged-usdt-arbitrum,41.67
+Okcoin,bridged-binance-peg-ethereum-opbnb,20000.0
+Okcoin,beam-bridged-usdc-beam,69.38
+P2B,batcat,1141380740.0
+P2B,binancecoin,95057604.0
+P2B,bridged-binance-peg-ethereum-opbnb,287485768.0
+P2B,bridged-matic-manta-pacific,29802497.0
+P2B,tron,8689942.0
+P2B,niccagewaluigielmo42069inu,17554648.0
+P2B,ada-the-dog,20665538.0
+P2B,zilliqa,2411372.0
+P2B,havven,230152.65
+P2B,binance-peg-bitcoin-cash,6431040.0
+P2B,binance-peg-dogecoin,1668473.0
+P2B,compound-governance-token,2207358.0
+P2B,binance-peg-litecoin,22359248.71
+P2B,avalanche-2,29598779.0
+P2B,algorand,846153.0
+P2B,balancer,68395.57
+P2B,chainlink,13283794.0
+P2B,0x,1362417.97
+P2B,stellar,2370894.81
+P2B,basic-attention-token,107516.42
+P2B,bridged-curve-dao-token-stargate,145319.21
+P2B,solana,80296737.0
+P2B,ocean-protocol,2759648.64
+P2B,utopia-usd,27195.0
+P2B,1inch,25730.0
+P2B,cosmos,3949826.0
+P2B,binance-peg-polkadot,13329804.0
+P2B,swipe,439510.0
+P2B,diment-dollar,137541.0
+P2B,band-protocol,51989.19
+P2B,maal-chain,6350255.0
+P2B,paradox-2,2585694.0
+P2B,yearn-finance,76364.56
+P2B,hippopotamus,878548.0
+P2B,numeraire,53773.42
+P2B,immutable-x,1192874.0
+P2B,gmt-token,165770.0
+P2B,playground-waves-floor-index,5163835.0
+P2B,hedera-hashgraph,23725.0
+P2B,loopring,97031.0
+P2B,enjincoin,102863.21
+P2B,tellor,2598349.0
+P2B,nexo,18107.02
+P2B,woo-network,46280.0
+P2B,gala,70382.0
+P2B,decentraland,93768.9
+P2B,trust-wallet-token,1499328.0
+P2B,lit,21921.0
+P2B,lido-dao,126034.0
+P2B,aave,3161794.0
+P2B,real-tok,833634.0
+P2B,nem,99777.0
+P2B,dego-finance,78571.0
+P2B,kyber-network-crystal,1537.96
+P2B,republic-protocol,35682.57
+P2B,bim,30897.0
+P2B,power-ledger,49681.0
+P2B,basedswap,7656.55
+P2B,dash,29016.0
+P2B,maker,9946.23
+P2B,brics-chain,185592.0
+P2B,ape-2,193095.0
+Biconomy,solana,21201993.0
+Biconomy,bridged-binance-peg-ethereum-opbnb,27323591.0
+Biconomy,batcat,292937887.0
+Biconomy,binance-peg-bitcoin-cash,4871862.0
+Biconomy,apidae,398216.0
+Biconomy,niccagewaluigielmo42069inu,13136170.0
+Biconomy,yield-guild-games,5841501.0
+Biconomy,bridged-matic-manta-pacific,9082947.0
+Biconomy,ada-the-dog,12927568.0
+Biconomy,near,7465533.0
+Biconomy,cosmos,698945.0
+Biconomy,binance-peg-xrp,8880109.0
+Biconomy,binancecoin,11213933.0
+Biconomy,binance-peg-dogecoin,10757438.0
+Biconomy,binance-peg-litecoin,5689903.0
+Biconomy,sui,11111130.0
+Biconomy,binance-peg-polkadot,8502637.0
+Biconomy,arweave,407083.0
+Biconomy,tron,12264481.0
+Biconomy,binance-peg-filecoin,9079389.0
+Biconomy,ethereum-classic,8254168.0
+Biconomy,avalanche-2,7025499.0
+Biconomy,arbitrum,8109703.0
+Biconomy,chainlink,11356031.0
+Biconomy,binance-peg-eos,4256160.0
+Biconomy,bridged-curve-dao-token-stargate,354103.0
+Biconomy,worldcoin-wld,862748.0
+Biconomy,san-diego-coin,483542.0
+Biconomy,unicorn-token,3455568.0
+Biconomy,optimism,4846364.0
+Biconomy,axie-infinity,1457900.0
+Biconomy,gala,6761583.0
+Biconomy,fetch-ai,1533981.0
+Biconomy,immutable-x,6705734.0
+Biconomy,constitutiondao,211162.0
+Biconomy,elrond-erd-2,929934.0
+Biconomy,lido-dao,279429.0
+Biconomy,aave,353778.0
+Biconomy,newpepe,6552367.0
+Biconomy,decentraland,234984.0
+Biconomy,ordinals,547230.0
+Biconomy,dent,11555.49
+Biconomy,power-ledger,102357.0
+Biconomy,the-graph,15460.26
+Biconomy,coreai,427165.0
+Biconomy,frax-share,147752.0
+Biconomy,compound-governance-token,386864.0
+Biconomy,barnbridge,67433.0
+Biconomy,1inch,149674.0
+Biconomy,dash,65798.0
+Biconomy,arkham,372774.0
+Biconomy,dydx-chain,106770.0
+Biconomy,zcash,946479.0
+Biconomy,kyber-network-crystal,40667.0
+Biconomy,sushi,175124.0
+Biconomy,chiliz,15238.92
+Biconomy,threshold-network-token,115110.0
+Biconomy,blur,187767.0
+Biconomy,gmt-token,69878.0
+Biconomy,trust-wallet-token,12677.96
+Biconomy,perpetual-protocol,349159.0
+Biconomy,diment-dollar,162592.0
+Biconomy,convex-finance,5701.33
+Biconomy,bone-shibaswap,348144.0
+Biconomy,fc-porto,155586.0
+Biconomy,pancakeswap-token,275216.0
+Biconomy,stoicdao,463916.0
+Biconomy,clevernode,204696.0
+Biconomy,tomochain,158999.0
+Biconomy,xyo-network,60939.0
+Biconomy,galatasaray-fan-token,301478.0
+Biconomy,radio-caca,758573.0
+Biconomy,omisego,6706.79
+Biconomy,portal-2,306835.0
+Biconomy,wemix-token,497066.0
+Biconomy,jaseonmun,1345715.0
+Biconomy,turbo,129817.0
+Biconomy,big-time,120185.0
+Biconomy,telos,45589.0
+Biconomy,cat-in-a-dogs-world,133038.0
+Biconomy,multibit,396647.0
+Biconomy,zeebu,258638.0
+Biconomy,klay-token,169045.0
+Biconomy,fasttoken,236560.0
+Biconomy,xcad-network,121508.0
+Biconomy,pundi-x-2,41943.0
+Biconomy,meme-brc-20,138523.0
+Biconomy,swipe,306853.0
+Biconomy,oho-blockchain,331704.0
+Biconomy,game-fantasy-token,408.56
+Biconomy,coding-dino,18367.36
+Biconomy,hugewin,1175526.0
+Biconomy,neurai,45976.0
+Biconomy,ten-best-coins,475132.0
+Biconomy,taikai,80066.0
+Biconomy,omchain,239228.0
+Toobit,bridged-binance-peg-ethereum-opbnb,230285718.0
+Toobit,batcat,394185978.0
+Toobit,solana,36817912.0
+Toobit,arbitrum,1879270.0
+Toobit,beam-bridged-usdc-beam,840239.0
+Toobit,binance-peg-dogecoin,20271166.0
+Toobit,binance-peg-xrp,987563.0
+Toobit,dogwifcoin,2074097.0
+Toobit,bonk,233173.0
+Toobit,binance-peg-litecoin,2917732.0
+Toobit,bridged-matic-manta-pacific,2461614.0
+Toobit,injective-protocol,229662.0
+Toobit,ada-the-dog,1141209.0
+Toobit,binance-peg-filecoin,495496.0
+Toobit,ethereum-classic,9231483.0
+Toobit,loom,18941.16
+Toobit,storj,138825.0
+Toobit,stargate-finance,20616.0
+Toobit,gala,497089.0
+Toobit,tellor,42064.0
+Toobit,fantom,1174139.0
+Toobit,galatasaray-fan-token,90125.0
+Toobit,gmx,74551.0
+Toobit,mask-network,523432.0
+Toobit,chainlink,1942708.0
+Toobit,binance-peg-polkadot,672877.0
+Toobit,dydx-chain,197603.0
+Toobit,binancecoin,244641.0
+Toobit,optimism,333747.0
+Toobit,lido-dao,218978.0
+Toobit,tron,385640.0
+Toobit,niccagewaluigielmo42069inu,704676.0
+Toobit,apidae,481886.0
+Toobit,decentraland,382288.0
+Toobit,chiliz,139356.0
+Toobit,worldcoin-wld,259626.0
+Toobit,cyberconnect,165783.0
+Toobit,algorand,135207.0
+Toobit,ape-2,2400268.0
+Toobit,unicorn-token,520261.0
+Toobit,san-diego-coin,263619.0
+Toobit,avalanche-2,583886.0
+Toobit,cosmos,2367899.0
+Toobit,stellar,349566.0
+Toobit,compound-governance-token,264054.0
+Toobit,frax-share,181446.0
+Toobit,trust-wallet-token,206433.0
+Toobit,aave,297631.0
+Toobit,ssv-network,249061.0
+Toobit,magic,173615.0
+Toobit,bridged-curve-dao-token-stargate,95036.0
+Toobit,enjincoin,174130.0
+Toobit,near,392786.0
+Toobit,safepal,470854.0
+Toobit,pancakeswap-token,393362.0
+Toobit,bluzelle,300905.0
+Toobit,jongro-boutique,62882.0
+Toobit,axie-infinity,142090.0
+Toobit,api3,218016.0
+Toobit,venus,229595.0
+Toobit,yield-guild-games,292907.0
+Toobit,sushi,155876.0
+Toobit,book-of-meme,1020690.0
+Toobit,livepeer,315786.0
+Toobit,abyss-world,355172.0
+Toobit,1inch,343446.0
+Toobit,arkham,201968.0
+Toobit,bonsai3,773847.0
+Toobit,hugewin,1790869.0
+Toobit,land-of-conquest-slg,2123604.0
+Toobit,solidus-aitech,138500.0
+Toobit,chaingpt,188326.0
+Toobit,veloce-vext,1177.75
+Toobit,pbm,119989.0
+Toobit,vabot-ai,54036.0
+Toobit,tapp-coin,53414.0
+Toobit,aichain,47897.0
+Toobit,scallop,56217.0
+Toobit,luckysleprecoin,405352.0
+Toobit,atc-launchpad,534563.0
+Toobit,baobaosol,107330.0
+Toobit,metazoomee,33066.0
+Toobit,aicoin-2,44598.0
+Toobit,rectime,65723.0
+Toobit,medifakt,216971.0
+Toobit,fxbox-io,80870.0
+Toobit,alvey-chain,67755.0
+Toobit,rasper-ai,6853.92
+Toobit,xpense-2,8204.34
+Toobit,fluxbot,110657.0
+Toobit,prometheum-prodigy,33840.0
+Toobit,pikaboss,18203.77
+Toobit,squidgrow,35463.0
+Toobit,multibit,9.1
+Bithumb,gracy,72722.0
+Bithumb,altava,1426864.0
+Bithumb,apm-coin,242782.0
+Bithumb,biopassport,2780701.0
+Bithumb,marcopolo,2177229.0
+Bithumb,polaris-share,3562138.0
+Bithumb,enterbutton,4912006.0
+Bithumb,bitcoin-gold,1243015.0
+Bithumb,bridged-binance-peg-ethereum-opbnb,41700261.0
+Bithumb,azit,374700.0
+Bithumb,meverse,652311.0
+Bithumb,bosagora,1280848.0
+Bithumb,abcmeta,207156.0
+Bithumb,superwalk,226378.0
+Bithumb,rai-finance,155007.0
+Bithumb,project-with,179204.0
+Bithumb,quiztok,89185.0
+Bithumb,observer-coin,150931.0
+Bithumb,roaland-core,353237.0
+Bithumb,mileverse,119847.0
+Bithumb,binance-peg-dogecoin,23004457.29
+Bithumb,chikn-egg,96943.0
+Bithumb,temco,292289.0
+Bithumb,groestlcoin,803402.0
+Bithumb,smart-valor,60178.0
+Bithumb,blocery,133272.0
+Bithumb,dvision-network,221976.0
+Bithumb,stat,94908.0
+Bithumb,300fit,149135.0
+Bithumb,0vix-protocol,130580.0
+Bithumb,thetadrop,241657.0
+Bithumb,ether-orb,1557218.0
+Bithumb,amo,97086.0
+Bithumb,archerswap-hunter,100398.0
+Bithumb,electric-vehicle-zone,167406.0
+Bithumb,wombat-exchange,269131.0
+Bithumb,alpha-quark-token,26462.0
+Bithumb,label-foundation,53735.0
+Bithumb,casper-network,14091.26
+Bithumb,six-network,38700.0
+Bithumb,dice-bot,89196.0
+Bithumb,witch-token,23429.0
+Bithumb,talkado,93999.0
+Bithumb,klayswap-protocol,1434.28
+Bithumb,bifrost,205040.0
+Bithumb,link,4819.8
+Bithumb,arbitrum-bridged-usdt-arbitrum,128912724.0
+Bithumb,batcat,131581215.0
+Bithumb,binance-peg-xrp,74327918.0
+Bithumb,solana,33254275.0
+Bithumb,binance-peg-bitcoin-cash,9281438.0
+Bithumb,zebec-network,15071314.0
+Bithumb,tron,2785762.0
+Bithumb,ethereum-classic,4393056.0
+Bithumb,binance-peg-eos,2170432.0
+Bithumb,jupiter,4912547.0
+Bithumb,arbitrum,1131986.0
+Bithumb,acent,10522875.0
+Bithumb,ada-the-dog,4086430.0
+Bithumb,asmatch,731158.0
+Bithumb,pendle,3737860.0
+Bithumb,ong,11607396.0
+Bithumb,bridged-dai-stablecoin-linea,69964.0
+Bithumb,binancecoin,322281.0
+Bithumb,wemix-token,1594587.0
+Bithumb,chainlink,1253493.0
+Bithumb,bitcoin-cash-sv,816483.0
+Bithumb,klay-token,2516750.0
+Bithumb,mantle,3128236.0
+Bithumb,neo,12816858.0
+Bithumb,starknet,2990864.0
+Bithumb,ecash,1999354.0
+Bithumb,qtum,2536677.0
+Bithumb,playground-waves-floor-index,3271724.0
+Bithumb,blur,493439.0
+Bithumb,the-graph,1982553.0
+Bithumb,binance-peg-polkadot,1315233.0
+Bithumb,0x,618989.0
+Bithumb,bella-protocol,2065817.0
+Bithumb,gas,563574.0
+Bithumb,apidae,693060.0
+Bithumb,swipe,472278.0
+Bithumb,arkham,1654275.0
+Bithumb,sushi,110906.0
+Bithumb,cats-of-sol,7523441.0
+Bithumb,axie-infinity,270356.0
+Bithumb,zilliqa,444525.0
+Bithumb,agility,10659013.0
+Bithumb,origin-protocol,1742499.0
+Bithumb,orbs,1029260.0
+Bithumb,nervos-network,1804723.0
+Bithumb,theta-token,286736.0
+Bithumb,san-diego-coin,980367.0
+Bithumb,cosmos,467663.0
+Bithumb,big-time,2802909.0
+Bithumb,rei-network,3505767.0
+Bithumb,bridged-matic-manta-pacific,1428649.0
+CoinW,batcat,374503272.0
+CoinW,bridged-binance-peg-ethereum-opbnb,138312474.0
+CoinW,binance-peg-xrp,2469982.0
+CoinW,gmt-token,425289.0
+CoinW,niccagewaluigielmo42069inu,8043757.0
+CoinW,binance-peg-polkadot,1007086.0
+CoinW,tron,841500.0
+CoinW,fantom,525107.0
+CoinW,chainlink,564641.0
+CoinW,ethereum-classic,391095.0
+CoinW,axie-infinity,204642.0
+CoinW,bridged-matic-manta-pacific,1595558.0
+CoinW,san-diego-coin,248512.0
+CoinW,arbitrum,783022.0
+CoinW,binance-peg-dogecoin,2188935.0
+CoinW,binance-peg-filecoin,693072.0
+CoinW,solana,8302358.0
+CoinW,cosmos,230070.0
+CoinW,binance-peg-litecoin,1005777.0
+CoinW,bridged-curve-dao-token-stargate,66672.0
+CoinW,unicorn-token,240128.0
+CoinW,binancecoin,2723697.0
+CoinW,near,878721.0
+CoinW,dydx-chain,130972.0
+CoinW,alice-ai,22859.0
+CoinW,optimism,364257.0
+CoinW,chiliz,278349.0
+CoinW,avalanche-2,863163.0
+CoinW,render-token,532902.0
+CoinW,havven,88614.0
+CoinW,ada-the-dog,918072.0
+CoinW,ape-2,81346.0
+CoinW,binance-peg-bitcoin-cash,708660.0
+CoinW,internet-computer,432464.0
+CoinW,compound-governance-token,50682.0
+CoinW,book-of-meme,730522.0
+CoinW,stellar,60943.0
+CoinW,the-graph,171943.0
+CoinW,cheelee,907240.0
+CoinW,neo,307537.0
+CoinW,kinka,147878.0
+CoinW,maker,276575.0
+CoinW,binance-peg-ontology,85976.0
+CoinW,magic,50878.0
+CoinW,binance-peg-eos,1026143.0
+CoinW,decentraland,42830.0
+CoinW,apidae,297403.0
+CoinW,aave,105901.0
+CoinW,ethereum-name-service,57262.0
+CoinW,terra-luna-2,65832.0
+CoinW,algorand,67010.0
+CoinW,sushi,38346.0
+CoinW,floki,332204.0
+CoinW,worldcoin-wld,928390.0
+CoinW,blur,46092.0
+CoinW,vechain,188663.0
+CoinW,sui,580693.0
+CoinW,fetch-ai,404693.0
+CoinW,injective-protocol,362149.0
+CoinW,ankr,68843.0
+CoinW,1inch,33046.0
+CoinW,qtum,646320.0
+CoinW,luna-wormhole,53732.0
+CoinW,rocket-pool,368558.0
+CoinW,yield-guild-games,216308.0
+CoinW,theta-token,104657.0
+CoinW,ordinals,566349.0
+CoinW,immutable-x,35081.0
+CoinW,ssv-network,91898.0
+CoinW,gmx,32193.0
+CoinW,enjincoin,30142.0
+CoinW,jito-governance-token,152672.0
+CoinW,kusama,46713.0
+CoinW,storj,18345.69
+CoinW,skale,78680.0
+CoinW,arweave,97605.0
+CoinW,mask-network,50559.0
+CoinW,mobox,26427.0
+CoinW,keep3rv1,303943.0
+CoinW,basic-attention-token,20116.0
+CoinW,alchemy-pay,83245.0
+CoinW,raydium,292464.0
+CoinW,numeraire,29334.0
+CoinW,acala,39189.0
+CoinW,acent,54772.0
+CoinW,0x,57659.0
+CoinW,ethena,239975.0
+CoinW,astar,83985.0
+CoinW,pha,43562.0
+CoinW,ong,103393.0
+CoinW,just,40045.0
+CoinW,bitcoin-cash-sv,303950.0
+CoinW,cortex,16394.11
+CoinW,adventure-gold,54130.0
+CoinW,iostoken,28938.0
+CoinW,pancakeswap-token,86724.0
+CoinW,loopring,35444.0
+CoinW,cyberconnect,38640.0
+CoinW,nervos-network,71676.0
+BigONE,bridged-binance-peg-ethereum-opbnb,226395004.0
+BigONE,batcat,303877618.0
+BigONE,binance-peg-xrp,15099466.0
+BigONE,binance-peg-litecoin,33170166.0
+BigONE,binance-peg-eos,5170480.0
+BigONE,binance-peg-bitcoin-cash,15918364.0
+BigONE,tron,544906.0
+BigONE,solana,22916673.0
+BigONE,binance-peg-dogecoin,13860736.0
+BigONE,zcash,2696632.0
+BigONE,mobilecoin,287497.0
+BigONE,binance-peg-polkadot,4820596.0
+BigONE,harmony,3540611.0
+BigONE,avalanche-2,4744942.0
+BigONE,eth3s,338743.0
+BigONE,ethereum-name-service,309799.0
+BigONE,optimism,81558.0
+BigONE,chainlink,881239.0
+BigONE,binance-peg-filecoin,1293031.0
+BigONE,aave,322867.0
+BigONE,mixin,37702.0
+BigONE,unicorn-token,401165.0
+BigONE,arweave,578797.0
+BigONE,gmx,128504.0
+BigONE,frax-share,543808.0
+BigONE,vechain,376682.0
+BigONE,cosmos,257377.0
+BigONE,kusama,244749.0
+BigONE,decentraland,179530.0
+BigONE,galatasaray-fan-token,102626.0
+BigONE,bridged-matic-manta-pacific,385202.0
+BigONE,oasis-network,211363.0
+BigONE,internet-computer,169885.0
+BigONE,san-diego-coin,126945.0
+BigONE,algorand,362805.0
+BigONE,sushi,224819.0
+BigONE,fantom,75332.0
+BigONE,bridged-curve-dao-token-stargate,93172.0
+BigONE,chiliz,58490.0
+BigONE,zencash,55106.0
+BigONE,enegra,62570.0
+Bitvavo,bridged-binance-peg-ethereum-opbnb,18694336.0
+Bitvavo,batcat,95451434.0
+Bitvavo,arbitrum-bridged-usdt-arbitrum,1726861.0
+Bitvavo,binance-peg-xrp,14193173.0
+Bitvavo,solana,34383714.0
+Bitvavo,ada-the-dog,11951109.0
+Bitvavo,binance-peg-dogecoin,3414715.0
+Bitvavo,sui,2774662.0
+Bitvavo,runebound,1219268.0
+Bitvavo,chainlink,1931966.0
+Bitvavo,beam-bridged-usdc-beam,156897.0
+Bitvavo,niccagewaluigielmo42069inu,3596968.0
+Bitvavo,dogwifcoin,14067497.0
+Bitvavo,newpepe,4460522.0
+Bitvavo,fetch-ai,10097004.0
+Bitvavo,arbitrum,488460.0
+Bitvavo,avalanche-2,1285648.0
+Bitvavo,bridged-matic-manta-pacific,858754.0
+Bitvavo,casper-network,435023.0
+Bitvavo,axelar,527744.0
+Bitvavo,worldcoin-wld,1364616.0
+Bitvavo,celestia,2401457.0
+Bitvavo,tron,529726.0
+Bitvavo,injective-protocol,2706726.0
+Bitvavo,render-token,2184618.0
+Bitvavo,optimism,207313.0
+Bitvavo,binance-peg-polkadot,1694354.0
+Bitvavo,vechain,4765565.0
+Bitvavo,fantom,2497689.0
+Bitvavo,floki,1850318.0
+Bitvavo,binancecoin,600105.0
+Bitvavo,jasmycoin,1781757.0
+Bitvavo,binance-peg-bitcoin-cash,1964669.0
+Bitvavo,internet-computer,1139135.0
+Bitvavo,apidae,498649.0
+Bitvavo,binance-peg-litecoin,693916.0
+Bitvavo,gala,1506771.0
+Bitvavo,near,1816767.0
+Bitvavo,blockstack,496827.0
+Bitvavo,hedera-hashgraph,506957.0
+Bitvavo,binance-peg-filecoin,701720.0
+Bitvavo,arweave,333388.0
+Bitvavo,yield-guild-games,1633995.0
+Bitvavo,verge,791335.0
+Bitvavo,ethereum-classic,268348.0
+Bitvavo,pendle,1828100.0
+Bitvavo,san-diego-coin,263676.0
+Bitvavo,playground-waves-floor-index,1616922.0
+Bitvavo,ordinals,194324.0
+Bitvavo,decentraland,145965.0
+Bitvavo,maker,228572.0
+Bitvavo,ankr,650074.0
+Bitvavo,singularitynet,741543.0
+Bitvavo,algorand,607964.0
+Bitvavo,iexec-rlc,105560.0
+Bitvavo,moonriver,320167.0
+Bitvavo,unicorn-token,176527.0
+Bitvavo,cosmos,343156.0
+Bitvavo,manta-network,554081.0
+Bitvavo,chiliz,300739.0
+Bitvavo,sei-network,1026583.0
+Bitvavo,ondo-finance,3273857.0
+Bitvavo,terra-luna-2,560959.0
+Bitvavo,tensor,666163.0
+Bitvavo,icon,104449.0
+Bitvavo,neo,455849.0
+Bitvavo,oasis-network,792690.0
+Bitvavo,the-graph,270487.0
+Bitvavo,ocean-protocol,433327.0
+Bitvavo,amp-token,2500324.0
+Bitvavo,axie-infinity,265153.0
+Bitvavo,ong,1393688.0
+Bitvavo,ape-2,85691.0
+Bitvavo,polymesh,629879.0
+Bitvavo,aevo-exchange,302815.0
+Bitvavo,everid,495507.0
+Bitvavo,lido-dao,17580.52
+Bitvavo,tellor,268346.0
+Bitvavo,dusk-network,397641.0
+Bitvavo,aavegotchi,5551108.0
+Bitvavo,quant-network,339205.0
+Bitvavo,skale,323828.0
+Bitvavo,immutable-x,145411.0
+Bitvavo,zilliqa,137647.0
+Bitvavo,loopring,106622.0
+Bitvavo,gmt-token,38615.0
+Bitvavo,lina,73888.0
+Bitvavo,stellar,159667.0
+Bitvavo,binance-peg-eos,78548.0
+Bitvavo,jito-governance-token,260882.0
+Bitvavo,atlas-aggregator,242035.0
+Bitvavo,wink,117024.0
+Bitvavo,blur,37277.0
+Bitvavo,portal-2,163464.0
+Bitvavo,ravencoin,260518.0
+Bitvavo,basic-attention-token,67565.0
+Bitvavo,uma,12973.93
+Bitvavo,elrond-erd-2,182448.0
+Bitvavo,conflux-token,71976.0
+Bitvavo,beam,245316.0
+Pionex,bridged-binance-peg-ethereum-opbnb,181194626.0
+Pionex,beam-bridged-usdc-beam,4763299.0
+Pionex,batcat,378750730.0
+Pionex,dogwifcoin,9028364.0
+Pionex,singularitynet,1111749.0
+Pionex,pendle,2731518.0
+Pionex,binance-peg-dogecoin,6010097.0
+Pionex,binance-peg-xrp,6521403.0
+Pionex,binancecoin,5301122.0
+Pionex,avalanche-2,1483723.0
+Pionex,ada-the-dog,1542898.0
+Pionex,near,933513.0
+Pionex,fantom,411794.0
+Pionex,solana,404468.0
+Pionex,niccagewaluigielmo42069inu,2124436.0
+Pionex,optimism,528355.0
+Pionex,injective-protocol,1145096.0
+Pionex,the-open-network,4793848.0
+Pionex,tron,1435933.0
+Pionex,binance-peg-filecoin,268528.0
+Pionex,binance-peg-litecoin,1223224.0
+Pionex,ether-fi,3188829.0
+Pionex,runebound,2204451.0
+Pionex,yield-guild-games,232864.0
+Pionex,san-diego-coin,199765.0
+Pionex,vechain,170094.0
+Pionex,gala,198246.0
+Pionex,gmt-token,204445.0
+Pionex,pyth-network,678957.0
+Pionex,portal-2,538168.0
+Pionex,cosmos,254985.0
+Pionex,ondo-finance,409028.0
+Pionex,internet-computer,300873.0
+Pionex,ape-2,165761.0
+Pionex,manta-network,987457.0
+Pionex,big-time,357941.0
+Pionex,pancakeswap-token,101617.0
+Pionex,ssv-network,414574.0
+Pionex,raydium,115923.0
+Pionex,loopring,157617.0
+Pionex,acent,516356.0
+Pionex,playground-waves-floor-index,225891.0
+Pionex,celo,91963.0
+Pionex,bluzelle,129886.0
+Pionex,power-ledger,103665.0
+Pionex,reserve-rights-token,73157.0
+Pionex,aavegotchi,1226957.0
+Pionex,farmbot,156532.0
+Pionex,storm,89377.0
+Pionex,coti,119641.0
+Pionex,terrausd,173698.0
+Pionex,nfprompt-token,335897.0
+Pionex,asr-coin,70703.0
+Pionex,metis-token,165503.0
+Pionex,beamx,570961.0
+Pionex,trust-wallet-token,248853.0
+Pionex,compound-governance-token,142148.0
+Pionex,beta-finance,66530.0
+Pionex,galatasaray-fan-token,75469.0
+Pionex,alexgo,79305.0
+Pionex,lit,107634.0
+Pionex,santos-fc-fan-token,175143.0
+Pionex,fc-porto,108821.0
+Pionex,dash,41707.0
+Pionex,slerf,2388451.0
+Pionex,everipedia,189749.0
+Pionex,lazio-fan-token,132125.0
+Pionex,syscoin,59098.0
+Pionex,cats-of-sol,207446.0
+Pionex,wink,21689.0
+Pionex,barnbridge,35711.0
+Pionex,prosper,42751.0
+Pionex,decred,19357.29
+Pionex,ardor,25313.0
+Pionex,flux,42971.0
+Pionex,vulcan-forged,56641.0
+Pionex,multibit,292172.0
+Pionex,fluence-2,11059.33
+Pionex,just,19205.6
+Pionex,binance-peg-firo,21939.0
+Pionex,mobox,52524.0
+Pionex,kadena,21929.0
+Pionex,vite,16548.34
+Pionex,looksrare,23110.0
+Pionex,moonriver,47424.0
+Pionex,pundi-x-2,38122.0
+Pionex,flash-technologies,122719.0
+Pionex,manchester-city-fan-token,214948.0
+Pionex,basedswap,26465.0
+Pionex,digibyte,29654.0
+Pionex,ellipsis-x,31196.0
+Pionex,ooki,58327.0
+Pionex,guildfi,9770.35
+Pionex,zkfair,13997.36
+Pionex,tottenham-hotspur-fc-fan-token,9795.48
+Pionex,superrare,13813.55
+Pionex,clevernode,20424.0
+ProBit Global,bridged-binance-peg-ethereum-opbnb,462045151.0
+ProBit Global,binance-peg-xrp,12380596.0
+ProBit Global,edelcoin,1461569.0
+ProBit Global,chainlink,4311300.0
+ProBit Global,bridged-dai-stablecoin-linea,9672.98
+ProBit Global,rowan-coin,209422.0
+ProBit Global,ambbi,145366.0
+ProBit Global,exchangecoin,63550.0
+ProBit Global,bridged-trueusd,8976.62
+ProBit Global,fantom,377471.0
+ProBit Global,binancecoin,127883.0
+ProBit Global,ardor,1444278.0
+ProBit Global,binance-peg-bitcoin-cash,337284.0
+ProBit Global,stellar,1962462.0
+ProBit Global,luxurious-pro-network-token,3248.22
+ProBit Global,playground-waves-floor-index,303760.0
+ProBit Global,nexo,63709.0
+ProBit Global,tron,394208.0
+ProBit Global,ecoreal-estate,195410.0
+ProBit Global,cosmos,240721.0
+ProBit Global,binance-peg-eos,144664.31
+ProBit Global,magic-square,79353.0
+ProBit Global,maker,525497.0
+ProBit Global,gas,324376.35
+ProBit Global,holotoken,567279.0
+ProBit Global,masq,75779.0
+ProBit Global,ultron,17794.01
+ProBit Global,0x,4839.84
+ProBit Global,binance-peg-litecoin,155847.0
+ProBit Global,bridged-matic-manta-pacific,382985.0
+ProBit Global,hive,178920.0
+ProBit Global,zyncoin-2,175881.0
+ProBit Global,neo,64883.0
+ProBit Global,temdao,138999.0
+ProBit Global,frontier-token,186871.0
+ProBit Global,ong,182124.0
+ProBit Global,havven,22354.0
+ProBit Global,volare-network,13026.53
+ProBit Global,kyber-network-crystal,19945.29
+ProBit Global,icon,15271.34
+ProBit Global,joltify,9489.27
+ProBit Global,basic-attention-token,11301.86
+ProBit Global,steem,16639.670000000002
+ProBit Global,bitcoinv,5155.39
+ProBit Global,cashbackpro,32076.0
+ProBit Global,probit-exchange,9176.54
+ProBit Global,compound-governance-token,6874.41
+ProBit Global,defactor,21849.0
+ProBit Global,tezos,11262.91
+ProBit Global,leoavax,5548.98
+ProBit Global,xyo-network,175702.0
+ProBit Global,ravencoin,70665.0
+ProBit Global,electric-cash,962.14
+ProBit Global,sentinel-bot-ai,15683.65
+ProBit Global,balancer,12594.61
+ProBit Global,gmcoin-2,13564.95
+ProBit Global,batcat,140358601.0
+ProBit Global,beam-bridged-usdc-beam,13295.88
+ProBit Global,fruits,26702.0
+ProBit Global,blackpearl-chain,11190176.0
+ProBit Global,binance-peg-dogecoin,3387949.0
+ProBit Global,streamcoin,3366343.0
+ProBit Global,gala-music,47585.0
+ProBit Global,plastichero,820381.0
+ProBit Global,gp-coin,92590.0
+ProBit Global,katana-inu,52138.0
+ProBit Global,geegoopuzzle,1084730.0
+ProBit Global,archethic,760.83
+ProBit Global,aave,119418.0
+ProBit Global,ciri-coin,221845.0
+ProBit Global,klay-token,131244.0
+ProBit Global,globiance-exchange,18139.35
+ProBit Global,uns-token,141607.0
+ProBit Global,staked-trx,83847.0
+ProBit Global,bridge-oracle,137230.0
+Azbit,tron,17521158.15
+Azbit,pax-gold,737158.39
+Azbit,bridged-binance-peg-ethereum-opbnb,12804920.0
+Azbit,binancecoin,5794771.0
+Azbit,binance-peg-dogecoin,14406929.0
+Azbit,bridged-matic-manta-pacific,11531559.0
+Azbit,the-open-network,228668.0
+Azbit,maker,467504.0
+Azbit,batcat,66796407.0
+Azbit,binance-peg-litecoin,9143498.0
+Azbit,binance-peg-bitcoin-cash,10506557.0
+Azbit,chainlink,7167811.0
+Azbit,bridged-wrapped-bitcoin-manta-pacific,1102194.0
+Azbit,unicorn-token,4164110.19
+Azbit,compound-governance-token,1294491.0
+Azbit,bridged-dai-stablecoin-linea,607413.0
+Azbit,1inch,1813597.0
+Azbit,bridged-curve-dao-token-stargate,19721.01
+Azbit,pancakeswap-token,5425019.0
+Azbit,fantom,2573768.0
+Azbit,havven,1445389.0
+Azbit,ankr,158762.0
+Azbit,dash,3449784.0
+Azbit,basic-attention-token,1050091.0
+Azbit,yearn-finance,1230902.0
+Azbit,0x,1104128.0
+Azbit,beamx,515810.0
+Azbit,sushi,361976.0
+Azbit,portal-2,88334.0
+Azbit,acent,182412.0
+Azbit,pendle,640863.0
+Azbit,the-graph,260862.52
+Azbit,p2p-solutions-foundation,64874.0
+Azbit,adamant-messenger,158709.0
+Azbit,jaseonmun,127479.0
+Azbit,r-dee-protocol,12353.04
+Azbit,capital-rock,191.94
+Azbit,big-tycoon,24712.0
+Azbit,ageofgods,7369.5
+Azbit,market-making-pro,30534.0
+Azbit,mudra-mdr,23013.0
+Azbit,wfdp,13153.16
+Azbit,first-digital-usd,344330.0
+Azbit,bonyta,73539.0
+Azbit,squared-token,39099.0
+Azbit,invest-club-global,1454.67
+Azbit,cipher-2,15298.28
+Azbit,azbit,42575.0
+Azbit,chain-of-legends,857.68
+Azbit,noso,4197.2
+Azbit,globel-community,15175.32
+Azbit,bancor,300406.0
+Azbit,victorum,168.92002301999997
+Azbit,niccagewaluigielmo42069inu,11.76
+Azbit,equitypay,0.881018
+Azbit,daikicoin,0.01175576
+bitFlyer,batcat,138244113.0
+bitFlyer,bridged-binance-peg-ethereum-opbnb,17629305.0
+bitFlyer,stellar,53691.0
+bitFlyer,binance-peg-xrp,3104043.0
+bitFlyer,binance-peg-bitcoin-cash,19889.66
+BtcTurk | Kripto,fetch-ai,4369497.0
+BtcTurk | Kripto,niccagewaluigielmo42069inu,2179103.0
+BtcTurk | Kripto,batcat,5080595.0
+BtcTurk | Kripto,bridged-binance-peg-ethereum-opbnb,2081344.0
+BtcTurk | Kripto,enjincoin,509250.0
+BtcTurk | Kripto,solana,4192596.0
+BtcTurk | Kripto,pax-gold,181127.0
+BtcTurk | Kripto,amp-token,6741675.0
+BtcTurk | Kripto,avalanche-2,4292343.0
+BtcTurk | Kripto,floki,5320416.0
+BtcTurk | Kripto,uma,459749.0
+BtcTurk | Kripto,luna-wormhole,2536692.0
+BtcTurk | Kripto,binance-peg-xrp,2891062.0
+BtcTurk | Kripto,render-token,2740228.0
+BtcTurk | Kripto,neo,1527674.0
+BtcTurk | Kripto,cartesi,98077.0
+BtcTurk | Kripto,binance-peg-dogecoin,951785.0
+BtcTurk | Kripto,gala,1339339.0
+BtcTurk | Kripto,the-graph,903483.0
+BtcTurk | Kripto,spell-token,606663.0
+BtcTurk | Kripto,civic,1200252.0
+BtcTurk | Kripto,0x,881560.0
+BtcTurk | Kripto,jasmycoin,1421407.0
+BtcTurk | Kripto,ada-the-dog,291197.0
+BtcTurk | Kripto,chain-2,1039161.0
+BtcTurk | Kripto,ethereum-pow-iou,157584.0
+BtcTurk | Kripto,ape-2,814389.0
+BtcTurk | Kripto,injective-protocol,2062284.0
+BtcTurk | Kripto,storj,173389.0
+BtcTurk | Kripto,arbitrum,557706.0
+BtcTurk | Kripto,ankr,656450.0
+BtcTurk | Kripto,threshold-network-token,107262.0
+BtcTurk | Kripto,singularitynet,783521.0
+BtcTurk | Kripto,manchester-city-fan-token,4130800.0
+BtcTurk | Kripto,maker,203495.0
+BtcTurk | Kripto,omisego,381098.0
+BtcTurk | Kripto,mask-network,76913.0
+BtcTurk | Kripto,san-diego-coin,306566.0
+BtcTurk | Kripto,fantom,787704.0
+BtcTurk | Kripto,apidae,1200218.0
+BtcTurk | Kripto,aave,133088.0
+BtcTurk | Kripto,binance-peg-litecoin,109907.0
+BtcTurk | Kripto,binance-peg-polkadot,251052.0
+BtcTurk | Kripto,decentraland,371348.0
+BtcTurk | Kripto,bridged-matic-manta-pacific,148665.0
+BtcTurk | Kripto,chainlink,144691.0
+BtcTurk | Kripto,chiliz,439039.0
+BtcTurk | Kripto,terra-luna-2,398851.0
+BtcTurk | Kripto,cosmos,36405.0
+BtcTurk | Kripto,api3,174813.0
+BtcTurk | Kripto,aragon,582567.0
+BtcTurk | Kripto,binance-peg-eos,133181.0
+BtcTurk | Kripto,binance-peg-filecoin,200238.0
+BtcTurk | Kripto,axie-infinity,90649.0
+BtcTurk | Kripto,immutable-x,46112.0
+BtcTurk | Kripto,ocean-protocol,250563.0
+BtcTurk | Kripto,loopring,264175.0
+BtcTurk | Kripto,livepeer,420136.0
+BtcTurk | Kripto,superciety,259295.0
+BtcTurk | Kripto,algorand,78438.0
+BtcTurk | Kripto,sushi,122992.0
+BtcTurk | Kripto,iexec-rlc,106925.0
+BtcTurk | Kripto,jupiter,435051.0
+BtcTurk | Kripto,holotoken,236722.0
+BtcTurk | Kripto,stellar,99760.0
+BtcTurk | Kripto,paris-saint-germain-fan-token,1552195.0
+BtcTurk | Kripto,pyth-network,331756.0
+BtcTurk | Kripto,fc-barcelona-fan-token,503145.0
+BtcTurk | Kripto,starknet,207958.0
+BtcTurk | Kripto,army-of-fortune-metaverse,91635.0
+BtcTurk | Kripto,origin-protocol,37831.0
+BYDFi,beam-bridged-usdc-beam,1016258.0
+BYDFi,batcat,61667426.0
+BYDFi,bridged-binance-peg-ethereum-opbnb,34314578.0
+BYDFi,binance-peg-litecoin,833952.0
+BYDFi,solana,2977692.0
+BYDFi,binance-peg-filecoin,885132.0
+BYDFi,unicorn-token,899759.0
+BYDFi,chainlink,1186810.0
+BYDFi,binance-peg-polkadot,825584.0
+BYDFi,binance-peg-eos,348611.0
+BYDFi,tron,919689.0
+BYDFi,binancecoin,1613497.0
+BYDFi,binance-peg-dogecoin,1447557.0
+BYDFi,binance-peg-xrp,2535256.0
+BYDFi,bridged-matic-manta-pacific,491810.0
+BYDFi,avalanche-2,442762.0
+BYDFi,ada-the-dog,1192910.0
+BYDFi,chiliz,755930.0
+BYDFi,binance-peg-bitcoin-cash,664296.0
+BYDFi,niccagewaluigielmo42069inu,1842062.0
+BYDFi,near,340091.0
+BYDFi,decentraland,274852.0
+BYDFi,ethereum-classic,516151.0
+BYDFi,stellar,321710.0
+BYDFi,maker,278948.0
+BYDFi,coin98,140055.0
+BYDFi,yield-guild-games,268871.0
+BYDFi,runebound,610890.0
+BYDFi,elrond-erd-2,86212.0
+BYDFi,galatasaray-fan-token,286780.0
+BYDFi,fantom,515430.0
+BYDFi,optimism,789003.0
+BYDFi,dydx-chain,613872.0
+BYDFi,compound-governance-token,175797.0
+BYDFi,celo,179619.0
+BYDFi,raydium,366566.0
+BYDFi,jasmycoin,296195.0
+BYDFi,cosmos,1091047.0
+BYDFi,pancakeswap-token,719390.0
+BYDFi,san-diego-coin,259484.0
+BYDFi,iexec-rlc,116086.0
+BYDFi,yearn-finance,389937.0
+BYDFi,gmx,186531.0
+BYDFi,vechain,232428.0
+BYDFi,balancer,46282.0
+BYDFi,threshold-network-token,46569.0
+BYDFi,aave,273982.0
+BYDFi,immutable-x,145635.0
+BYDFi,havven,145436.0
+BYDFi,tezos,137769.0
+BYDFi,alice-ai,161714.0
+BYDFi,dodo,201698.0
+BYDFi,woo-network,88710.0
+BYDFi,0x,191589.0
+BYDFi,kusama,87475.0
+BYDFi,loopring,158955.0
+BYDFi,gmt-token,272421.0
+BYDFi,lido-dao,205956.0
+BYDFi,algorand,263404.0
+BYDFi,1inch,160885.0
+BYDFi,skale,140421.0
+BYDFi,the-graph,192265.0
+BYDFi,band-protocol,279948.0
+BYDFi,bitcoin-cash-sv,142360.0
+BYDFi,ethereum-name-service,152555.0
+BYDFi,enjincoin,187073.0
+BYDFi,lina,114013.0
+BYDFi,reef,100144.0
+BYDFi,axie-infinity,250063.0
+BYDFi,reserve-rights-token,188768.0
+BYDFi,sushi,142460.0
+BYDFi,perpetual-protocol,235752.0
+BYDFi,omisego,346349.0
+BYDFi,convex-finance,293413.0
+BYDFi,bridged-curve-dao-token-stargate,285150.0
+BYDFi,republic-protocol,168438.0
+BYDFi,ape-2,292819.0
+BYDFi,dash,250296.0
+BYDFi,zcash,152415.0
+BYDFi,fusefi,27650.0
+Bitunix,batcat,26429727.0
+Bitunix,bridged-binance-peg-ethereum-opbnb,11320976.0
+Bitunix,binancecoin,5939208.0
+Bitunix,binance-peg-dogecoin,2191218.0
+Bitunix,render-token,1196840.0
+Bitunix,binance-peg-litecoin,725258.0
+Bitunix,fetch-ai,770777.0
+Bitunix,tron,941916.0
+Bitunix,near,1711991.0
+Bitunix,chainlink,564653.0
+Bitunix,solana,18596589.0
+Bitunix,avalanche-2,1821550.0
+Bitunix,okb,222523.0
+Bitunix,cosmos,297553.0
+Bitunix,bridged-dai-stablecoin-linea,170198.0
+Bitunix,arbitrum,744694.0
+Bitunix,aave,172817.0
+Bitunix,injective-protocol,1185284.0
+Bitunix,unicorn-token,263342.0
+Bitunix,frax-share,111037.0
+Bitunix,maker,1106928.0
+Bitunix,ada-the-dog,1343174.0
+Bitunix,san-diego-coin,289991.0
+Bitunix,vechain,394154.0
+Bitunix,bridged-curve-dao-token-stargate,186915.0
+Bitunix,jasmycoin,283977.0
+Bitunix,everid,233401.0
+Bitunix,the-graph,437764.0
+Bitunix,iexec-rlc,76876.0
+Bitunix,chiliz,362912.0
+Bitunix,gmt-token,554503.0
+Bitunix,havven,178884.0
+Bitunix,woo-network,99735.0
+Bitunix,ocean-protocol,232566.0
+Bitunix,mask-network,205798.0
+Bitunix,decentraland,138754.0
+Bitunix,yield-guild-games,932481.0
+Bitunix,dydx-chain,350142.0
+Bitunix,ethereum-name-service,165944.0
+Bitunix,bridged-matic-manta-pacific,1392032.0
+Bitunix,elrond-erd-2,179208.0
+Bitunix,lido-dao,149907.0
+Bitunix,sushi,119667.0
+Bitunix,worldcoin-wld,2460178.0
+Bitunix,ssv-network,191380.0
+Bitunix,singularitynet,805955.0
+Bitunix,blur,98900.0
+Bitunix,slp,72584.0
+Bitunix,1inch,134859.0
+Bitunix,api3,149107.0
+Bitunix,coti,96011.0
+Bitunix,reserve-rights-token,226202.0
+Bitunix,compound-governance-token,161737.0
+Bitunix,enjincoin,116918.0
+Bitunix,binance-peg-ontology,213144.0
+Bitunix,pancakeswap-token,265054.0
+Bitunix,ape-2,297126.0
+Bitunix,liquity,135667.0
+Bitunix,galatasaray-fan-token,209395.0
+Bitunix,tezos,127382.0
+Bitunix,dodo,81226.0
+Bitunix,hooked-protocol,87924.0
+Bitunix,crypto-com-chain,52133.0
+Bitunix,digital-asset-right-token,108599.0
+Bitunix,spell-token,35011.0
+Bitunix,vulcan-forged,38573.0
+Bitunix,nexo,42847.0
+Bitunix,joe,86738.0
+Bitunix,ankr,339652.0
+Bitunix,golem,83531.0
+Bitunix,republic-protocol,43320.0
+Bitunix,numeraire,49225.0
+Bitunix,zcash,84070.0
+Bitunix,livepeer,302761.0
+Bitunix,high,136847.0
+Bitunix,flow,149322.0
+Bitunix,radiant-capital,46270.0
+Bitunix,mobox,97538.0
+Bitunix,kyber-network-crystal,80279.0
+Bitunix,conflux-token,419266.0
+Bitunix,bridged-wrapped-bitcoin-manta-pacific,44801.0
+Bitunix,basic-attention-token,75352.0
+Bitunix,holotoken,113062.0
+Bitunix,quant-network,76248.0
+Bitunix,portal-2,197984.0
+Bitunix,chesscoin-0-32,20576.0
+Bitunix,band-protocol,52000.0
+Bitunix,balancer,32622.0
+Bitunix,hashflow,48416.0
+Bitunix,celer-network,52185.0
+Bitunix,audius,86611.0
+Bitunix,reef,59374.0
+Bitunix,pha,69225.0
+Bitunix,loom,57830.0
+Bitunix,basedswap,80930.0
+Bitunix,ethos,50413.0
+Bitunix,game-fantasy-token,67438.0
+Bitunix,everipedia,153997.0
+Bitunix,looksrare,72237.0
+Bitunix,convex-finance,12423.96
+Paribu,napoli-fan-token,356135.0
+Paribu,galatasaray-fan-token,384967.0
+Paribu,ada-the-dog,198736.0
+Paribu,niccagewaluigielmo42069inu,1122553.0
+Paribu,fenerbahce-token,1041850.0
+Paribu,decentraland,172681.0
+Paribu,clevernode,221739.0
+Paribu,goztepe-s-k-fan-token,228665.0
+Paribu,bridged-curve-dao-token-stargate,65640.0
+Paribu,ceek,822796.0
+Paribu,fantom,531272.0
+Paribu,paribu-net,1208385.0
+Paribu,holotoken,376014.0
+Paribu,origin-protocol,157298.0
+Paribu,valencia-cf-fan-token,345278.0
+Paribu,audius,122238.0
+Paribu,mina-protocol,275772.0
+Paribu,binance-peg-ontology,825990.0
+Paribu,ankr,116669.0
+Paribu,radio-caca,533650.0
+Paribu,gala,191561.0
+Paribu,fetch-ai,1688350.0
+Paribu,playground-waves-floor-index,199537.0
+Paribu,zilliqa,206727.0
+Paribu,flare-networks,249590.0
+Paribu,ravencoin,314181.0
+Paribu,orchid-protocol,31276.0
+Paribu,spell-token,203712.0
+Paribu,asmatch,184486.0
+Paribu,batcat,405866.0
+Paribu,atlas-fc-fan-token,315432.0
+Paribu,san-diego-coin,129416.0
+Paribu,avalanche-2,373498.0
+Paribu,the-graph,198327.0
+Paribu,storj,57876.0
+Paribu,stellar,57803.55
+Paribu,enjincoin,63356.0
+Paribu,trabzonspor-fan-token,72956.0
+Paribu,tezos,21089.0
+Paribu,vechain,86333.0
+Paribu,interactwith-token,443226.0
+Paribu,binance-peg-xrp,151059.0
+Paribu,tryc,1451.47
+Paribu,apidae,436934.0
+Paribu,bridged-matic-manta-pacific,88655.0
+Paribu,ethereum-name-service,530478.0
+Paribu,ape-2,465722.0
+Paribu,paris-saint-germain-fan-token,1996218.0
+Paribu,neo,477432.0
+Paribu,solana,914585.0
+Paribu,atletico-madrid,543801.0
+Paribu,army-of-fortune-metaverse,1520579.0
+Paribu,portugal-national-team-fan-token,168040.0
+Paribu,chainlink,64466.0
+Paribu,maker,59237.06
+Paribu,juventus-fan-token,678787.0
+Paribu,stargate-finance,16121.86
+Paribu,binance-peg-polkadot,40087.0
+Paribu,unicorn-token,114028.0
+Paribu,theta-token,7792.53
+Paribu,rad,53128.0
+Paribu,binance-peg-eos,29542.0
+Paribu,asr-coin,1475063.0
+Paribu,axie-infinity,20826.0
+Paribu,havven,59488.0
+Paribu,omisego,120160.0
+Paribu,uma,44464.0
+Paribu,binance-peg-bitcoin-cash,140057.0
+Paribu,compound-governance-token,14027.14
+Paribu,livepeer,150432.0
+Paribu,newpepe,4007525.0
+Paribu,vanar-chain,1157705.0
+Paribu,jasmycoin,735958.0
+Paribu,sui,582968.0
+Paribu,0x,505539.0
+Paribu,arbitrum,459201.0
+Paribu,meme-brc-20,426759.0
+Paribu,pendle,414993.0
+Paribu,grok-3,402869.0
+Paribu,jupiter,358361.0
+Paribu,singularitynet,329888.0
+Paribu,worldcoin-wld,299554.0
+Paribu,jito-governance-token,283871.0
+Paribu,radiant-capital,278519.0
+Paribu,sl-benfica-fan-token,258264.0
+Paribu,alfa-romeo-racing-orlen-fan-token,226082.0
+Paribu,skale,205928.0
+Paribu,aston-villa-fan-token,152406.0
+Paribu,helium,145890.0
+Paribu,everton-fan-token,112086.0
+Paribu,the-open-network,98121.0
+Paribu,joe,94670.0
+Paribu,sevilla-fan-token,85585.0
+CoinEx,batcat,26416253.0
+CoinEx,beam-bridged-usdc-beam,122748.0
+CoinEx,bridged-binance-peg-ethereum-opbnb,8196599.0
+CoinEx,solana,6999017.0
+CoinEx,binance-peg-xrp,1445250.0
+CoinEx,binance-peg-dogecoin,2555262.0
+CoinEx,niccagewaluigielmo42069inu,1618060.0
+CoinEx,bridged-dai-stablecoin-linea,19194.91
+CoinEx,fetch-ai,55536.0
+CoinEx,book-of-meme,321920.0
+CoinEx,frontier-token,14182.43
+CoinEx,binance-peg-litecoin,383852.0
+CoinEx,kaspa,332737.0
+CoinEx,binancecoin,1595208.0
+CoinEx,newpepe,395436.0
+CoinEx,avalanche-2,523913.0
+CoinEx,cat-in-a-dogs-world,1962547.0
+CoinEx,ada-the-dog,559997.0
+CoinEx,binance-peg-polkadot,202610.0
+CoinEx,fantom,700755.0
+CoinEx,binance-peg-bitcoin-cash,435008.0
+CoinEx,internet-computer,240909.0
+CoinEx,vanar-chain,8583.75
+CoinEx,polymesh,17820.65
+CoinEx,maker,5468.28
+CoinEx,pancakeswap-token,114153.0
+CoinEx,bridged-matic-manta-pacific,318151.0
+CoinEx,sei-network,48569.0
+CoinEx,meme-brc-20,9887.71
+CoinEx,chainlink,332967.0
+CoinEx,tron,394616.0
+CoinEx,donald-tremp,266729.0
+CoinEx,arbitrum,349659.0
+CoinEx,the-open-network,341035.0
+CoinEx,ethereum-classic,201944.0
+CoinEx,ordinals,21090.0
+CoinEx,coinex-token,105763.14
+CoinEx,pendle,63784.0
+CoinEx,pyth-network,16526.03
+CoinEx,binance-peg-filecoin,415901.0
+CoinEx,slerf,187776.0
+CoinEx,render-token,69818.0
+CoinEx,dogwifcoin,218596.0
+CoinEx,dydx-chain,115997.0
+CoinEx,everipedia,9702.57
+CoinEx,ethena,118122.0
+CoinEx,president-ron-desantis,18534.01
+CoinEx,klever,28325.0
+CoinEx,barnbridge,4418.8
+CoinEx,chiliz,5525.84
+CoinEx,metis-token,13299.98
+CoinEx,cosmos,117060.0
+CoinEx,gmt-token,26101.0
+CoinEx,san-diego-coin,27822.0
+CoinEx,gala,207785.0
+CoinEx,near,116601.0
+CoinEx,binance-peg-iotex,9311.76
+CoinEx,optimism,13088.4
+CoinEx,everid,19652.41
+CoinEx,mina-protocol,15196.77
+CoinEx,auction,4655.18
+CoinEx,luna-wormhole,71416.0
+CoinEx,kava,14623.83
+CoinEx,binance-peg-eos,27594.0
+CoinEx,ooki,5609.88
+CoinEx,decentraland,22511.0
+CoinEx,neutron-3,11843.1
+CoinEx,arkham,13079.38
+CoinEx,celestia,49082.0
+CoinEx,rif-token,10278.02
+CoinEx,cyberconnect,9453.66
+CoinEx,vethor-token,6633.75
+CoinEx,big-time,12996.23
+CoinEx,realio-network,73788.0
+CoinEx,ergo,52020.0
+CoinEx,radiant,71145.0
+CoinEx,civic,9369.75
+CoinEx,0x,8047.87
+CoinEx,blur,4512.95
+CoinEx,wormhole,26208.0
+CoinEx,illuvium,17705.83
+CoinEx,orion-protocol,4850.05
+CoinEx,api3,6391.18
+CoinEx,multibit,74453.0
+CoinEx,aevo-exchange,10764.8
+CoinEx,the-graph,18727.35
+CoinEx,astar,16315.74
+CoinEx,yield-guild-games,17489.53
+CoinEx,arweave,25150.0
+CoinEx,worldcoin-wld,17096.21
+CoinEx,bitcoin-cash-sv,132554.0
+CoinEx,neurai,51223.0
+CoinEx,zencash,14154.92
+CoinEx,lisk,5031.17
+CoinEx,edu-coin,5281.16
+CoinEx,bbs-network,4885.07
+Cryptology,batcat,33315468.0
+Cryptology,bridged-binance-peg-ethereum-opbnb,12691517.0
+Cryptology,binancecoin,1204463.0
+Cryptology,binance-peg-xrp,1346925.0
+Cryptology,binance-peg-litecoin,2179991.0
+Cryptology,solana,1817594.0
+Cryptology,tron,1241719.0
+Cryptology,bridged-matic-manta-pacific,2581658.0
+Cryptology,stellar,663356.0
+Cryptology,binance-peg-polkadot,182302.34
+Cryptology,kusama,131468.26
+Cryptology,zcash,112408.0
+Cryptology,unicorn-token,1198724.0
+Cryptology,avalanche-2,948152.0
+Cryptology,aave,902553.0
+Cryptology,the-graph,352874.0
+Cryptology,near,59823.0
+Cryptology,render-token,250488.0
+Cryptology,decentraland,228320.0
+Cryptology,illuvium,158107.0
+Cryptology,maker,88587.0
+Cryptology,1inch,115737.0
+Cryptology,santos-fc-fan-token,97476.0
+Cryptology,nkn,829166.0
+Cryptology,worldcoin-wld,58937.0
+Cryptology,pancakeswap-token,51360.0
+Cryptology,ape-2,77124.0
+Cryptology,bluzelle,58718.0
+Cryptology,basic-attention-token,196856.0
+Cryptology,trust-wallet-token,192258.0
+Cryptology,ocean-protocol,42195.0
+Cryptology,immutable-x,163099.0
+Cryptology,arkham,57118.0
+Cryptology,yield-guild-games,62271.0
+Cryptology,singularitynet,80723.0
+Cryptology,arbitrum,47515.0
+Cryptology,pendle,118100.0
+Cryptology,phoenix-global,54240.0
+Cryptology,havven,19760.52
+Cryptology,vulcan-forged,68357.0
+Cryptology,playground-waves-floor-index,21508.0
+Cryptology,skale,66587.0
+Cryptology,galatasaray-fan-token,77032.0
+Cryptology,stargate-finance,28958.0
+Cryptology,mask-network,25407.0
+Cryptology,dydx-chain,51540.0
+Cryptology,sushi,27599.0
+Cryptology,loopring,26489.0
+Cryptology,ethernity-chain,68670.0
+Cryptology,quant-network,95409.0
+Cryptology,axie-infinity,43384.0
+Cryptology,gmt-token,6818.42
+Cryptology,slp,54698.0
+Cryptology,cosmos,23569.0
+Cryptology,everid,36337.0
+Cryptology,origintrail,52092.0
+Cryptology,limewire-token,39385.0
+Cryptology,livepeer,25486.0
+Cryptology,aavegotchi,37098.0
+Cryptology,binance-peg-dogecoin,202226.0
+Cryptology,cocos-bcx,16613.56
+Cryptology,digital-asset-right-token,27249.0
+Cryptology,audius,37530.0
+Cryptology,dexe,25805.0
+Cryptology,mobox,24765.0
+Cryptology,edu-coin,11403.2
+Cryptology,orchid-protocol,25568.0
+Cryptology,jasmycoin,20254.0
+Cryptology,massive-protocol,13835.21
+Cryptology,blur,30020.0
+Cryptology,first-digital-usd,17711.65
+Cryptology,verasity,42393.0
+Cryptology,everipedia,6214.22
+Cryptology,nexo,9378.0
+Cryptology,reserve-rights-token,11009.67
+Cryptology,marlin,8234.69
+Bitkub,batcat,14923989.0
+Bitkub,binance-peg-dogecoin,3988171.0
+Bitkub,bridged-binance-peg-ethereum-opbnb,3045564.0
+Bitkub,zilliqa,728785.0
+Bitkub,celestia,244649.0
+Bitkub,optimism,1108544.0
+Bitkub,near,2119177.0
+Bitkub,beam-bridged-usdc-beam,356053.0
+Bitkub,binance-peg-xrp,1380715.0
+Bitkub,ondo-finance,466221.0
+Bitkub,ada-the-dog,772613.0
+Bitkub,binance-peg-bitcoin-cash,645979.0
+Bitkub,arbitrum,365324.0
+Bitkub,chainlink,116893.0
+Bitkub,solana,866656.0
+Bitkub,bridged-matic-manta-pacific,224841.0
+Bitkub,binancecoin,595400.0
+Bitkub,worldcoin-wld,856740.0
+Bitkub,the-graph,162700.0
+Bitkub,ocean-protocol,187839.0
+Bitkub,avalanche-2,115207.0
+Bitkub,gala,1634080.0
+Bitkub,bridged-curve-dao-token-stargate,182581.0
+Bitkub,binance-peg-polkadot,116404.0
+Bitkub,maker,34873.0
+Bitkub,tron,121195.0
+Bitkub,terra-luna-2,1189204.0
+Bitkub,lido-dao,52705.0
+Bitkub,safepal,82158.0
+Bitkub,sushi,61923.0
+Bitkub,golem,29012.0
+Bitkub,alitas,178330.0
+Bitkub,cortex,144309.0
+Bitkub,ape-2,107175.0
+Bitkub,stoicdao,348538.0
+Bitkub,immutable-x,70797.0
+Bitkub,decentraland,49245.0
+Bitkub,coin98,28823.0
+Bitkub,san-diego-coin,163068.0
+Bitkub,dydx-chain,79619.0
+Bitkub,algorand,17255.29
+Bitkub,stellar,119799.0
+Bitkub,fantom,56431.0
+Bitkub,ethereum-name-service,60108.0
+Bitkub,1inch,28940.0
+Bitkub,ankr,106501.0
+Bitkub,everid,177142.0
+Bitkub,moonriver,54633.0
+Bitkub,perpetual-protocol,48043.0
+Bitkub,arcblock,253568.0
+Bitkub,cosmos,9843.37
+Bitkub,0x,60273.0
+Bitkub,pepe-of-wallstreet,74436.0
+Bitkub,band-protocol,37738.0
+Bitkub,iostoken,483992.0
+Bitkub,chiliz,72933.0
+Bitkub,joe,26777.0
+Bitkub,balancer,4259.6
+Bitkub,kusama,31206.0
+Bitkub,kyber-network-crystal,11047.98
+Bitkub,sentinel-bot-ai,72991.0
+Bitkub,celo,12777.78
+Bitkub,hedera-hashgraph,10641.81
+Bitkub,stargate-finance,8607.06
+Bitkub,compound-governance-token,18937.17
+Bitkub,velo,786995.0
+Bitkub,flow,5018.8
+Bitkub,render-token,39719.0
+Bitkub,guildfi,469753.0
+Bitkub,blur,30767.0
+Bitkub,tezos,19554.77
+Bitkub,six-network,148955.0
+Bitkub,aave,16816.22
+Bitkub,injective-protocol,27545.0
+Bitkub,secret,38997.0
+Bitkub,galatasaray-fan-token,71302.0
+Bitkub,frax-share,269.17
+Bitkub,civic,167844.0
+Bitkub,enjincoin,4951.06
+Bitkub,moonbeam,25223.0
+Bitkub,cyberconnect,9396.63
+Bitkub,woo-network,17941.95
+Bitkub,loopring,4371.53
+Bitkub,illuvium,13368.24
+Bitkub,basic-attention-token,13958.31
+Bitkub,flux,5628.44
+Bitkub,yearn-finance,24374.0
+Bitkub,jfin-coin,258437.0
+Bitkub,lukso-token,12454.82
+Bitkub,gmx,14386.59
+Bitkub,gnosis,4606.62
+Bitkub,havven,24577.0
+Bitkub,axie-infinity,18701.75
+Bitkub,plearn,149517.0
+Bitkub,uma,24575.0
+Bitkub,api3,5069.72
+Bitkub,arbitrum-bridged-usdt-arbitrum,17509631.0
+Bitkub,unicorn-token,36911.0
+Bitkub,bitkub-coin,839837.0
+Bitkub,quant-network,4398.81
+Bullish,batcat,1197002718.0
+Bullish,arbitrum-bridged-usdt-arbitrum,31767669.0
+Bullish,bridged-binance-peg-ethereum-opbnb,548573049.0
+Bullish,paypal-usd,2633034.0
+Bullish,binance-peg-xrp,54016702.0
+Bullish,tron,1342907.0
+Bullish,binance-peg-litecoin,5857860.0
+Bullish,avalanche-2,5821068.0
+Bullish,unicorn-token,4052360.0
+Bullish,aave,3604525.0
+Bullish,bridged-matic-manta-pacific,4313262.0
+Bullish,chiliz,2004708.0
+Bullish,sushi,1524582.0
+Bullish,ether-fi,986236.0
+Bullish,decentraland,2146418.0
+Bullish,san-diego-coin,1951330.0
+Bullish,gala,641772.0
+Bullish,binance-peg-dogecoin,5613527.0
+Bullish,bridged-curve-dao-token-stargate,1554424.0
+Bullish,chainlink,4380886.0
+Bullish,the-graph,1246630.0
+Bullish,loopring,1040853.0
+Bullish,binance-peg-eos,3594135.0
+Independent Reserve,bridged-binance-peg-ethereum-opbnb,1033111.0
+Independent Reserve,arbitrum-bridged-usdt-arbitrum,1027881.0
+Independent Reserve,binance-peg-xrp,10835261.0
+Independent Reserve,beam-bridged-usdc-beam,371003.0
+Independent Reserve,solana,660775.0
+Independent Reserve,ada-the-dog,33209.490000000005
+Independent Reserve,binance-peg-litecoin,51862.65
+Independent Reserve,binance-peg-dogecoin,105542.0
+Independent Reserve,chainlink,55162.48
+Independent Reserve,ethereum-classic,11635.56
+Independent Reserve,binance-peg-bitcoin-cash,99376.0
+Independent Reserve,stellar,8899.579999999998
+Independent Reserve,bridged-matic-manta-pacific,6192.27
+Independent Reserve,xbit,6908920.0
+Independent Reserve,aave,10788.2
+Independent Reserve,unicorn-token,3167.59
+Independent Reserve,binance-peg-eos,339.13
+Independent Reserve,yearn-finance,1788.65
+Independent Reserve,binance-peg-polkadot,4846.18
+Independent Reserve,basic-attention-token,167.29
+Independent Reserve,the-graph,522.24
+Independent Reserve,san-diego-coin,363.97
+Independent Reserve,maker,437.68
+Independent Reserve,havven,630.16
+Independent Reserve,decentraland,101.19
+Independent Reserve,0x,269.34000000000003
+Bitazza,batcat,1067108.0
+Bitazza,binancecoin,284690.0
+Bitazza,niccagewaluigielmo42069inu,188930.0
+Bitazza,bridged-binance-peg-ethereum-opbnb,554707.0
+Bitazza,arbitrum-bridged-usdt-arbitrum,3712662.0
+Bitazza,avalanche-2,274604.49
+Bitazza,solana,324597.0
+Bitazza,maker,289919.33
+Bitazza,the-graph,263699.3
+Bitazza,runebound,286940.59
+Bitazza,stellar,264400.55
+Bitazza,ada-the-dog,260540.0
+Bitazza,bridged-matic-manta-pacific,295406.58
+Bitazza,beam-bridged-usdc-beam,256986.0
+Bitazza,binance-peg-dogecoin,395179.0
+Bitazza,near,329909.0
+Bitazza,gala,291720.0
+Bitazza,chainlink,426237.0
+Bitazza,fantom,293040.92
+Bitazza,binance-peg-xrp,298883.0
+Bitazza,binance-peg-polkadot,288893.07
+Bitazza,hedera-hashgraph,276907.32
+Bitazza,vechain,291160.75
+Bitazza,pax-gold,262611.0
+Bitazza,unicorn-token,265924.05
+Bitazza,aavegotchi-alpha,287690.83
+Bitazza,cosmos,281274.83
+Bitazza,havven,301408.09
+Bitazza,band-protocol,286717.74
+Bitazza,sushi,274397.5
+Bitazza,aave,274400.39
+Bitazza,san-diego-coin,296355.86
+Bitazza,algorand,279798.45
+Bitazza,decentraland,281738.22
+Bitazza,coin98,284362.57
+Bitazza,pancakeswap-token,276057.26
+Bitazza,slp,263881.17
+Bitazza,axie-infinity,276744.95
+Bitazza,convex-finance,273875.02
+Bitazza,enjincoin,283536.49
+Bitazza,ape-2,263633.63
+Bitazza,yearn-finance,284257.13
+Bitazza,compound-governance-token,281132.51
+Bitazza,bridged-curve-dao-token-stargate,277912.07
+Bitazza,balancer,260473.08
+Bitazza,wrapped-nxm,288924.29
+Bitazza,raydium,308652.46
+Bitazza,1inch,276750.27
+Bitazza,fuse-network-token,285871.13
+Bitazza,immutable-x,285757.63
+Bitazza,velo,346218.0
+Bitazza,republic-protocol,276209.2
+Bitazza,bitazza,306328.0
+Bitazza,bridged-dai-stablecoin-linea,2443.5
+Korbit,pay-coin,8933584.0
+Korbit,medibloc,2362.67
+Korbit,nucypher,575.59
+Korbit,thetadrop,334.54
+Korbit,osmosis,391.33
+Korbit,binance-peg-xrp,2775541.0
+Korbit,batcat,5609811.0
+Korbit,bridged-binance-peg-ethereum-opbnb,1765974.0
+Korbit,ethereum-classic,174870.0
+Korbit,qtum,24411.0
+Korbit,binance-peg-bitcoin-cash,371704.0
+Korbit,bridged-dai-stablecoin-linea,22.72
+Korbit,beam-bridged-usdc-beam,32013.0
+Korbit,near,7812.68
+Korbit,vechain,42691.0
+Korbit,binance-peg-eos,13442.41
+Korbit,wemix-token,137930.0
+Korbit,worldcoin-wld,150347.0
+Korbit,sui,30427.0
+Korbit,chainlink,6951.24
+Korbit,stellar,8767.08
+Korbit,runebound,276.82
+Korbit,xpla,13556.27
+Korbit,basic-attention-token,72.06
+Korbit,fetch-ai,9217.33
+Korbit,bridged-matic-manta-pacific,17100.84
+Korbit,mina-protocol,3840.44
+Korbit,bitcoin-cash-sv,14646.59
+Korbit,theta-token,279.6
+Korbit,ocean-protocol,2914.62
+Korbit,wax,520.31
+Korbit,auction,1242.23
+Korbit,optimism,5272.08
+Korbit,maker,4415.16
+Korbit,sushi,55.09
+Korbit,zilliqa,3458.09
+Korbit,loopring,396.77
+Korbit,pyth-network,5806.64
+Korbit,ecash,16005.18
+Korbit,rocket-pool,147.96
+Korbit,songbird,3811.67
+Korbit,wrapped-axelar,4944.07
+Korbit,maple,6386.81
+Korbit,oasys,3431.93
+Korbit,rally-2,619.82
+Korbit,pocket-network,1962.5
+Korbit,numeraire,963.26
+Korbit,aergo,510.59
+Korbit,index-cooperative,860.47
+Korbit,synapse-2,379.07
+Korbit,rarible,129.17
+Korbit,storj,509.28
+Korbit,gmx,4.87
+Korbit,first-digital-usd,96.72
+Korbit,uma,29.07
+Korbit,perpetual-protocol,39.25
+bitcastle,batcat,5395442.0
+bitcastle,bridged-binance-peg-ethereum-opbnb,2703550.0
+bitcastle,solana,56663846.0
+bitcastle,beam-bridged-usdc-beam,58525019.0
+bitcastle,binancecoin,15478686.0
+bitcastle,binance-peg-dogecoin,14116308.0
+bitcastle,binance-peg-bitcoin-cash,1433871.0
+bitcastle,jasmycoin,580337.0
+bitcastle,tron,1974204.0
+bitcastle,render-token,5198668.0
+bitcastle,near,1397334.0
+bitcastle,binance-peg-xrp,554299.0
+bitcastle,the-open-network,945128.0
+bitcastle,worldcoin-wld,6693292.0
+bitcastle,arkham,793670.0
+bitcastle,blur,1703481.0
+bitcastle,binance-peg-litecoin,837036.0
+bitcastle,fantom,1200902.0
+bitcastle,vechain,636456.0
+bitcastle,sui,5343594.0
+bitcastle,maker,3031028.0
+bitcastle,binance-peg-filecoin,688110.0
+bitcastle,avalanche-2,598017.0
+bitcastle,ada-the-dog,3645968.0
+bitcastle,chainlink,412248.0
+bitcastle,hifi-finance,185740.0
+bitcastle,injective-protocol,1966400.0
+bitcastle,beamx,388417.0
+bitcastle,meme-brc-20,567543.0
+bitcastle,bridged-matic-manta-pacific,69868.0
+bitcastle,immutable-x,1797597.0
+bitcastle,trust-wallet-token,1034538.0
+bitcastle,san-diego-coin,194096.0
+bitcastle,decentraland,91024.0
+bitcastle,cyberconnect,181398.0
+bitcastle,ethereum-classic,1011579.0
+bitcastle,enjincoin,388146.0
+bitcastle,frontier-token,467411.0
+bitcastle,cosmos,239628.0
+bitcastle,mask-network,214831.0
+bitcastle,lido-dao,39167.0
+bitcastle,1inch,393328.0
+bitcastle,havven,103987.0
+bitcastle,woo-network,101756.0
+bitcastle,elrond-erd-2,105820.0
+bitcastle,holotoken,317321.0
+bitcastle,loopring,261140.0
+bitcastle,tezos,440273.0
+bitcastle,osmosis,171037.0
+bitcastle,the-graph,280641.0
+bitcastle,ethereum-name-service,272731.0
+bitcastle,tellor,250420.0
+bitcastle,zilliqa,195119.0
+bitcastle,rocket-pool,710053.0
+bitcastle,binance-peg-polkadot,1410111.0
+bitcastle,convex-finance,128565.0
+bitcastle,quant-network,857641.0
+bitcastle,basic-attention-token,243439.0
+bitcastle,unicorn-token,231885.47
+bitcastle,pancakeswap-token,682625.0
+bitcastle,sushi,91394.0
+bitcastle,aave,440590.0
+bitcastle,chiliz,327892.0
+bitcastle,omisego,683882.0
+bitcastle,nexo,315872.0
+bitcastle,flow,167105.0
+bitcastle,binance-peg-eos,139751.0
+bitcastle,ape-2,148993.0
+bitcastle,axie-infinity,152750.0
+bitcastle,compound-governance-token,211004.0
+bitcastle,bridged-curve-dao-token-stargate,208094.0
+bitcastle,niccagewaluigielmo42069inu,918039.0
+bitcastle,newpepe,12728362.0
+bitcastle,bitcastle,50990.0
+bitcastle,giant-mammoth,4190.46
+bitcastle,adamant-messenger,83014.0
+Slex,slex,1741073.0
+Slex,batcat,2825643.0
+Slex,pendle,91444.0
+Slex,binance-peg-litecoin,339886.0
+Slex,chainlink,1075230.0
+Slex,bridged-binance-peg-ethereum-opbnb,3126683.0
+Slex,tron,788368.0
+Slex,fetch-ai,143476.0
+Slex,binance-peg-dogecoin,1232257.0
+Slex,arbitrum-bridged-usdt-arbitrum,162507.0
+Slex,bridged-matic-manta-pacific,567580.0
+Slex,1inch,197514.0
+Slex,arbitrum,377546.0
+Slex,binancecoin,1581666.0
+Slex,beam-bridged-usdc-beam,335379.0
+Slex,binance-peg-filecoin,161816.0
+Slex,san-diego-coin,76311.0
+Slex,immutable-x,128024.0
+Slex,bridged-curve-dao-token-stargate,161187.0
+Slex,zcash,363955.0
+Slex,gala,109966.0
+Slex,dydx-chain,167841.0
+Slex,niccagewaluigielmo42069inu,150255.0
+Slex,blur,64310.0
+Slex,beam,97597.0
+Slex,meme-brc-20,36548.0
+Slex,amp-token,402284.0
+Slex,syscoin,43840.0
+Slex,injective-protocol,180676.0
+Slex,havven,38519.0
+Slex,newpepe,333458.0
+Slex,peercoin,847.07
+Slex,lanacoin,0.04043783
+Slex,chain-2,8.55
+Nominex,binancecoin,509892.0
+Nominex,solana,2238455.18
+Nominex,binance-peg-xrp,452057.0
+Nominex,bridged-binance-peg-ethereum-opbnb,2824749.17
+Nominex,batcat,4611080.0
+Nominex,avalanche-2,166530.15
+Nominex,binance-peg-filecoin,154056.0
+Nominex,near,184005.0
+Nominex,fetch-ai,168015.0
+Nominex,bridged-matic-manta-pacific,102057.0
+Nominex,chainlink,136269.0
+Nominex,binance-peg-bitcoin-cash,173237.0
+Nominex,binance-peg-polkadot,97101.0
+Nominex,runebound,187958.0
+Nominex,render-token,157700.0
+Nominex,unicorn-token,67044.0
+Nominex,pancakeswap-token,28178.0
+Nominex,luna-wormhole,20811.0
+Nominex,floki,98886.0
+Nominex,livepeer,18031.3
+Nominex,singularitynet,45812.0
+Nominex,maker,57106.0
+Nominex,arweave,35695.0
+Nominex,0x,5597.96
+Nominex,reserve-rights-token,18847.52
+Nominex,mina-protocol,18911.29
+Nominex,enjincoin,7132.72
+Nominex,beamx,33790.0
+Nominex,trust-wallet-token,7748.26
+Nominex,kyber-network-crystal,4026.77
+Nominex,vanar-chain,12748.2
+Nominex,flash-technologies,2522.69
+Nominex,nervos-network,81655.0
+Nominex,ada-the-dog,165793.44
+Nominex,dodo,6535.52
+Nominex,holotoken,9543.51
+Nominex,vulcan-forged,1620.17
+Nominex,shark-cat,11386.8
+Nominex,amp-token,11467.75
+Nominex,terrausd,6399.46
+Nominex,omisego,3662.45
+Nominex,stratis,7306.18
+Nominex,clevernode,1144.44
+Nominex,theta-token,12.87
+Nominex,bridged-wrapped-bitcoin-manta-pacific,71414.0
+Nominex,beam-bridged-usdc-beam,1766063.0
+Nominex,wrapped-beacon-eth,2039.27
+Nominex,paxos-standard,1080.39
+Nominex,bridged-trueusd,5681.19
+Nominex,arbitrum-bridged-usdt-arbitrum,260718.0
+Nominex,binance-peg-litecoin,111085.0
+Nominex,optimism,120833.0
+Nominex,fantom,137301.0
+Nominex,sui,108336.16
+Nominex,gala,90245.0
+Nominex,terra-luna-2,21405.0
+Nominex,ethereum-classic,120023.0
+Nominex,injective-protocol,91525.0
+Nominex,1000sats-ordinals,42262.0
+Nominex,binance-peg-eos,17269.49
+Nominex,san-diego-coin,39412.0
+Nominex,mask-network,12394.69
+Nominex,the-graph,60647.0
+Nominex,conflux-token,46485.0
+Nominex,bridged-curve-dao-token-stargate,20465.0
+Nominex,dydx-chain,33482.0
+Nominex,arpa,11884.41
+Nominex,chiliz,28852.0
+Nominex,cosmos,52579.0
+Nominex,tron,121311.0
+Nominex,decentraland,14396.64
+Nominex,jasmycoin,45713.0
+Nominex,yield-guild-games,63417.0
+Nominex,elrond-erd-2,15949.56
+Nominex,internet-computer,76390.0
+Nominex,storj,2934.1
+Nominex,playground-waves-floor-index,10616.93
+Nominex,kava,14545.99
+Nominex,algorand,19430.44
+Nominex,blockstack,42100.0
+Nominex,qtum,9921.43
+Nominex,axie-infinity,15373.38
+Nominex,compound-governance-token,12794.06
+Nominex,skale,14847.15
+Nominex,aelf,1162.2
+Nominex,oasis-network,15670.83
+Nominex,ankr,19893.14
+Nominex,zilliqa,11956.85
+Kanga,arbitrum-bridged-usdt-arbitrum,4799506.41
+Kanga,batcat,5631604.0
+Kanga,bridged-binance-peg-ethereum-opbnb,3614704.0
+Kanga,binance-peg-litecoin,150878.0
+Kanga,ethereum-classic,85008.0
+Kanga,binancecoin,298490.92
+Kanga,bridged-matic-manta-pacific,33210.74
+Kanga,worldcoin-wld,88056.0
+Kanga,blur,34643.0
+Kanga,havven,22778.0
+Kanga,chainlink,62651.04
+Kanga,unicorn-token,42298.0
+Kanga,lido-dao,7010.46
+Kanga,quant-network,8029.91
+Kanga,aave,13275.58
+Kanga,floki,9165.35
+Kanga,algorand,51354.55
+Kanga,the-graph,15601.5
+Kanga,mask-network,10288.45
+Kanga,san-diego-coin,3294.92
+Kanga,1inch,7196.57
+Kanga,immutable-x,12376.71
+Kanga,decentraland,3538.67
+Kanga,dydx-chain,10686.42
+Kanga,ocean-protocol,23019.0
+Kanga,jasmycoin,17552.58
+Kanga,yield-guild-games,10712.85
+Kanga,sushi,5867.17
+Kanga,arbitrum,41188.67
+Kanga,render-token,21968.0
+Kanga,chiliz,72387.0
+Kanga,band-protocol,7261.17
+Kanga,maker,4516.47
+Kanga,kanga-exchange,138787.0
+Kanga,adventure-gold,2613.66
+Kanga,basic-attention-token,21881.0
+Kanga,loopring,7895.94
+Kanga,radiant-capital,4479.74
+Kanga,ipulse,6579.4400000000005
+Kanga,axie-infinity,4272.88
+Kanga,game-fantasy-token,3990.74
+Kanga,gmx,5642.71
+Kanga,slp,3016.42
+Kanga,radio-caca,7509.24
+Kanga,ape-2,11415.76
+Kanga,gods-unchained,2049.37
+Kanga,illuvium,16139.72
+Kanga,verasity,3809.1
+Kanga,kommunitas,4411.5
+Kanga,bone-shibaswap,3821.27
+Kanga,celer-network,4344.78
+Kanga,republic-protocol,3040.54
+Kanga,dao-maker,4933.69
+Kanga,sweatcoin,1884.73
+Kanga,looksrare,3813.22
+Kanga,bitci-blok,1248.04
+Kanga,covalent,2408.23
+Kanga,ceek,3254.75
+Kanga,iguverse-igu,1153.05
+Kanga,goal-token,2550.24
+Kanga,vela-token,1264.75
+Kanga,niccagewaluigielmo42069inu,12206.77
+Kanga,newpepe,42097.0
+Kanga,dash,63547.0
+Kanga,deapcoin,3415.14
+Kanga,creo-engine,20235.0
+Kanga,market-making-pro,15211.36
+Kanga,gala,12372.93
+Kanga,mt-token,2340.42
+Kanga,livepeer,6482.56
+Kanga,bridged-curve-dao-token-stargate,11055.13
+Kanga,tamadoge,6716.11
+Kanga,ravencoin-classic,112.76
+Kanga,fame-mma,67.5
+Kanga,velo,32447.0
+Kanga,beam-bridged-usdc-beam,397075.0
+BTCMarkets,batcat,4753908.99
+BTCMarkets,bridged-binance-peg-ethereum-opbnb,992835.25
+BTCMarkets,binance-peg-xrp,2940589.05
+BTCMarkets,arbitrum-bridged-usdt-arbitrum,665721.0
+BTCMarkets,binance-peg-litecoin,39367.67
+BTCMarkets,solana,478332.0
+BTCMarkets,avalanche-2,19810.73
+BTCMarkets,binance-peg-bitcoin-cash,8792.86
+BTCMarkets,power-ledger,5486.84
+BTCMarkets,stellar,4049.45
+BTCMarkets,beam-bridged-usdc-beam,58056.0
+BTCMarkets,binance-peg-polkadot,13213.28
+BTCMarkets,basic-attention-token,9.73
+BTCMarkets,axie-infinity,7434.2
+BTCMarkets,unicorn-token,472.96
+BTCMarkets,chainlink,33783.0
+BTCMarkets,sui,26967.0
+BTCMarkets,enjincoin,1348.59
+BTCMarkets,ada-the-dog,12705.79
+BTCMarkets,algorand,2732.4
+BTCMarkets,flare-networks,725.53
+BTCMarkets,genit-chain,171.1
+BTCMarkets,omisego,5353.75
+BTCMarkets,aave,869.77
+BTCMarkets,compound-governance-token,21.24
+BTCMarkets,meld-gold,38.98
+BTCMarkets,ethereum-classic,899.33
+BTCMarkets,bitcoin-cash-sv,6.25
+BTCMarkets,decentraland,64.17
+BTCMarkets,san-diego-coin,63.74
+CEX.IO,arbitrum-bridged-usdt-arbitrum,2626711.0
+CEX.IO,bridged-trueusd,1338.46
+CEX.IO,solana,94420.92
+CEX.IO,batcat,551301.0
+CEX.IO,bridged-binance-peg-ethereum-opbnb,330330.0
+CEX.IO,binance-peg-filecoin,85083.75
+CEX.IO,tron,32303.0
+CEX.IO,internet-computer,23792.0
+CEX.IO,unicorn-token,44458.27
+CEX.IO,ocean-protocol,24253.0
+CEX.IO,dydx-chain,64105.0
+CEX.IO,binance-peg-bitcoin-cash,90009.65000000001
+CEX.IO,liquity,617.46
+CEX.IO,jasmycoin,42250.0
+CEX.IO,mina-protocol,71086.0
+CEX.IO,bella-protocol,27084.18
+CEX.IO,xdce-crowd-sale,48741.0
+CEX.IO,bridged-wrapped-bitcoin-manta-pacific,25645.66
+CEX.IO,ondo-finance,5530.07
+CEX.IO,gmx,43272.34
+CEX.IO,dogwifcoin,19967.06
+CEX.IO,gnosis,5500.06
+CEX.IO,farmbot,3100.74
+CEX.IO,rarible,8944.1
+CEX.IO,aragon,39022.12
+CEX.IO,songbird,1924.01
+CEX.IO,yfii-finance,1349.29
+CEX.IO,keep-finance,453.42
+CEX.IO,beam-bridged-usdc-beam,422369.02
+CEX.IO,avalanche-2,16459.87
+CEX.IO,binance-peg-xrp,27703.0
+CEX.IO,binance-peg-dogecoin,12724.58
+CEX.IO,niccagewaluigielmo42069inu,23278.66
+CEX.IO,binance-peg-litecoin,35755.079999999994
+CEX.IO,bridged-dai-stablecoin-linea,232.62
+CEX.IO,ada-the-dog,11551.83
+CEX.IO,ape-2,5717.82
+CEX.IO,binance-peg-polkadot,5148.02
+CEX.IO,bridged-matic-manta-pacific,2803.33
+CEX.IO,binancecoin,16105.04
+CEX.IO,stellar,1851.85
+CEX.IO,injective-protocol,24399.0
+CEX.IO,maker,29.5
+CEX.IO,chainlink,7250.549999999999
+CEX.IO,the-graph,864.72
+CEX.IO,optimism,60.870000000000005
+CEX.IO,cosmos,2865.73
+CEX.IO,lido-dao,45.02
+CEX.IO,kava,21.13
+CEX.IO,neo,13145.25
+Foxbit,arbitrum-bridged-usdt-arbitrum,602198.0
+Foxbit,beam-bridged-usdc-beam,73164.04
+Foxbit,niccagewaluigielmo42069inu,28531.0
+Foxbit,aave,7922.02
+Foxbit,maker,4933.54
+Foxbit,near,16277.16
+Foxbit,slp,15767.06
+Foxbit,batcat,2290483.2
+Foxbit,decentraland,15116.48
+Foxbit,chiliz,4241.42
+Foxbit,unicorn-token,3896.6
+Foxbit,binance-peg-polkadot,7042.75
+Foxbit,bridged-dai-stablecoin-linea,1608.07
+Foxbit,fantom,4216.63
+Foxbit,axie-infinity,2589.11
+Foxbit,dogwifcoin,9614.31
+Foxbit,binance-peg-eos,613.23
+Foxbit,audius,309.11
+Foxbit,havven,1293.53
+Foxbit,bridged-binance-peg-ethereum-opbnb,584442.03
+Foxbit,illuvium,2438.76
+Foxbit,basic-attention-token,316.41
+Foxbit,0x,939.93
+Foxbit,sushi,425.59
+Foxbit,aavegotchi-alpha,316.46
+Foxbit,omisego,423.76
+Foxbit,quant-network,294.16
+Foxbit,binance-peg-xrp,44754.283
+Foxbit,amp-token,1210.36
+Foxbit,moss-carbon-credit,273.97
+Foxbit,solana,259413.0
+Foxbit,ada-the-dog,14224.34
+Foxbit,binance-peg-litecoin,13035.47
+Foxbit,chainlink,16809.81
+Foxbit,stellar,6483.95
+Foxbit,the-graph,1189.6
+Foxbit,kyber-network-crystal,248.01
+Foxbit,san-diego-coin,914.4
+Foxbit,bridged-curve-dao-token-stargate,275.16
+Foxbit,tezos,730.59
+Foxbit,yield-guild-games,512.57
+Foxbit,looksrare,6737.78
+Foxbit,bridged-matic-manta-pacific,33218.0
+Foxbit,compound-governance-token,338.8
+Foxbit,yearn-finance,4589.77
+Foxbit,storj,901.09
+Foxbit,dydx-chain,638.81
+Foxbit,okb,114.63
+Foxbit,bridged-trueusd,129.18
+Foxbit,nexo,1987.84
+Foxbit,alice-ai,144.73
+Coinlist,batcat,978524.0
+Coinlist,bridged-binance-peg-ethereum-opbnb,432822.68
+Coinlist,arbitrum-bridged-usdt-arbitrum,748654.0
+Coinlist,flow,60996.5
+Coinlist,avalanche-2,39472.0
+Coinlist,solana,337978.0
+Coinlist,braintrust,4241.26
+Coinlist,sui,130007.0
+Coinlist,tezos,7235.98
+Coinlist,mina-protocol,144654.0
+Coinlist,ocean-protocol,1469.3
+Coinlist,aave,3051.59
+Coinlist,chainlink,7421.75
+Coinlist,binance-peg-dogecoin,28509.15
+Coinlist,maker,6147.06
+Coinlist,agoric,15512.65
+Coinlist,masa-finance,70510.0
+Coinlist,casper-network,63550.0
+Coinlist,celo-dollar,22137.5
+Coinlist,biconomy,9817.69
+Coinlist,binance-peg-polkadot,19723.97
+Coinlist,cyberconnect,10644.66
+Coinlist,celo,15107.1
+Coinlist,oasis-network,52931.5
+Coinlist,internet-computer,5206.42
+Coinlist,neon,15790.97
+Coinlist,galatasaray-fan-token,13009.77
+Coinlist,binance-peg-filecoin,35253.83
+Coinlist,threshold-network-token,1970.63
+Coinlist,immutable-x,15788.66
+Coinlist,human-protocol,1255.84
+Coinlist,bridged-wrapped-bitcoin-manta-pacific,8821.78
+Coinlist,unicorn-token,18.498133
+Coinlist,compound-governance-token,68.56
+Coinlist,skale,45.69
+Coinlist,orchid-protocol,17.38
+Coinlist,chainflip,2306.98
+Coinlist,bridged-matic-manta-pacific,1908.53
+Coinlist,sail-2,153.1
+Coinlist,wrapped-axelar,5366.92
+Coinlist,ondo-finance,25658.0
+Coinlist,nym,1667.7
+Coinlist,clevernode,2365.95
+Coinlist,guild-of-guardians,10401.44
+Coinlist,gods-unchained,1608.27
+Coinlist,swarm-bzz,2111.2
+Coinlist,covalent,2570.67
+Coinlist,vega-2,3977.15
+Coinlist,bitscrunch-token,7615.77
+Coinlist,centrifuge,7442.2
+Coinlist,algorand,13553.91
+Coinlist,blockstack,403.48
+Coinlist,sei-network,186.31
+Kuna Exchange,bridged-binance-peg-ethereum-opbnb,155937.02
+Kuna Exchange,arbitrum-bridged-usdt-arbitrum,355880.0
+Kuna Exchange,batcat,1557981.0
+Kuna Exchange,binance-peg-xrp,52515.68
+Kuna Exchange,binance-peg-litecoin,71644.09
+Kuna Exchange,binance-peg-dogecoin,22684.17
+Kuna Exchange,tron,29006.59
+Kuna Exchange,binance-peg-bitcoin-cash,28903.45
+Kuna Exchange,beam-bridged-usdc-beam,1640.03
+Kuna Exchange,niccagewaluigielmo42069inu,19677.25
+Kuna Exchange,stellar,10732.16
+Kuna Exchange,binance-peg-eos,4730.86
+Kuna Exchange,everscale,75.23
+Kuna Exchange,zcash,1495.0
+Kuna Exchange,bridged-dai-stablecoin-linea,683.65
+Kuna Exchange,unicorn-token,3891.08
+Kuna Exchange,chainlink,4835.1900000000005
+Kuna Exchange,dash,364.41
+Kuna Exchange,ethereum-pow-iou,100.353518
+Emirex,batcat,921180.0
+Emirex,bridged-binance-peg-ethereum-opbnb,584209.0
+Emirex,solana,408590.0
+Emirex,tron,319391.0
+Emirex,binancecoin,169413.0
+Emirex,binance-peg-litecoin,95906.0
+Emirex,arbitrum-bridged-usdt-arbitrum,149765.75
+Emirex,bridged-matic-manta-pacific,144379.39
+Emirex,beam-bridged-usdc-beam,93406.0
+Emirex,binance-peg-xrp,112882.0
+Emirex,ada-the-dog,40743.0
+Emirex,binance-peg-dogecoin,122574.0
+Emirex,stellar,34476.0
+Emirex,binance-peg-bitcoin-cash,94678.18
+Emirex,algorand,47942.0
+Emirex,kinesis-gold,9949.89
+Emirex,nem,16121.82
+Emirex,fio-protocol,14620.09
+Emirex,liberland-lld,20507.0
+Emirex,kinesis-silver,8222.86
+Emirex,deracoin,44610.0
+Emirex,vnx-euro,6794.85
+Emirex,vnx-swiss-franc,1321.93
+Emirex,vnx-gold,4460.83
+Emirex,binance-peg-polkadot,130052.0
+Delta Exchange,solana,102171.0
+Delta Exchange,binance-peg-xrp,106252.0
+Delta Exchange,batcat,136438.0
+Delta Exchange,bridged-binance-peg-ethereum-opbnb,107141.0
+Delta Exchange,delta-exchange-token,0.10932
+OrangeX,bridged-binance-peg-ethereum-opbnb,525062389.0
+OrangeX,binance-peg-xrp,16122017.0
+OrangeX,batcat,2430012875.0
+OrangeX,bonk,2260536.0
+OrangeX,tron,12241856.0
+OrangeX,render-token,9703716.0
+OrangeX,binancecoin,4237066.0
+OrangeX,binance-peg-litecoin,5049190.0
+OrangeX,bridged-matic-manta-pacific,10074914.0
+OrangeX,binance-peg-dogecoin,75463098.0
+OrangeX,unicorn-token,2730660.0
+OrangeX,ordinals,7620925.0
+OrangeX,fantom,2346059.0
+OrangeX,cyberconnect,673359.0
+OrangeX,celestia,2687640.0
+OrangeX,ada-the-dog,8447622.0
+OrangeX,ethereum-name-service,2511502.0
+OrangeX,dogwifcoin,6758367.0
+OrangeX,avalanche-2,8089610.0
+OrangeX,ape-2,1541275.0
+OrangeX,immutable-x,1970443.0
+OrangeX,niccagewaluigielmo42069inu,13453674.0
+OrangeX,omni,7026129.0
+OrangeX,arbitrum,4984476.0
+OrangeX,the-graph,3150836.0
+OrangeX,gala,1893079.0
+OrangeX,hifi-finance,1351914.0
+OrangeX,pendle,3242600.0
+OrangeX,acent,675322.0
+OrangeX,cosmos,1059570.0
+OrangeX,woo-network,314351.0
+OrangeX,book-of-meme,8927109.0
+OrangeX,jito-governance-token,3175160.0
+OrangeX,joe,363972.0
+OrangeX,optimism,2751934.0
+OrangeX,moonbeam,343534.0
+OrangeX,worldcoin-wld,3688985.0
+OrangeX,lido-dao,1211771.0
+OrangeX,portal-2,451645.0
+OrangeX,ondo-finance,14755223.0
+OrangeX,apidae,6481539.0
+OrangeX,boba,4882852.0
+OrangeX,gmx,1913409.0
+OrangeX,metis-token,3383738.0
+OrangeX,kdag,86517.0
+OrangeX,angle-protocol,63694.0
+OrangeX,mask-network,421466.0
+OrangeX,magic,1228826.0
+OrangeX,meme-brc-20,1177123.0
+OrangeX,san-diego-coin,1184914.0
+OrangeX,pancakeswap-token,1161728.0
+OrangeX,decentraland,841705.0
+OrangeX,jasmycoin,2235734.0
+OrangeX,wen-3,1986605.0
+OrangeX,beam-bridged-usdc-beam,4529032.0
+OrangeX,ethena,6380153.0
+OrangeX,digital-asset-right-token,976303.0
+OrangeX,wemix-token,680193.0
+OrangeX,singularitynet,1700547.0
+OrangeX,raydium,823285.0
+OrangeX,cere-network,129183.0
+OrangeX,404-bakery,724768.0
+OrangeX,high,1021520.0
+OrangeX,talkado,37980.0
+OrangeX,mina-protocol,1108427.0
+OrangeX,flash-technologies,107219.0
+OrangeX,asmatch,35623.0
+OrangeX,bone-shibaswap,122998.0
+OrangeX,axie-infinity,1248862.0
+OrangeX,guild-of-guardians,1162720.0
+OrangeX,chiliz,1883596.0
+OrangeX,ethereum-pow-iou,1493026.0
+OrangeX,ether-fi,1662115.0
+OrangeX,orbs,575496.0
+OrangeX,pyth-network,521933.0
+OrangeX,binance-peg-iotex,1196631.0
+OrangeX,blur,521117.0
+OrangeX,smart-layer-network,54166.0
+OrangeX,balancer,267836.0
+OrangeX,centrifuge,60051.0
+OrangeX,big-time,330632.0
+OrangeX,cat-in-a-dogs-world,4302843.0
+OrangeX,luna-wormhole,1846733.0
+OrangeX,constitutiondao,676418.0
+OrangeX,liquity,1081068.0
+OrangeX,gods-unchained,272730.0
+OrangeX,orca,88489.0
+OrangeX,terra-luna-2,1120534.0
+OrangeX,helium,6326149.0
+OrangeX,terrausd,267811.0
+OrangeX,stargate-finance,683487.0
+OrangeX,beam,3173641.0
+OrangeX,tensor,431230.0
+OrangeX,wormhole,248434.0
+OrangeX,aevo-exchange,772120.0
+OrangeX,carry,38583.0
+OrangeX,radiant-capital,891103.0
+OrangeX,1inch,677171.0
+OrangeX,dovi,19448.38
+OrangeX,gari-network,55514.0
+CoinTR Pro,batcat,214300530.0
+CoinTR Pro,bridged-binance-peg-ethereum-opbnb,102084988.0
+CoinTR Pro,solana,60181084.0
+CoinTR Pro,near,1193499.05
+CoinTR Pro,binance-peg-eos,200013.18
+CoinTR Pro,binance-peg-litecoin,1206964.0
+CoinTR Pro,binance-peg-dogecoin,24558067.0
+CoinTR Pro,tron,9505811.0
+CoinTR Pro,binance-peg-xrp,28150836.0
+CoinTR Pro,binance-peg-bitcoin-cash,383148.0
+CoinTR Pro,binance-peg-polkadot,504196.76
+CoinTR Pro,dogwifcoin,17313484.0
+CoinTR Pro,cosmos,562678.3
+CoinTR Pro,ankr,173629.34
+CoinTR Pro,floki,125323.0
+CoinTR Pro,axie-infinity,131017.84
+CoinTR Pro,santos-fc-fan-token,139557.0
+CoinTR Pro,binance-peg-filecoin,479081.37
+CoinTR Pro,gala,744523.53
+CoinTR Pro,jasmycoin,250212.0
+CoinTR Pro,the-graph,140129.26
+CoinTR Pro,ada-the-dog,713588.0
+CoinTR Pro,binaryx,157488.0
+CoinTR Pro,binancecoin,39711244.0
+CoinTR Pro,arpa,59650.07
+CoinTR Pro,bridged-curve-dao-token-stargate,129788.0
+CoinTR Pro,arbitrum,1030418.0
+CoinTR Pro,unicorn-token,276730.0
+CoinTR Pro,chainlink,1678194.59
+CoinTR Pro,constitutiondao,73258.0
+CoinTR Pro,portal-2,304170.0
+CoinTR Pro,niccagewaluigielmo42069inu,671530.0
+CoinTR Pro,worldcoin-wld,798788.0
+CoinTR Pro,gmt-token,486858.6
+CoinTR Pro,san-diego-coin,422203.98
+CoinTR Pro,decentraland,112183.75
+CoinTR Pro,avalanche-2,1722658.0
+CoinTR Pro,newpepe,1352932.0
+CoinTR Pro,loopring,45055.02
+CoinTR Pro,beamx,319570.0
+CoinTR Pro,fantom,1071535.85
+CoinTR Pro,chiliz,91569.0
+CoinTR Pro,aave,251558.0
+CoinTR Pro,bridged-matic-manta-pacific,1291765.51
+CoinTR Pro,ethereum-classic,213301.31
+CoinTR Pro,iota,94661.0
+CoinTR Pro,havven,170130.0
+CoinTR Pro,spell-token,46464.76
+CoinTR Pro,dydx-chain,359164.0
+CoinTR Pro,stellar,111490.0
+CoinTR Pro,frax-share,192956.0
+CoinTR Pro,cartesi,43188.0
+CoinTR Pro,tellor,63257.0
+CoinTR Pro,flow,59298.0
+CoinTR Pro,vulcan-forged,28487.0
+CoinTR Pro,enjincoin,12655.87
+CoinTR Pro,ape-2,205197.72
+CoinTR Pro,stargate-finance,57423.0
+CoinTR Pro,ethereum-name-service,81483.52
+CoinTR Pro,injective-protocol,1331758.0
+CoinTR Pro,convex-finance,23924.0
+CoinTR Pro,wax,23307.0
+CoinTR Pro,galatasaray-fan-token,7764.13
+CoinTR Pro,cropto-hazelnut-token,25081.0
+CoinTR Pro,slp,3027.98
+CoinTR Pro,alien-worlds,4108.86
+CoinTR Pro,api3,1746.57
+CoinTR Pro,zilliqa,2777.29
+CoinTR Pro,harmony,2056.64
+CoinTR Pro,storj,1499.87
+CoinTR Pro,cropto-wheat-token,25771.0
+CoinTR Pro,h2o-dao,98299.0
+CoinTR Pro,roco-finance,51400.0
+AscendEX (BitMax),batcat,69719682.0
+AscendEX (BitMax),bridged-binance-peg-ethereum-opbnb,24309387.0
+AscendEX (BitMax),everid,142078.0
+AscendEX (BitMax),binance-peg-xrp,4694558.0
+AscendEX (BitMax),fetch-ai,876539.0
+AscendEX (BitMax),binancecoin,2592131.0
+AscendEX (BitMax),arbitrum-bridged-usdt-arbitrum,268850.0
+AscendEX (BitMax),solana,539513.0
+AscendEX (BitMax),binance-peg-litecoin,150945.0
+AscendEX (BitMax),binance-peg-bitcoin-cash,821146.0
+AscendEX (BitMax),mantra-dao,147912.0
+AscendEX (BitMax),chainlink,2462206.0
+AscendEX (BitMax),vechain,846027.0
+AscendEX (BitMax),the-graph,142019.0
+AscendEX (BitMax),tron,1203260.0
+AscendEX (BitMax),binance-peg-dogecoin,211490.0
+AscendEX (BitMax),worldcoin-wld,150431.0
+AscendEX (BitMax),ethereum-classic,537388.0
+AscendEX (BitMax),gamer-arena,1412425.0
+AscendEX (BitMax),kava,221561.0
+AscendEX (BitMax),nimiq-2,57771.0
+AscendEX (BitMax),fantom,354659.0
+AscendEX (BitMax),ada-the-dog,919915.0
+AscendEX (BitMax),cosmos,1221530.0
+AscendEX (BitMax),binance-peg-polkadot,890241.0
+AscendEX (BitMax),optimism,345064.0
+AscendEX (BitMax),1inch,433293.0
+AscendEX (BitMax),neo,985124.0
+AscendEX (BitMax),zilliqa,1042986.0
+AscendEX (BitMax),san-diego-coin,151674.0
+AscendEX (BitMax),frontier-token,279344.0
+AscendEX (BitMax),qtum,674679.0
+AscendEX (BitMax),elrond-erd-2,275220.0
+AscendEX (BitMax),aave,347563.0
+AscendEX (BitMax),injective-protocol,401405.0
+AscendEX (BitMax),binance-peg-ontology,986241.0
+AscendEX (BitMax),grok-3,64073.0
+AscendEX (BitMax),binance-peg-filecoin,386036.0
+AscendEX (BitMax),near,156878.0
+AscendEX (BitMax),unicorn-token,371661.0
+AscendEX (BitMax),arkham,117506.0
+AscendEX (BitMax),render-token,137598.0
+AscendEX (BitMax),binance-peg-eos,1003896.0
+AscendEX (BitMax),algorand,698556.0
+AscendEX (BitMax),arbitrum,141742.0
+AscendEX (BitMax),0x,988428.0
+AscendEX (BitMax),radix,136963.0
+AscendEX (BitMax),orion-protocol,137087.0
+AscendEX (BitMax),dash,239640.0
+AscendEX (BitMax),akash-network,193621.0
+AscendEX (BitMax),dusk-network,138539.0
+AscendEX (BitMax),zcash,656379.0
+AscendEX (BitMax),wasder,136300.0
+AscendEX (BitMax),woo-network,340255.0
+AscendEX (BitMax),xcad-network,287538.0
+AscendEX (BitMax),nem,904563.0
+AscendEX (BitMax),covalent,132444.0
+AscendEX (BitMax),ong,129646.0
+AscendEX (BitMax),immutable-x,143729.0
+AscendEX (BitMax),bridged-curve-dao-token-stargate,370592.0
+AscendEX (BitMax),nervos-network,20100.0
+AscendEX (BitMax),playground-waves-floor-index,142034.0
+AscendEX (BitMax),basic-attention-token,821537.0
+AscendEX (BitMax),jupiter,152606.0
+AscendEX (BitMax),ravencoin,15839.94
+AscendEX (BitMax),decentraland,128937.0
+AscendEX (BitMax),usdx,412836.0
+AscendEX (BitMax),maple,132646.0
+AscendEX (BitMax),eth3s,159529.0
+AscendEX (BitMax),ecash,140910.0
+AscendEX (BitMax),avalanche-2,139936.0
+AscendEX (BitMax),alchemy-pay,148145.0
+AscendEX (BitMax),safepal,135250.0
+AscendEX (BitMax),lto-network,360332.0
+AscendEX (BitMax),harmony,28267.0
+AscendEX (BitMax),casper-network,291083.0
+AscendEX (BitMax),pluton,150792.0
+AscendEX (BitMax),ankr,142045.0
+AscendEX (BitMax),sui,149827.0
+AscendEX (BitMax),bridged-matic-manta-pacific,505369.0
+AscendEX (BitMax),mask-network,141272.0
+AscendEX (BitMax),zyncoin-2,168308.0
+AscendEX (BitMax),metis-token,141845.0
+AscendEX (BitMax),galatasaray-fan-token,137542.0
+Coinstore,batcat,106250912.0
+Coinstore,bridged-binance-peg-ethereum-opbnb,98905216.0
+Coinstore,zetrix,1394350.0
+Coinstore,binancecoin,12252659.0
+Coinstore,binance-peg-dogecoin,12871621.0
+Coinstore,mantle,198051.0
+Coinstore,fasttoken,448605.0
+Coinstore,chainlink,5947857.0
+Coinstore,bridged-matic-manta-pacific,1329957.0
+Coinstore,ada-the-dog,8973119.0
+Coinstore,tron,4855409.0
+Coinstore,niccagewaluigielmo42069inu,1553957.0
+Coinstore,lolik-staked-ftn,1691737.0
+Coinstore,distracted-dudes,175408.0
+Coinstore,fantom,3927608.0
+Coinstore,binance-peg-xrp,3608937.0
+Coinstore,axie-infinity,367054.0
+Coinstore,carbify,26547.0
+Coinstore,dydx-chain,1448441.0
+Coinstore,levana-protocol,212985.0
+Coinstore,maker,2531631.0
+Coinstore,gala,875034.0
+Coinstore,chromaway,254144.0
+Coinstore,san-diego-coin,1444697.0
+Coinstore,coin98,456829.0
+Coinstore,decentraland,2695440.0
+Coinstore,gmt-token,1166432.0
+Coinstore,ubit,718194.0
+Coinstore,fimarkcoin-com,804470.0
+Coinstore,avalanche-2,1344137.0
+Coinstore,enjincoin,1370775.0
+Coinstore,aave,393019.0
+Coinstore,paynet-coin,904343.0
+Coinstore,basic-attention-token,290623.0
+Coinstore,havven,684685.0
+Coinstore,chiliz,517716.0
+Coinstore,telos,1022893.0
+Coinstore,adamant-messenger,174889.0
+Coinstore,dash,996439.0
+Coinstore,unicorn-token,361963.0
+Coinstore,hugewin,1526008.0
+Coinstore,livepeer,310971.0
+Coinstore,sushi,339910.0
+Coinstore,ape-2,364139.0
+Coinstore,algorand,497786.0
+Coinstore,loopring,356226.0
+Coinstore,xyo-network,111710.0
+Coinstore,absolute-sync-token,115303.0
+Coinstore,reserve-rights-token,163107.0
+Coinstore,pivx,183907.0
+Coinstore,ridotto,13806.98
+Coinstore,internet-computer,110393.0
+Coinstore,ozone-chain,64213.0
+Coinstore,biconomy,41066.0
+Coinstore,bridged-curve-dao-token-stargate,317066.0
+Coinstore,alice-ai,118772.0
+Coinstore,autumn,13210.06
+Coinstore,kyber-network-crystal,21432.0
+Coinstore,bidz-coin,67564.0
+Coinstore,pancakeswap-token,113198.0
+Coinstore,public-meme-token,114044.0
+Coinstore,blocx-2,44966.0
+Coinstore,bazaars,44150.0
+Coinstore,bitkub-coin,40902.0
+Coinstore,gala-music,49022.0
+Coinstore,astrafer,55192.0
+Coinstore,wombat,16092.22
+Coinstore,credefi,52330.0
+Coinstore,solidus-aitech,21416.0
+Coinstore,creo-engine,59566.0
+Coinstore,origintrail,22148.0
+Coinstore,dimitra,23386.0
+Coinstore,revoland,28779.0
+Coinstore,rambox,13538.89
+Coinstore,mackerel-2,32650.0
+Coinstore,adventure-gold,13288.94
+Coinstore,rowan-coin,10686.92
+Coinstore,roco-finance,27193.0
+Coinstore,eml-protocol,3416.14
+Coinstore,binance-peg-polkadot,13693005.0
+Coinstore,egoncoin,2582326.0
+Coinstore,reef,123106.0
+Coinstore,katana-inu,22223.0
+Coinstore,mybid,711345.0
+Coinstore,luca,497096.0
+Coinstore,liberland-lld,282943.0
+Coinstore,ageofgods,148716.0
+Coinstore,epicbots,551685.0
+Coinstore,hosky,104944.0
+Coinstore,winter,6281.24
+Coinstore,fxbox-io,20634.0
+Coinstore,reality-metaverse,95310.0
+Coinstore,bitscrunch-token,68240.0
+Coinstore,hello-labs,288466.0
+Coinstore,spring,7795.52
+Coinstore,summer,7041.33
+Coinstore,giant-mammoth,249411.0
+Coinstore,polkagold,83884.0
+WEEX,binancecoin,3155774.0
+WEEX,solana,3220882.0
+WEEX,binance-peg-xrp,2794391.0
+WEEX,batcat,92740968.0
+WEEX,bridged-binance-peg-ethereum-opbnb,43983773.0
+WEEX,render-token,702490.0
+WEEX,binance-peg-bitcoin-cash,1645733.0
+WEEX,binance-peg-dogecoin,1532387.0
+WEEX,niccagewaluigielmo42069inu,832753.0
+WEEX,arbitrum,681810.0
+WEEX,binance-peg-litecoin,768022.0
+WEEX,superciety,799377.0
+WEEX,bridged-matic-manta-pacific,1037351.0
+WEEX,tron,108808.0
+WEEX,fantom,297323.0
+WEEX,ada-the-dog,287626.0
+WEEX,chainlink,799689.0
+WEEX,chiliz,819772.0
+WEEX,ocean-protocol,310997.0
+WEEX,immutable-x,323815.0
+WEEX,floki,536163.0
+WEEX,flux,911998.0
+WEEX,ethereum-classic,51315.0
+WEEX,playground-waves-floor-index,529721.0
+WEEX,pendle,600745.0
+WEEX,binance-peg-filecoin,218198.0
+WEEX,arpa,17720.16
+WEEX,gala,12334.63
+WEEX,conflux-token,247134.0
+WEEX,dusk-network,749610.0
+WEEX,galatasaray-fan-token,581302.0
+WEEX,bluzelle,11180.62
+WEEX,decentraland,61399.0
+WEEX,everid,450036.0
+WEEX,singularitynet,338092.0
+WEEX,ondo-finance,649187.0
+WEEX,iexec-rlc,200407.0
+WEEX,alchemy-pay,7494.65
+WEEX,dydx-chain,6686.46
+WEEX,1inch,74954.0
+WEEX,newpepe,529685.0
+WEEX,aragon,729237.0
+WEEX,ssv-network,6914.01
+WEEX,momo-key,111738.0
+WEEX,unicorn-token,79460.0
+WEEX,lido-dao,5087.84
+WEEX,mask-network,22311.0
+WEEX,measurable-data-token,274856.0
+WEEX,san-diego-coin,40225.0
+WEEX,aave,132552.0
+WEEX,loopring,241996.0
+WEEX,constitutiondao,4501.63
+WEEX,livepeer,14011.5
+WEEX,stargate-finance,57117.0
+WEEX,digital-asset-right-token,61715.0
+WEEX,orion-protocol,444852.0
+WEEX,lina,208558.0
+WEEX,beta-finance,356935.0
+WEEX,enjincoin,20201.0
+WEEX,massive-protocol,68634.0
+WEEX,apidae,82178.0
+WEEX,blur,7075.15
+WEEX,metal,90257.0
+WEEX,biconomy,200410.0
+WEEX,frax-share,77425.0
+WEEX,adventure-gold,121118.0
+WEEX,injective-protocol,155573.0
+WEEX,hashflow,3964.61
+WEEX,compound-governance-token,100573.0
+WEEX,audius,108737.0
+WEEX,woo-network,5334.41
+WEEX,alchemix,371322.0
+WEEX,alice-ai,92436.0
+WEEX,numeraire,219808.0
+WEEX,basic-attention-token,4652.58
+WEEX,republic-protocol,706562.0
+WEEX,rad,109020.0
+WEEX,sushi,105152.0
+WEEX,lit,99156.0
+WEEX,quant-network,39823.0
+WEEX,nkn,91079.0
+WEEX,band-protocol,240937.0
+WEEX,liquity,65200.0
+WEEX,ape-2,43973.0
+WEEX,barnbridge,55910.0
+WEEX,badger-dao,6776.27
+WEEX,axie-infinity,83030.0
+WEEX,cocos-bcx,57486.0
+WEEX,omisego,69543.0
+WEEX,rocket-pool,25712.0
+WEEX,slerf,299388.0
+WEEX,stafi,372008.0
+WEEX,beam-bridged-usdc-beam,300354.0
+WEEX,optimism,10545.32
+WEEX,avalanche-2,22283.0
+WEEX,the-graph,6262.21
+WEEX,coin98,4702.62
+WEEX,havven,5361.02
+WEEX,auction,3647.37
+WEEX,bancor,368593.0
+C-Patex,bridged-binance-peg-ethereum-opbnb,37530555.0
+C-Patex,batcat,91946086.0
+C-Patex,avalanche-2,3551871.0
+C-Patex,beam-bridged-usdc-beam,1234964.0
+C-Patex,binancecoin,1903740.0
+C-Patex,solana,20377415.0
+C-Patex,chainlink,3674609.0
+C-Patex,binance-peg-litecoin,695748.0
+C-Patex,ada-the-dog,2578190.0
+C-Patex,binance-peg-xrp,3558793.0
+Coincheck,batcat,118977064.0
+Coincheck,lisk,14348.76
+Coincheck,ethereum-classic,1007.03
+Bit2Me,bridged-binance-peg-ethereum-opbnb,28198394.0
+Bit2Me,beam-bridged-usdc-beam,41143797.0
+Bit2Me,batcat,92873193.0
+Bit2Me,worldcoin-wld,15155387.0
+Bit2Me,binance-peg-dogecoin,9551452.0
+Bit2Me,hedera-hashgraph,4175483.0
+Bit2Me,binance-peg-litecoin,1464645.0
+Bit2Me,internet-computer,24735378.0
+Bit2Me,solana,18063560.0
+Bit2Me,binance-peg-xrp,4442290.0
+Bit2Me,tron,407191.0
+Bit2Me,tether-gold,296863.0
+Bit2Me,binance-peg-polkadot,1454977.0
+Bit2Me,ada-the-dog,3100960.0
+Bit2Me,avalanche-2,949408.0
+Bit2Me,bridged-matic-manta-pacific,474112.0
+Bit2Me,near,437803.0
+Bit2Me,cosmos,292687.0
+Bit2Me,casper-network,2815579.0
+Bit2Me,wrapped-axelar,104206.0
+Bit2Me,omni,22573189.0
+Bit2Me,unicorn-token,145058.0
+Bit2Me,aave,238876.0
+Bit2Me,ocean-protocol,360094.0
+Bit2Me,optimism,61751.0
+Bit2Me,apidae,86515.0
+Bit2Me,kusama,167880.0
+Bit2Me,tether-eurt,74002.0
+Bit2Me,algorand,209473.0
+Bit2Me,maker,77678.0
+Bit2Me,kava,63229.0
+Bit2Me,gmx,23850.0
+Bit2Me,mina-protocol,120156.0
+Bit2Me,0x,38960.0
+Bit2Me,quant-network,50547.0
+Bit2Me,flow,46474.0
+Bit2Me,orca,11043.4
+Bit2Me,loopring,10975.57
+Bit2Me,livepeer,19663.72
+Bit2Me,wemix-token,1376020.0
+Bit2Me,mask-network,927.39
+Bit2Me,yearn-finance,28411.0
+Bit2Me,looksrare,167400.0
+Bit2Me,dao-maker,1612711.0
+Bit2Me,moonriver,33831.0
+Bit2Me,nanomatic,63612.0
+Bit2Me,orchid-protocol,3428.5
+Bit2Me,numeraire,21524.0
+Bit2Me,lisk,10448.63
+Bit2Me,unibot,98157.0
+Bit2Me,bit2me,139597.0
+Bit2Me,origin-protocol,16442.6
+Bit2Me,celer-network,3099.96
+Bit2Me,rarible,31699.0
+Bit2Me,mango-markets,11690.59
+Bit2Me,rand,36.22
+Bit2Me,primal-b3099cd0-995a-4311-80d5-9c133153b38e,16235.55
+Bit2Me,kin,7311.5
+Bit2Me,kyber-network-crystal,5583.93
+Bit2Me,moonbeam,35348.0
+Bit2Me,rocket-pool,6779.14
+Bit2Me,juno-network,1844.89
+Bit2Me,kintsugi,3423.75
+Bit2Me,arbitrum-bridged-usdt-arbitrum,287024409.0
+Bit2Me,limewire-token,62189.0
+Bit2Me,games-for-a-living,41068.0
+Bit2Me,concordium,2721.53
+Bit2Me,boba,436.14
+Bit2Me,blocktrade-exchange,3.02
+BitDelta,batcat,63808725.0
+BitDelta,bridged-binance-peg-ethereum-opbnb,16873334.0
+BitDelta,near,339063.0
+BitDelta,cosmos,159786.0
+BitDelta,clfi,3291867.0
+BitDelta,binancecoin,574463.0
+BitDelta,arbitrum,271729.0
+BitDelta,tether-eurt,105885.0
+BitDelta,chainlink,120757.0
+BitDelta,tether-gold,142779.0
+BitDelta,bridged-matic-manta-pacific,218397.0
+BitDelta,tron,240887.0
+BitDelta,theta-token,377967.0
+BitDelta,pancakeswap-token,617886.0
+BitDelta,binance-peg-filecoin,252543.0
+BitDelta,binance-peg-polkadot,148826.0
+BitDelta,ether-fi,103917.0
+BitDelta,beam,406999.0
+BitDelta,havven,272310.0
+BitDelta,ada-the-dog,127617.0
+BitDelta,alice-ai,220022.0
+BitDelta,zilliqa,401242.0
+BitDelta,ethereum-classic,179700.0
+BitDelta,pendle,232687.0
+BitDelta,mask-network,292643.0
+BitDelta,compound-governance-token,212879.0
+BitDelta,portal-2,249850.0
+BitDelta,runebound,190095.0
+BitDelta,fantom,347333.0
+BitDelta,ocean-protocol,182333.0
+BitDelta,fetch-ai,271797.0
+BitDelta,lido-dao,276027.0
+BitDelta,illuvium,146333.0
+BitDelta,binance-peg-bitcoin-cash,225438.0
+BitDelta,nexo,200892.0
+BitDelta,woo-network,309171.0
+BitDelta,holotoken,158762.0
+BitDelta,dash,328894.0
+BitDelta,binance-peg-xrp,295890.0
+BitDelta,quant-network,319319.0
+BitDelta,bridged-curve-dao-token-stargate,212752.0
+BitDelta,ape-2,321145.0
+BitDelta,tezos,326419.0
+BitDelta,basic-attention-token,377426.0
+BitDelta,solana,525541.0
+BitDelta,iostoken,315962.0
+BitDelta,marlin,399367.0
+BitDelta,the-graph,129746.0
+BitDelta,rad,189111.0
+BitDelta,singularitynet,163329.0
+BitDelta,injective-protocol,213743.0
+BitDelta,loopring,93830.0
+BitDelta,aave,144594.0
+BitDelta,dogwifcoin,206268.0
+BitDelta,oasis-network,229228.0
+BitDelta,avalanche-2,203109.0
+BitDelta,san-diego-coin,159952.0
+BitDelta,binance-peg-litecoin,322444.0
+BitDelta,algorand,90909.0
+BitDelta,aavegotchi,282948.0
+BitDelta,binance-peg-iotex,114083.0
+BitDelta,high,458362.0
+BitDelta,1inch,287300.0
+BitDelta,axie-infinity,90301.0
+BitDelta,decentraland,89131.0
+BitDelta,momo-key,296764.0
+BitDelta,binance-peg-dogecoin,80921.0
+BitDelta,power-ledger,141220.0
+BitDelta,unicorn-token,86987.0
+BitDelta,skale,149162.0
+BitDelta,iota,178683.0
+BitDelta,hedera-hashgraph,119210.0
+BitDelta,gala,95638.0
+BitDelta,ziv4-labs,38095.0
+BitDelta,wink,246561.0
+BitDelta,newpepe,162629.0
+BitDelta,niccagewaluigielmo42069inu,141280.0
+Bitci TR,solana,4131017.0
+Bitci TR,batcat,11278386.0
+Bitci TR,binancecoin,840162.0
+Bitci TR,bridged-binance-peg-ethereum-opbnb,1846100.0
+Bitci TR,binance-peg-dogecoin,3262333.0
+Bitci TR,fetch-ai,770528.0
+Bitci TR,binance-peg-bitcoin-cash,1976246.0
+Bitci TR,havven,962107.0
+Bitci TR,render-token,927891.0
+Bitci TR,777,69215.0
+Bitci TR,chainlink,774222.0
+Bitci TR,zcash,963701.0
+Bitci TR,avalanche-2,781242.0
+Bitci TR,the-graph,1873724.0
+Bitci TR,ankr,556373.0
+Bitci TR,digibyte,1126002.0
+Bitci TR,tezos,662234.0
+Bitci TR,storj,523034.0
+Bitci TR,basic-attention-token,159119.0
+Bitci TR,binance-peg-eos,280069.0
+Bitci TR,decentraland,123189.0
+Bitci TR,cosmos,580599.0
+Bitci TR,ada-the-dog,520368.0
+Bitci TR,unicorn-token,262379.0
+Bitci TR,skale,209571.0
+Bitci TR,tether-eurt,685988.0
+Bitci TR,zilliqa,358806.0
+Bitci TR,dash,278952.0
+Bitci TR,san-diego-coin,235513.0
+Bitci TR,stellar,90989.0
+Bitci TR,holotoken,560308.0
+Bitci TR,chiliz,227384.0
+Bitci TR,enjincoin,284716.0
+Bitci TR,threshold-network-token,111985.0
+Bitci TR,spell-token,138866.0
+Bitci TR,alchemy-pay,58535.0
+Bitci TR,illuvium,172445.0
+Bitci TR,ape-2,26375.0
+Bitci TR,dodo,82634.0
+Bitci TR,edu-coin,346172.0
+Bitci TR,galatasaray-fan-token,90017.0
+Bitci TR,moonriver,26475.0
+Bitci TR,injective-protocol,50792.0
+Bitci TR,optimism,131393.0
+Bitci TR,audius,68585.0
+Bitci TR,drop,284300.0
+Bitci TR,pyth-network,140668.0
+Bitci TR,arkham,205858.0
+Bitci TR,dogwifcoin,71919.0
+Bitci TR,bitcicoin,203605.0
+Bitci TR,tenet-1b000f7b-59cb-4e06-89ce-d62b32d362b9,238407.0
+Bitci TR,uma,64040.0
+Bitci TR,extreme,35475.0
+Bitci TR,flamengo-fan-token,74150.0
+Bitci TR,algorand,16333.37
+Bitci TR,mask-network,19300.05
+Bitci TR,arbitrum,12367.19
+Bitci TR,binance-peg-xrp,29951.0
+Bitci TR,astro-2,34253.0
+Bitci TR,battleforten,28639.0
+Bitci TR,beat-2,9530.73
+Bitci TR,virtual-tourist,6920.37
+Bitci TR,fenerbahce-token,7473.1
+Bitci TR,karsiyaka-taraftar-token,4009.3
+Bitci TR,niccagewaluigielmo42069inu,2143727.0
+Bitci TR,floki,36772.0
+Bitci TR,mfet,134627.0
+Bitci TR,decentral-games-ice,63769.0
+Bitci TR,global-fan-token,73354.0
+Bitci TR,veriumreserve,9551.81
+Bitci TR,neuropulse-ai,12142.82
+Bitci TR,bittorrent,92499.85
+Bitci TR,firestarter,42874.0
+Bitci TR,alienb,21504.0
+Bitci TR,eskisehir-fan-token,3225.05
+Bitci TR,eco,25306.0
+Bitci TR,bursaspor-fan-token,10175.75
+Bitci TR,marmara-credit-loops,22582.0
+Bitci TR,coq-inu,15496.42
+Bitci TR,cagdas-bodrumspor-fan-token,12959.59
+Bitci TR,number-1-token,22285.0
+Bitci TR,crypto-holding-frank-token,17687.56
+Bitci TR,rangers-fan-token,30219.0
+Bitci TR,mxgp-fan-token,7527.7
+Bitci TR,inci-token,11065.38
+Bitci TR,baskonia-fan-token,15177.22
+Bitci TR,afyonspor-fan-token,3433.39
